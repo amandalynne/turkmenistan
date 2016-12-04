@@ -1,0 +1,68 @@
+1 Simien Mountains National Park 1 0.422 0.711
+	%d11 0/13 The Simien Mountain ##mountain %% one of the major highlands of Africa; fourth highest peak in the continent; one of the few spots in Africa where snow regularly falls
+	%d12 3/5 Simien Mountains National Park ##national park %% highest point in Ethiopia; home to a number of endangered species; Ethiopian wolf; walia ibex (a wild goat found nowhere else in the world); More than 50 species of birds; arguably the finest place to trek in Ethiopia
+	%d13 5/9 Trek in the Simien Mountains ##national park %% Unesco World Heritage site; Well worn trails; 3,500m high; enormous plateau defined by the movement of the locals and their flocks; Tekeze River; cattle, mules, donkeys, goats, sheep; gelada baboons
+	%d14 0/9 Simien Mountains National Park ##national park %% covers the Simien Mountains and includes Ras Dashan; home to a number of endangered species; More than 50 species of birds
+	%d15 0/9 The Simien Mountain National Park ##national park %% one of the major highlands of Africa; highest point in Ethiopia; snow and ice appear on the highest points and night temperatures often fall below zero; mountain grasslands; Walia Ibex; Simien fox
+2 Blue Nile Falls 0.8 0.6 0.7
+	%d11 0/13 The Blue Nile Falls ##waterfall %% on the Blue Nile River; known as Tis Abay in Amharic, meaning "smoking water"; on the upper course of the river about 30 km downstream from the town of Bahir Dar and Lake Tana
+	%d12 2/5 Blue Nile Falls ##waterfall %% picturesque waterfall on the Blue Nile river; isolate the ecology of Lake Tana from the rest of the Nile; isolation has played a role in the evolution of the endemic fauna of the lake; no Nile crocodiles; hippos
+	%d14 0/9 Blue Nile Falls ##waterfall %% on the Blue Nile river; isolate the ecology of Lake Tana from the ecology of the rest of the Nile; first stone bridge constructed in Ethiopia
+	%d15 0/9 The Blue Nile Falls (Tisisat Falls) ##waterfall %% River Nile; millions of gallons of water cascade over the cliff face; spectacular rainbows
+3 Lalibela 0.6 0.733 0.6665
+	%d11 0/13 Lalibela ##town %% incredible rock-hewn monolithic churches; one of Ethiopia's holiest cities; centre of pilgrimage for much of the country
+	%d12 1/5 Lalibela ##town %% churches carved from the living rock; built during the reign of Lalibela, namely during the 12th and 13th centuries; churches are also a significant engineering feat
+	%d13 3/9 Marvel at the stone churches of Lalibela ##town %% famous around the world; monolithic churches; Unesco-listed; church of St George, carved in the shape of a cross
+4 Sof Omar Cave 0.6 0.5 0.55
+	%d11 0/13 The Sof Omar Cave ##cave %% longest cave in Ethiopia; longest system of caves in Africa; most spectacular underground cave systems in the world; important Islamic Shrine; named after the saintly Sheikh Sof Omar; religious history that predates the arrival of the Muslims in Bale
+	%d14 0/9 Sof Omar Caves ##cave %% longest cave in Ethiopia; longest system of caves in Africa; sacred both to Islam and the local Oromo traditional religion; known for their many pillars
+	%d15 0/9 The Sof Omar Cave ##cave %% one of the most spectacular and extensive underground cave systems in the world; important Islamic Shrine; named after the saintly Sheikh Sof Omar; religious history that predates the arrival of the Muslims in Bale
+5 Awash National Park 0.6 0.5 0.55
+	%d11 0/13 Awash National Park ##national park %% interesting range of volcanic landscapes; Fentale Volcano; turquoise-blue pools of the natural hot springs
+	%d14 0/9 Awash National Park ##national park %% covers at least 756 square kilometers of acacia woodland and grassland; Addis Ababa - Dire Dawa highway; established in 1966
+	%d15 0/9 The Awash National Park ##national park %% one of the finest reserves in Ethiopia; Awash river; reserve of arid and semi-arid woodland and savannah, with riverain; Forty six species of animals; bird life is prolific; beautiful clear pools of the Filwoha hot springs
+6 Meet the locals in the Omo Valley 0.2 0.88 0.54
+	%d13 1/9 Meet the locals in the Omo Valley ##other %% remote enclave of the Great Rift Valley; forgotten corner of Africa; glimpse the continent as the early explorers found it; peopled by exotic tribes proud of their traditional lifestyles and ancient customs; Hamer bull-jumping ceremony
+7 Lake Tana 1 0.055 0.5275
+	%d11 0/13 The Blue Nile Falls (Tisisat Falls) ##waterfall %% River Nile; millions of gallons of water cascade over the cliff face; spectacular rainbows
+	%d12 5/5 Lake Tana ##lake %% source of the River Nile; largest lake in Ethiopia; formed by volcanic activity; a number of islands; ancient monasteries
+	%d13 8/9 Seek out the holy waters of Lake Tana ##lake %% Ethiopia’s largest lake; source of the Blue Nile; 20 centuries-old monasteries; distinctive, brightly coloured murals; impressive Tis Isat waterfall; good bird-watching excursions
+	%d14 0/9 Lake Tana ##lake  %% source of the Blue Nile; largest lake in Ethiopia; control weir where the lake discharges into the Blue Nile
+	%d15 0/9 Lake Tana ##lake %% largest lake in Ethiopia; source of the Blue Nile; 37 islands; fascinating churches and monastries; ideal place for birdwatchers
+8 Make fuss of drinking coffee 0.2 0.77 0.485
+	%d13 2/9 Make fuss of drinking coffee ##ceremony %% integral part of social and cultural life in Ethiopia; coffee ceremony
+9 The Rift Valley 0.4 0.5 0.45
+	%d11 0/13 The Rift Valley ##nature %% part of the famous East African Rift Valley; numerous hot springs; beautiful lakes; variety of wildlife; breathtaking plains; Swayne's hartebeest in the wild; standing stones of Tiya
+	%d15 0/9 The Rift Valley ##nature %% part of the famous East African Rift Valley; numerous hot springs, beautiful lakes and a variety of wildlife; chain of seven lakes; one of the most ideal areas for the development of international tourism in Ethiopia
+10 Mago National Park 0.4 0.5 0.45
+	%d14 0/9 Mago National Park ##national park %% divided by the Mago River; Tama Wildlife Reserve; Murle Controlled Hunting Area; rivers and riverine forest; wetlands; grasslands; scrub; rich diversity of ethnic groups
+	%d15 0/9 The Mago National Park ##national park %% relatively undeveloped for tourists; broad grasslands; herds of buffalo, giraffe, elephants and kudu; abundant bird life
+11 Cry wolf 0.2 0.55 0.375
+	%d13 4/9 Cry wolf ##nature %% Simien wolf of Ethiopia is one of the prettiest in the world; less than 500 left in the wild; too cold and inhospitable for locals to build homes; new lodge – and conservation program
+12 Bale Mountains National Park 0.2 0.5 0.35
+	%d11 0/13 Bale Mountains National Park ##national park %% largest area of Afro-Alpine habitat in Africa; numerous spectacular volcanic plugs; beautiful alpine lakes; rushing mountain streams
+13 Dallol and Mount Erta Ale 0.2 0.5 0.35
+	%d11 0/13 Dallol and Mount Erta Ale ##mountain %% resulted from faulting and cracking; volcanic exploration crater
+14 Gondar 0.2 0.5 0.35
+	%d11 0/13 The Castles of Gondar and other monuments (Gondar) ##historic site %% founded by Emperor Fasilidas in 1635; many medieval castles; design, decoration of its churches; Bathing Palace of Emperor Fasilidas
+15 Danakil Depression 0.2 0.5 0.35
+	%d11 0/13 Danakil Depression ##nature %% one of the hottest and driest areas on earth; average temperature of 35+ degrees Celsius; dotted with active volcanoes, hot springs, Lava Lake, salted basins and above all lunar landscapes
+16 Harar 0.2 0.5 0.35
+	%d11 0/13 Harar ##city %% oldest Islamic city in Africa; ancient buildings; impressive city walls; approximately 99 mosques
+17 Lake Assal 0.2 0.5 0.35
+	%d14 0/9 Lake Assal ##lake %% saline lake; lowest point on land in Africa; third lowest land depression on Earth; most saline in the world after Don Juan Pond; world's largest salt reserve; considered a "national treasure"
+18 Ras Dashen 0.2 0.5 0.35
+	%d14 0/9 Ras Dashen ##mountain %%  highest mountain in Ethiopia; tenth highest mountain of Africa; Part of Semien Mountains National Park; Ras Dashen is the eastern peak of the rim of "an enormous volcano
+19 Yangudi Rassa National Park 0.2 0.5 0.35
+	%d14 0/9 Yangudi Rassa National Park ##national park %% Sandy semi-desert and wooded grassland; between the territory of the Afars and the Issas; protect the African Wild Ass; Beisa Oryx, Soemmering's gazelle, gerenuk and Grevy's zebra
+20 Omo National Park 0.2 0.5 0.35
+	%d15 0/9 The Omo National Park ##national park %% One of the most beautiful national parks; bordered by the Omo river; amazing range of wildlife
+21 Gambala National Park 0.2 0.5 0.35
+	%d15 0/9 The Gambala National Park ##national park %% many interesting species of animals and birds; 813 species of birds, 596 residents and 224 regular seasonal migrants
+22 Axum 0.4 0.2 0.3
+	%d11 0/13 Axum historical and archaeological sites, central Tigray (Tigray Region) ##historic site %% known for its obelisks; once one of the four kingdoms of the world; home to the Queen of Sheba; ruined palace and bathing pool
+	%d12 4/5 Axum ##city %% obelisks; Northern Stelae Park; stelae are believed to mark graves; carved with architectural designs
+23 Make friends with Injera 0.2 0.22 0.21
+	%d13 7/9 Make friends with Injera ##other %% staple of Ethiopian cuisine; acquired taste; pancake-like bread; distinctive, almost bitter taste; served with dollops of tibs (strips of fried beef), doro (chicken stew) and piles of carrots and spinach cooked with garlic; most sociable way to eat in the world
+24 Sneak a peek at the Ark of the Covenant 0.2 0 0.1
+	%d13 9/9 Sneak a peek at the Ark of the Covenant ##church %% Church of our Lady Mary of Zion; 75 vertical memorial stones, or stelae, huge 2,000-year-old monuments to imperial power; Ark’s guardian, the only living man to have seen it

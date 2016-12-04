@@ -1,0 +1,198 @@
+1	Antananarivo	0.6	0.875	0.7375
+  %d2	1/8	Antananarivo	##city	%% capital and largest city; rich historical, architectural and cultural sites; 3 levels; Palaces; cathedrals
+
+  %d3	0/44	Rova of Antananarivo	##historic site	%% Historical royal quartal; 20 stone and wooden palaces; Queen's Palace
+
+  %d5	0/5	Queen's Palace at Antananarivo	##palace	%% Queen Ranavalona; in the 17th century.; "Wicked Queen"; "Bloody Mary of Madagascar"; largest of several buildings; burned down in 1995; several royal artifacts
+
+1	Nosy Be	0.8	0.675	0.7375
+  %d1	4/10	Nosy Be	##island	%% Madagascar&#8217;s premier tourist spots; tranquility; clear turquoise water; excellent seafood restaurants
+
+  %d2	2/8	Nosy Be	##resort	%% Madagascar's largest and busiest tourist resort; perfect beach resort destination; ideal for swimming
+
+  %d4	0/5	Nosy Be	##resort	%% Madagascar&#8217;s northwest coast,; 124 miles of coastline; nation&#8217;s top resort destination.; 11 volcanic lakes,; lemur-filled forests; and palm tree-lined beaches.; sugarcane fields; white sand beaches.; mountains Passot and Lokone,; snorkeling and diving.
+
+  %d5	0/5	Nosy Be Archipelago	##resort   %% Indian Ocean resort islands; 80 degrees F.; sugar-white beaches; world-renowned snorkeling; scuba diving.
+
+3	Ile Sainte Marie	0.4	0.9	0.65
+  %d1	1/10	Ile Sainte Marie	##island	%% island&#8217;s array of protected bays and inlets; wrecks of several pirate ships; top tourist attractions; snorkeling; Migrating humpback whales
+
+  %d4	0/5	Ile Sainte-Marie	##island	%% eastern coast of Madagascar.; 30 miles long; 4 miles wide; snorkel through the reef,; Ikalalao Forest; pirate Capt. William Kidd.
+
+4	Avenue of the Baobabs	0.6	0.4375	0.51875
+  %d1	5/10	Avenue of the Baobabs	##nature	%% group of trees; striking landscape; one of the most visited locations in the region; 800 years old; famous baobab trees
+
+  %d2	5/8	Avenue of the Baobabs	##nature	%% group of baobab trees; 260meter (853 ft) long stretch; striking landscape; local conservation efforts; Madagascar's first natural monument
+
+  %d3	0/44	Avenue of the Baobabs	##nature	%% 100 Madagascaran baobabs; up to 30 metres high baobabs; roughly 800 years old trees
+
+5	Tsingy de Bemaraha	0.6	0.35	0.475
+  %d1	3/10	Tsingy de Bemaraha	##nature reserve	%% Madagascar&#8217;s largest natural reserve; pinnacles; park&#8217;s limestone plateau; broad expanse of mangrove forest; home to seven lemur species
+
+  %d2	8/8	Tsingy de Bemaraha	##national park	%% Madagascar's newest parks; 152,000ha; tsingy sharp limestone pinnacles; canyons and gorges; 11 types of lemur
+
+  %d3	0/44	Great Tsingy de Bemaraha	##nature	%% Unique karst landscape; collapse of caves and caverns.; immense impression; karst formations,; caves,; natural brides,; tufa pseudoroofs.; 34 endemic species of reptiles.  
+
+6	Ranomafana National Park	0.6	0.3125	0.45625
+  %d1	10/10	Ranomafana National Park	##national park	%% nation&#8217;s most popular parks.; numerous streams; densely forested hills; home to the endangered golden bamboo lemur
+
+  %d2	3/8	Ranomafana National Park   ##national park	%% Madagascar's best know and most important parks; golden bamboo lemur; real wildlife experience
+
+  %d4	0/5	Parc National de Ranomafana	##national park	%% southeastern region of Madagascar,; more than 10,000 acres.; 4,500 feet.; cloud forests; lowland rain forests.; park&#8217;s thriving lemur population, 
+
+7	Royal Hill of Ambohimanga	0.6	0.3	0.45
+  %d1	7/10	Royal Hill of Ambohimanga	##historic site	%% country&#8217;s most sacred spots; 500 years; historical village; once home to Madagascar royalty; made in 1847; mortar made of lime and egg whites; former home of King Andrianampoinimerina; drums, weapons and talismans
+
+  %d3	0/44	Ambohimanga	##fort	%% Fortified royal settlement; royal burials; early 18th century.; palace made of rosewood
+
+  %d5	0/5	Royal Hill of Ambohimanga	##historic site	%% UNESCO World Heritage site; burial sites,; ancient city ruins; religious features; more than 500 years.; royal palace; 
+
+8	Isalo National Park	0.4	0.475	0.4375
+  %d1	2/10	Isalo National Park	##national park	%% varied terrain; grassland; steep canyons; sandstone formations; guides are required
+
+  %d2	6/8	Isalo National Park	##national park	%% Jurassic Park; Madagascar's most stunning scenery; ruiniform sandstone formations; deep canyons with riparian forests; palm-lined oases; fire-resistant tapia forests; open grasslands; ring-tailed lemurs and white sifakas; sacred place for the Bara tribe
+
+9	Andasibe National Park	0.6	0.1625	0.38125
+  %d1	8/10	Andasibe-Mantadia	##national park	%% 100 miles of land; home to eleven lemur species; country&#8217;s largest lemur; easiest parks to visit; local guides conduct 1- to 6-hour tours
+
+  %d2	7/8	Andasibe National Park	##national park	%% most visited of the Protected Areas; 11 species of lemurs; several species of birds, reptiles, insects and batrachians; luxuriant vegetation of tropical forests
+
+  %d5	0/5	Andasibe Mantadia	##national park	%% country's most accessible national park,; lush rainforest; richly diverse biosphere.; rare species; crocodile farm; many species of orchid; Niagarakely Waterfall.
+
+10	Tsiribihina River	0.2	0.5	0.35
+  %d2	4/8	Tsiribihina River   ##river	%% river tour by pirogue or canoe; tours; camp on the riverbank; cook under the stars
+
+10	Akany Avoko	0.2	0.5	0.35
+  %d4	0/5	Akany Avoko	##other	%% 120 homeless children.; nurture and educate the kids.; variety of crafts,; learn to cook; cafe and gift shop,; selling kid-made crafts.
+
+10	Ampijoroa National Park	0.2	0.5	0.35
+  %d5	0/5	Ampijoroa National Park	##national park	%% dry deciduous forest; several species of lemurs.; birdwatcher's paradise,; Nile crocodile; no navigable roads; Overnight camping
+
+10	Manambolo River Gorge	0.2	0.5	0.35
+  %d3	0/44	Manambolo River Gorge	##canyon	%% overhanging clifs; Numerous caves,; natural bridges; interesting karst formations.
+
+10	Tsingy de Ankarana	0.2	0.5	0.35
+  %d3	0/44	Tsingy de Ankarana	##nature	%% karst formation,; limestone blades.; 20 m high.; up to 140 m deep.; primeval tropical forest; explored caves; 6 m long Nile crocodiles; Numerous fossils
+
+10	Ambatoharanana Cave	0.2	0.5	0.35
+  %d3	0/44	Ambatoharanana Cave	##cave	%% longest known cave in Madagascar,; 18.1 km long.
+
+10	Andrahomana Cave	0.2	0.5	0.35
+  %d3	0/44	Andrahomana Cave	##cave	%% visually impressive cave.; two enormous sinkholes; remnants of 27 species of birds,; 42 species of mammals,; 10 reptiles; 3 amphibians
+
+10	Anjohy Tsilika Cave	0.2	0.5	0.35
+  %d3	0/44	Anjohy Tsilika Cave	##cave	%% Complex cave system,; formed in Tsingy de Bemaraha.
+
+10	Ankilitelo Cave	0.2	0.5	0.35
+  %d3	0/44	Ankilitelo Cave	##cave	%% deepest known cave in Madagascar.; more than 145 m deep,; very rich with fossils
+
+10	Grotte de Milaintety	0.2	0.5	0.35
+  %d3	0/44	Grotte de Milaintety	##cave	%% Beautiful cave in Tsingy de Ankarana,; adorned with numerous speleothems.
+
+10	Grottes d'Anjohibe	0.2	0.5	0.35
+  %d3	0/44	Grottes d'Anjohibe	##cave	%% 5,330 m long cave system; gorgeous speleothems; rich with fauna.; haunting of Vazimbe.; remnants of extinct fauna of Madagascar
+
+10	Mangily sinkhole	0.2	0.5	0.35
+  %d3	0/44	Mangily sinkhole	##nature	%% largest sinkhole; 860 m across; up to 140 m deep,; collapsed cave chamber.
+
+10	Raulin Zohy	0.2	0.5	0.35
+  %d3	0/44	Raulin Zohy	##cave	%% cave near the sea; numerous valuable fossils; 50 kg heavy lemur
+
+10	Styx Two sinkhole	0.2	0.5	0.35
+  %d3	0/44	Styx 2 sinkhole	##nature	%% impressive sinkhole; 500 by 400 m wide; 140 m deep.
+
+10	Cascade d'Antomboka	0.2	0.5	0.35
+  %d3	0/44	Cascade d'Antomboka	##waterfall	%% 82 m tall; single plunge.
+
+10	Cascade de Rianbavy	0.2	0.5	0.35
+  %d3	0/44	Cascade de Rianbavy	##waterfall	%% 250 m high; vertical granite cliff
+
+10	Cascade de Riandahy	0.2	0.5	0.35
+  %d3	0/44	Cascade de Riandahy	##waterfall	%% 300 m tall waterfall; granite cliff.
+
+10	Antsongombato gem mine	0.2	0.5	0.35
+  %d3	0/44	Antsongombato gem mine	##nature	%% largest and best crystals; rhodizite; londonite.; good quality red tourmaline.
+
+10	Ilakaka Sapphire mines	0.2	0.5	0.35
+  %d3	0/44	Ilakaka Sapphire mines	##nature	%% largest find of sapphire; discovered in 1998.
+
+10	Kianjavato Emeralds	0.2	0.5	0.35
+  %d3	0/44	Kianjavato Emeralds	##nature	%% finest emeralds in the world.
+
+10	Mainry Labradorite Mine	0.2	0.5	0.35
+  %d3	0/44	Mainry Labradorite Mine	##nature	%% finest labradorite varieties
+
+10	Malakialina pegmatites	0.2	0.5	0.35
+  %d3	0/44	Malakialina pegmatites	##nature	%% largest crystal in the world.; 18 m long; 3.5 m diameter; weighs 380 tons.
+
+10	Tiramene sapphires	0.2	0.5	0.35
+  %d3	0/44	Tiramene sapphires	##nature	%% deep blue sapphires of exceptional quality.
+
+10	Vatomandry Ruby Star mines	0.2	0.5	0.35
+  %d3	0/44	Vatomandry Ruby Star mines	##nature	%% highest quality rubies
+
+10	Adansonia perrieri stand near Cascade d'Antomboka	0.2	   0.5	   0.35
+  %d3	0/44	Adansonia perrieri stand near Cascade d'Antomboka	##nature	%% only sizeable stand; rarest baobab in the world.; up to 25 m tall
+
+10	Baobab stands in Mangoki Valley	0.2	0.5	0.35
+  %d3	0/44	Baobab stands in Mangoki Valley	##nature	%% largest concentration of baobabs; 7 metres in diameter.
+
+10	La Grand-Mere Baobab of Tsimanampesotse	0.2	0.5	0.35
+  %d3	0/44	La Grand-Mere Baobab of Tsimanampesotse	##nature	%% circumference over 20 metres,; 3000 - 4000 years old.
+
+10	Mahajanga Baobab	0.2	0.5	0.35
+  %d3	0/44	Mahajanga Baobab	##nature	%% circumference 22.5 m.; brought by Arab traders.
+
+10	Reakaly baobab	0.2	0.5	0.35
+  %d3	0/44	Reakaly baobab	##nature	%% girth 23 m; largest trees in Madagascar.
+
+10	Tsitakakoike	0.2	0.5	0.35
+  %d3	0/44	Tsitakakoike	##nature	%% 30 m circumference,
+
+10	Analavory Geysers	0.2	0.5	0.35
+  %d3	0/44	Analavory Geysers	##nature	%% gaseous water "geysers"; several metres high
+
+10	Canyon des Makis, Canyon des Singes, Namazaha Canyon and others	0.2	0.5	0.35
+  %d3	0/44	Canyon des Makis, Canyon des Singes, Namazaha Canyon and others	##canyon	%% up to 200 m; up to seven species of lemurs; numerous endemic species
+
+10	La Fenetre	0.2	0.5	0.35
+  %d3	0/44	La Fenetre	##nature	%% Impressive natural bridge
+
+10	Tsaranora Be monolith	0.2	0.5	0.35
+  %d3	0/44	Tsaranora Be monolith	##nature	%% largest granite monoliths; 800 m high,
+
+10	Alasora	0.2	0.5	0.35
+  %d3	0/44	Alasora	##fort	%% Old, fortified village; former capital and royal tomb.; fortified gate with stone disc.
+
+10	Antsahadinta	0.2	0.5	0.35
+  %d3	0/44	Antsahadinta	##town	%% preserved hilltop village; numerous wooden aristocratic houses
+
+10	Ambohiniazy	0.2	0.5	0.35
+  %d3	0/44	Ambohiniazy	##island	%% monolithic cliff; shrine; tomb of Andriambazo
+
+10	Sakalava tombs in Isalo	0.2	0.5	0.35
+  %d3	0/44	Sakalava tombs in Isalo	##historic site	%% Rock cut tombs; very hard to find; living burial tradition
+
+10	Tomb of King Tsiampody	0.2	0.5	0.35
+  %d3	0/44	Tomb of King Tsiampody	##historic site	%% most impressive Mahafaly tombs; horns of more than 700 zebus
+
+10	Antongona	0.2	0.5	0.35
+  %d3	0/44	Antongona	##ruin	%% ruins of two fortified settlements; 16th - 18th century.
+
+10	Ifasina	0.2	0.5	0.35
+  %d3	0/44	Ifasina	##town	%% Rural village; woodcarving skills of Zafimaniry people; wooden houses
+
+10	Lakaton'i Anja	0.2	0.5	0.35
+  %d3	0/44	Lakaton'i Anja	##ruin	%% oldest known human settlements; 4th - 8th century AD; earthenware pottery
+
+10	Mahilaka	0.2	0.5	0.35
+  %d3	0/44	Mahilaka	##ruin	%% most ancient urban centre; abandoned city; 11th - 14th centuries; approximately 60 ha; protected by a wall.
+
+53	Ifaty	0.2	0.4	0.3
+  %d1	6/10	Ifaty	##coast	%% two dusty fishing villages; 60-mile long coral reef; ideal for diving, snorkeling and fishing; spiny forest; strange-shaped baobab trees
+
+54	Masoala National Park	0.4	0.1	0.25
+  %d1	9/10	Masoala National Park	##national park	%% 250 miles of rainforest; three marine parks; ten species of lemur; world&#8217;s largest nocturnal primate; home to a diverse array of birds and reptiles; snorkeling and kayaking adventures.
+
+  %d4	0/5	Masoala National Park	##national park	%% Madagascar&#8217;s northeastern peninsula,; more than a half-million acres; coastal forests,; rain forests,; marshland; coral reef,; kayaking and snorkeling.; host to wildlife,; humpback whales migrating
+

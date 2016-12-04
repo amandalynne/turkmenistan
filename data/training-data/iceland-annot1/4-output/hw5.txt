@@ -1,0 +1,7 @@
+LING 570 - HW 5 - Q4
+
+(a) When looking for categories I tried to look at the “official” list of categories provided by Fei and then map them as close as possible to my textual descriptions. Most of the time it was fairly straightforward- however sometimes the descriptions had multiple possibilities, so I did my best to pick the one that had the closet match. 
+
+(b) I tried to identify descriptive sentence fragments that mapped to the selected category to find attractions.  Biggest problem here was trying to capture the essence of a long sentence. 
+
+(c) This was fairly time consuming. I would say it took me a total of 5-6 hours.  I did lots of double checking w/ calculations in the summary.out file- it took a long time to calculate all of the ranking values / sort them. 

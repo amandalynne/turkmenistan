@@ -1,0 +1,157 @@
+1	Astana 0.6 0.83 0.71	
+	%d1 2/10  Astana ##city %%must visit; Peace and Reconciliation Palace; oceanarium of entertainment centre; Khan Shatyr Entertainment Centre; Nurjol boulevard; Bayterek monument; panoramic view
+	
+	%d2 1/7  Astana  ##city %%second biggest city; financial boom; Duman aquarium; Bayterek tower
+	
+	%d3 0/25  Astana  ##city   %%the capital and second largest city; economical boom; coffee houses, restaurants, discotheques; casinos
+
+2	Medeu and Shymbulak 0.8 0.42 0.61
+	%d1 5/10  Medeu and Shymbulak ##resort %%winter sport games;skate rink;Medeu dam;amazing view of Trans-Ili Alatau (Zaiilsky Alatau) mountain peaks;snow;ski lifts;Talgar Pass;bowling and sauna
+	
+	%d2 3/7  Medeo   ##resort %%the most unique and largest speed skating rink	
+	
+	%d3 0/25  Medeo  ##town  %%picturesque valley, the largest and unique speed skating rinks; biggest ice stadium; mountain-water swimming pool
+	%d3 0/25  Chimbulak  ##resort  %%Talgar Pass; 3,000m-long downhill piste; mountain climbing; hiking; breathtaking views of Alpine routes
+	%d5 8/10  Medeu Ice Rink and Chimbulak Ski Resort  ##resort  %%day trip; skates and skis; hiking around the valleys; spectacular views
+
+3	Almaty 0.4 0.71 0.56
+	%d2 2/7  Almaty  ##city %%biggest city;theaters, museums, exhibition halls, art galleries; movie theaters, night clubs, restaurants and cafes
+	%d3 0/25  Almaty  ##city %%largest city; modern architecture; spectacular mountain views particularly in spring and autumn
+
+4 	melodies of Kurmangazy 0.2 0.9 0.55
+	%d1 1/10  melodies of Kurmangazy	##art %%soul of nation; folk composer of the 19th century; Disobedient and proud-spirited rebel; instrumental pieces (kyuy)	
+	
+4 	Zenkov Cathedral 0.4 0.7 0.55
+	%d3 0/25  Svyato-Voznesensky Cathedral (Zenkov Cathedral of Holy Ascension) ##church  %%Tzarist-era; unique wooden building; Orthodox Church architecture;multi-domed; murals and gilt-edged icons
+	%d5 3/10  Zenkov Cathedral  ##church  %%built in 1904; functioning Russian Orthodox Church; frescoes
+
+6 	Baikonur Cosmodrome 0.6 0.36 0.48
+	%d1 7/10  cosmonaut ##museum; memorial %%Baikonur; first space satellite;Yuriy Gagarin;1500 spaceships launched;a window to the space;museum of the spaceport;memorial houses; Sergei Korolyov;technology
+	%d2 4/7  Baikonur Cosmodrome  ##museum %%the largest and oldest functioning space launch center
+	%d3 0/25  Baikonur Cosmodrome  ##museum  %%oldest and largest operational space launch facility
+
+7 	Sufism 0.2 0.7 0.45	
+	%d1 3/10  Sufism ##memorial %%Hodja Ahmad Yassavi; Islamic Sufism; Otrar; one of the oldest Central Asian cities razed to the ground by Genghis-Khan  
+
+7 	Charyn canyon 0.4 0.5 0.45
+	%d3 0/25  Charyn canyon ##canyon  %%the second largest canyon in the world; Valley of Castles; flat barren steppe
+	%d4 0/7   The Charyn Canyon ##canyon %%Hiking in the canyon; Valley of Castles
+
+7 	Central Mosque 0.4 0.5 0.45
+	%d3 0/25  Central Mosque ##mosque  %%the biggest mosque in Kazakhstan; turquoise dome; 5 graceful minarets; Green Bazaar; Arbat
+	%d5 5/10  Central Mosque ##mosque  %%the largest one in Kazakhstan
+
+7 	Bayanaul National Park 0.4 0.5 0.45
+	%d3 0/25  Bayanaul national park ##national park %%Three freshwater lakes; 
+	%d4 0/7   Bayanaul National Park ##national park %%swimming and hiking; scenic lakes; breath-taking natural springs;forest-filled mountains; Aulietas Cave
+	
+11 	Barkhan 0.2 0.6 0.4
+	%d1 4/10  barkhan ##national park %%Altyn-Emel; billions of sands; famous for its singing; "Singing barkhan";unique natural, archeological and historical-cultural monuments;rare kinds of plants and animals
+	
+11 	Burabai 0.6 0.2 0.4
+	%d1 8/10  Burabai ##national park %%endless steppes;massive trees, mountain spines; fantastic curves of the cliffs; quiet and enchanting lakes full of fish;meadow of Abylay-Khan; cliff Jumbaktas; healing herbs; edible mushrooms;great at any time of the year;sanatoriums
+	%d3 0/25  Burabay (Borovoe) National Nature Park  ##national park  %%14 big lakes; 800 flora species; 305 vertebrate animal species; harmonic combination of mountains, forests, lakes, flora and fauna
+	%d4 0/7  Burabai ##resort  %%little Switzerland in the Kazakh steppe; Zhumbaktas Rock; Kokshetau Mountain; Chebachie Lake; swimming; hiking trails; biking; fishing; horseback riding
+
+13 	Duman 0.2 0.5 0.35
+	%d3 0/25  Duman  ##aquarium  %%the first and only aquarium located around 3000km away from the ocean; more than 2000 marine animals
+
+13 	Korgalzhin National Park 0.2 0.5 0.35
+	%d3 0/25  The Korgalzhin National Park  ##national park  %%the biggest reserve zone in Kazakhstan; two big lakes; 350 kinds of plants; 82 kinds of birds
+
+13 	Bayterek tower 0.2 0.5 0.35
+	%d3 0/25  Bayterek tower  ##tower   %%the symbol of the capital of Kazakhstan; art gallery
+
+13	President's Culture Centre 0.2 0.5 0.35
+	%d3 0/25  President's Culture Centre  ##museum  %%one of the most beautiful buildings; high-quality national museum; Kazakhstan's history
+
+13 	Palace of Peace and Harmony 0.2 0.5 0.35
+	%d3 0/25  Palace of Peace and Harmony ##building  %%pyramid type building in Astana; opera house
+
+13 	Aksu-Zhabagly state natural reserve 0.2 0.5 0.35
+	%d3 0/25  Aksu-Zhabagly state natural reserve ##nature reserve  %%hills; vascular and primitive plants; birds; animals
+
+13 	Ustiurt 0.2 0.5 0.35
+	%d3 0/25  Ustiurt  ##nature reserve  %%the largest preserves in Kazakhstan
+
+13 	Atyrau 0.2 0.5 0.35
+	%d3 0/25  Atyrau city  ##city  %% port; the centre of oil industry
+
+13 	Borovoye Lake 0.2 0.5 0.35
+	%d3 0/25  Borovoye Lake ##lake %%one of the largest lakes in Burabay (Borovoe) National Nature Park; sanitariums; crowded with tourists; perfect place for wild recreation and camping
+
+13 	Naurzum 0.2 0.5 0.35
+	%d3 0/25  Naurzum ##nature reserve  %%rich landscape of geographical contrasts; salt lakes; forests; rare animals
+
+13 	Kurgaldjino 0.2 0.5 0.35
+	%d3 0/25  Kurgaldjino ##nature reserve %%300 types of plant; pink flamingoes
+
+13 	Karaganda 0.2 0.5 0.35
+	%d3 0/25  Karaganda  ##city  %%coal basin; Miners' Palace of Culture; botanical garden
+
+13 	Bukhtarma Reservoir 0.2 0.5 0.35
+	%d4 0/7   Bukhtarma Reservoir  ##resort  %%One of the largest artificial reservoirs; swimming; sunbathing; fishing; mushroom picking
+
+13	Kapshagai Reservoir 0.2 0.5 0.35
+	%d4 0/7   Kapshagai Reservoir  ##resort  %%perfect weekend escape; swimming; fishing; riding speed boats, scooters; aqua park
+
+13 	Lake Alakol 0.2 0.5 0.35
+	%d4 0/7   Lake Alakol  ##lake  %%remote; two famous big beaches; great summer getaways; horseback tours and hiking; swimming; fishing 
+
+13 	Chundzha Hot Springs 0.2 0.5 0.35
+	%d4 0/7   Chundzha Hot Springs ##resort  %%140 different mineral springs; mineral baths; horseback riding tours
+
+13 	Arasan Baths 0.2 0.5 0.35
+	%d5 1/10  The Arasan Baths  ##resort  %%the best bath house in all of Central Asia; massage
+
+13 	Panfilov Park 0.2 0.5 0.35
+	%d5 2/10  Panfilov Park  ##memorial; park  %%Panfilov Heroes; great place to relax with a book and an ice cream cone; fresh air
+
+13 	Green Market 0.2 0.5 0.35
+	%d5 4/10  The Green Market  ##market  %%fresh fruit; meats; nuts; clothing and household items; friendly
+
+13 	Pedestrian Street 0.2 0.5 0.35
+	%d5 6/10  Pedestrian Street  ##market  %%people selling goods; musicians; no cars
+
+13 	Kok-Tobe 0.2 0.5 0.35
+	%d5 9/10  Kok-Tobe  ##viewpoint  %%great views of Almaty city; restaurants; climbing wall; bronze statue of the Beatles
+
+13 	Opera/Ballet 0.2 0.5 0.35
+	%d5 10/10 Opera/Ballet ##show   %%the Philharmonic; the Abay State Opera; the Ballet Theatre; great evening out on the town	
+
+35 	Taraz 0.4 0.29 0.34
+	%d2 5/7  Taraz  ##city %%Aisha Bibi and Babaji mausoleums;antique architecture
+	%d3 0/25  Taraz  ##city  %%more than 2000 years old;Babaji-Khatun Mausoleum;Aisha-Bibi Mausoleum; masterpieces of ancient architecture
+	
+36	Tamgaly Tas 0.2 0.4 0.3
+	%d1 6/10  Tamgaly Tas ##archaeological site %%“rocks with signs”; stone carved images of Buddha, Burhans (Bodhisattvas); exquisite Tibetan inscriptions; 14-16th centuries; 18 cliffs with petroglyphs; ancient holy place
+
+36 	Big Almaty Lake 0.4 0.2 0.3	
+	%d1 9/10  Big Almaty Hike ##lake; glacier %%Big Almaty Gorge; river Big Almatinka; Big Almaty Lake; Big Almaty Peak; one hour drive from Almaty;beautiful any time of the year;ice-skating
+	%d5 7/10  Big Almaty Lake (Ozero Bolshoe Almatinskoe)  ##lake %%hiking; picnic; Big Almaty Lake; forest; fresh air
+
+38 	Mangystau 0.4 0.14 0.27
+	%d2 6/7  Mangystau ##region  %%rich cultural tradition; best hotels in Kazakhstan
+	%d3 0/25  Mangystau Region ##region  %% oil; gas; construction materials; ores and minerals; rich cultural heritage
+
+39 	Semipalatinsk 0.4 0.0 0.2	
+	%d2 7/7  Semipalatinsk ##town  %% Russian location of exile; Dostoyevsky lived in the 18th century; Museum of Abai Kunanbaev
+	%d3 0/25  Semipalatinsk ##city  %% exile; Dostoyevsky; museum
+
+40 	Besbarmak 0.2 0.0 0.1
+	%d1 10/10 besbarmak ##other %%main meat dish;boiled meat;horse meat, lamb, beef and camel meat;noodles;delicious, rich and heavy; Kazakh kumis
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+

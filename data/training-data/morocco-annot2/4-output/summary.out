@@ -1,0 +1,148 @@
+1	Fez	0.8	0.6	0.7
+	%d6	2/5	Fez ##city %% behemoth medina; UNESCO World Heritage site; maze;  Palais Amani Hotel
+	
+	%d10	0/18	Fez ##city %% ancient centre of sacred learning and imperial power; Dar Batha Museum; UNESCO World Heritage site
+	
+	%d7	2/5	Fes el-Bali ##city %% world heritage site; maze of streets; Royal gardens, Mosques, the workshops of local artisans, fountains and several monuments
+	
+	%d8	0/25	Fez ##city %% oldest and largest medieval cities in the world; huge medina; beautiful city gates
+
+1	Jamaa el Fna 0.6	0.8	0.7
+	%d7	1/5	Jamaa el Fna ##city/town square %% snake charmers, dancers and story tellers, magicians and peddlers;  souk, the traditional African markets and café terraces
+	
+	%d8	0/25	Jamaa el-Fnaa ##city/town square %% food stalls; Arabic story tellers; magicians; Chleuh dancers
+	
+	%d10	0/18	Djemaa El Fna ##city/town square %% daily spectacle; acrobats, storytellers, snake-charmers and musicians 
+
+1	Menknes	0.6	0.8	0.7
+	%d6	1/5	Menknes	##city %% 9th-century medina; major historical sites
+	
+	%d7	0/25	Meknes ##city %% extensive walls; vineyards; Spanish-Moorish style
+	
+	%d10	0/18	Meknes and Volubilis ##city; ruin %% Islamic architecture; ruins of Volubilis
+
+4	Atlas Mountains	0.6	0.5	0.55
+	%d8	0/25	High Atlas ##mountain %% moutain
+	
+	%d9	0/4	Atlas Mountains ##mountain %% such beauty
+	
+	%d10	 0/18	 Atlas Mountains ##mountain %% highest peak, Jebel Toubkal; breathtaking views
+
+5	Merzouga	0.6	0.4	0.5
+	%d6	3/5	Merzouga ##city %% gateway village; campsite in the Sahara Desert; camel adventure: sunset; Berber music
+	
+	%d7	3/5	Merzouga ##city %% desert sunrise; sand dunes; diverse wildlife of flora and fauna; camel trip
+	
+	%d8	0/25	Merzouga and M'Hamod ##town; city %% ride a camel; dunes; stars
+
+6	AAt-Benhaddou	0.4	0.5	0.45
+	%d8	0/25	AAt-Benhaddou ##historic site; ruin; city %% mud-brick kasbahs
+	
+	%d10	0/18	AAt Benhaddou ##city; ruin %% UNESCO World Heritage Site; Hollywood films
+
+6	Agadir	0.4	0.5	0.45
+	%d8	0/25	Agadir ##city %% beaches
+	
+	%d9	0/4	Agadir ##town %% coastal resorts; beautiful beaches; tours to the Atlas Mountains
+
+6	Casablanca	0.4	0.5	0.45
+	%d8	0/25	Casablanca ##city %% contemporary mosque
+	
+	%d10	0/18	Casablanca ##city; town %% charming whitewashed Old Town
+
+6	Tangier	0.4	0.5	0.45
+	%d8	0/25	Tangier ##city %% artists (Matisse), musicians (Hendrix), politicians (Churchill), writers (Burroughs, Twain)
+	
+	%d10	0/18	Tangier ##city %% writers, Beat poets, and rock stars
+
+6	Sahara sand dunes	0.4	0.5	0.45
+	%d8	0/25	Sahara sand dunes ##desert %% desert tent; incredibly starred sky
+	
+	%d10	0/18	Sahara Desert ##desert %% trekking by camel; dunes of Erg Chebbi
+
+6	Rif Mountains	0.4	0.5	0.45
+	%d9	0/4	Rif Mountains ##mountain %% trekking; mountain biking; beautiful flora and fauna in the valleys
+	
+	%d10	0/18	Rif Mountains ##mountain %% trekking; Talassemtane National Park
+
+6	Chefchaouen	0.4	0.5	0.45
+	%d8	0/25	Chefchaouen ##town %% mountain town; white-washed winding alleys
+	
+	%d10	0/18	Chefchaouen ##town %% medina comprising painted blue houses scattered down a slope; Rif Mountains; steep and winding cobbled streets
+
+6	Tinerhir	0.4	0.5	0.45
+	%d8	0/25	Tinerhir ##town %% point of access to the stunning High Atlas
+	
+	%d10	0/18	Tinerhir ##city %% old Jewish Quarter; town souk
+
+14	Taroudannt	0.2	0.5	0.35
+	%d8	0/25	Taroudannt ##city %% southern market down
+
+14	Rabat	0.2	0.5	0.35
+	%d8	0/25	Rabat ##city %% capital of Morocco; 12th-century tower and minaret
+
+14	Tetouan	0.2	0.5	0.35
+	%d8	0/25	Tetouan ##city %% beaches; Rif Mountains
+
+14	Al Hoceima	0.2	0.5	0.35
+	%d8	0/25	Al Hoceima ##town %% beach town
+
+14	Amizmiz	0.2	0.5	0.35
+	%d8	0/25	Amizmiz ##town %% largest Berber souks
+
+14	Imouzzer	0.2	0.5	0.35
+	%d8	0/25	Imouzzer ##town %% traditional Berber town; beautiful scenery; waterfall
+
+14	Jebel Toubkal	0.2	0.5	0.35
+	%d8	0/25	Jebel Toubkal ##mountain peak %% highest peak in North-Africa; panoramic views
+	
+14	Hassan II mosque	0.2	0.5	0.35
+	%d8	0/25	Hassan II mosque ##mosque %% second largest mosque in the world
+
+14	Hammams	0.2	0.5	0.35
+	%d8	0/25	Hammams ##other %% steam baths; pampered and scrubbed
+	
+14	Volubilis	0.2	0.5	0.35
+	%d8	0/25	Volubilis ##archaeological site; ruin %% biggest Roman ruins in Morocco
+
+14	Camel ride	0.2	0.5	0.35
+	%d9	0/4	camel ride ##other %% twinkling stars above
+
+14	Jardin Majorelle	0.2	0.5	0.35
+	%d10	0/18	Jardin Majorelle ##garden; nature %% immaculately presented garden; rare botanical specimens
+
+14	Cascades D'Ouzoud	0.2	0.5	0.35
+	%d10	0/18	Cascades D’Ouzoud ##waterfall; nature %% roaring waterfalls plunging through a burst of greenery
+
+14	Draa Valley	0.2	0.5	0.35
+	%d10	0/18	Draa Valley ##nature %% dipping sun sets fire to the red earth
+
+14	Merja Zerga National Park	0.2	0.5	0.35
+	%d10	0/18	Merja Zerga National Park ##national park %% array of birdlife; Blue Lagoon
+
+14	Chellah in Sala Colonia	0.2	0.5	0.35
+	%d10	0/18	Chellah in Sala Colonia ##city; historic site %% ancient necropolis
+
+30	Ouarzazate	0.4	0.2	0.3
+	%d6	4/5	Ouarzazate ##city; town %% sets and locales of famous blockbuster hits; Atlas Mountains; authentic Moroccan ceramics; Kasbah
+	
+	%d8	0/25	Ouarzazate ##city; town %% ancient city
+
+30	Marrakech	0.6	0	0.3
+	%d6	5/5	Marrakech ##city %% intriguing sites and museums; fiercest medina; Jemaa el-Fnaa, a UNESCO site
+	
+	%d8	0/25	Marrakech ##city %% huge maze of souks
+	
+	%d10	0/18	Marrakech Souk ##city/town square; market %% bustling and chaotic bazaar
+
+30	Essaouira	0.6	0	0.3
+	%d7	5/5	Essaouira ##beach; ocean; city %% wind and kite surfers; fishing port; trading post
+	
+	%d8	0/25	Essaouira ##city; town; beach %% beaches
+	
+	%d10	0/18	Essaouirra ##city; town %% picture-postcard medina and fortress ramparts jutting into the sea; artistic seaside town
+
+33	Dades	0.4	0	0.2
+	%d7	4/4	Dades Valley ##nature %% mineral rich Dades Gorge sparkles; changing vista and spectacular views
+	
+	%d10	0/18	Todra and Dades gorges ##nature; canyon %% beautiful scenery; roses carpet the canyon floor

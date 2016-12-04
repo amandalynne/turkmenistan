@@ -1,0 +1,126 @@
+1	Kathmandu	0.800000	0.543939	0.671970
+
+		%d1	1/11	Kathmandu	##city	%%capital; largest city; lively atmosphere; street sellers; historic temples; carved statues
+
+		%d2	4/5	Kathmandu	##city	%%cultural center; full of colors; UNESCO World Heritage Sites; hundreds of ancient temples; monuments; royal palaces
+
+		%d4	6/10	Kathmandu	##city	%%capital city; cultural, historical, and political center; Hindu temples; Buddhist monasteries
+
+		%d5	1/3	Kathmandu	##city	%%capital; 7 UNESCO World Heritage Sites; Buddhist Stupas
+
+2	Pokhara	0.800000	0.392424	0.596212
+
+		%d1	4/11	Pokhara	##town	%%highest mountains; beautiful scenery; second largest town; cleaner air; pleasant climate; day excursions; lakeside hotels
+
+		%d2	5/5	Pokhara		##town; beach	  %%adventure sports; paragliding; zip-line; High-hill cycling; Boating; high-end clubs
+
+		%d4	4/10	Pokhara	##city	%%Paragliding; bungee jumping; rafting; boating; sunrise, sunset, and mountain views
+
+		%d5	2/3	Pokhara	##city	%%wooden canoe boats; World of Peace Pagoda
+
+3	The Himalayas	0.200000	0.900000	0.550000
+
+		%d4	1/10	The Himalayas	##mountain	%%mountain vistas; beautiful panoramic views; snow covered mountains
+
+4	Pashupati Nath Temple	0.200000	0.888889	0.544444
+
+		%d3	1/9	Pashupati Nath Temple	##temple	%%One of the oldest, most renowned and sacred temples; dedicated to Lord Shiva
+
+5	Bhaktapur	0.600000	0.439394	0.519697
+
+		%d1	2/11	Bhaktapur	##city	%%UNESCO World Heritage Site
+
+		%d3	9/9	Bhaktapur	##market	%%Terracotta products; lotus and pretty handicrafts; colorful masks
+
+		%d4	5/10	Bhaktapur	##city	%%traditional arts; historical monuments; beautiful sightseeing views
+
+6	Southern Nepal	0.200000	0.800000	0.500000
+
+		%d2	1/5	Southern Nepal	##nature reserve	%%wildlife safari; exotic animals; rare animals; bathing with elephants
+
+7	Boudanath	0.200000	0.777778	0.488889
+
+		%d3	2/9	Boudanath	##temple	%%prominent pilgrimage center; magnificent Stupa; prayer wheel; delightful momos and thupkas
+
+8	Lumbini	0.600000	0.374747	0.487374
+
+		%d1	10/11	Lumbini	##temple	%%UNESCO World Heritage Site; birthplace of Siddhartha Gautama; feeling of tranquility; ancient stone relief
+
+		%d3	6/9	Lumbini	##city; temple	%%birthplace of Lord Buddha; peaceful ambiance; perfect for meditation; Ashokan Pillar; Buddhist temples; Japan Peace Stupa; Bodhi Tree; Lumbini Museum
+
+		%d4	3/10	Lumbini	##temple	%%birthplace of Buddha
+
+9	Boudhanath Stupa	0.200000	0.727273	0.463636
+
+		%d1	3/11	Boudhanath Stupa	##monument; temple	%%one of the largest stupas; UNESCO World Heritage Site
+
+10	Everest	0.400000	0.490909	0.445455
+
+		%d1	9/11	Everest	##mountain	%%highest mountain on earth
+
+		%d4	2/10	Mount Everest	##mountain	%%Sunrise views; snow capped peak; highest peak of the world
+
+11	Nagarkot	0.200000	0.666667	0.433333
+
+		%d3	3/9	Nagarkot	##nature	%%mesmerizing Himalayan views; magnificent views of the sunrise; trekking; mountain biking; stunning views of Himalayas; dense pine tree forests
+
+12	Trishuli	0.200000	0.600000	0.400000
+
+		%d2	2/5	Trishuli	##river	%%white water rafting; great rapids; most exciting; thrill; exhilarating
+
+13	Pokhra Valley	0.200000	0.555556	0.377778
+
+		%d3	4/9	Pokhra Valley	##nature	%%Verdant forests; underground caves; waterfalls; Valley of Orchids; Massif Glaciers; majestic views of the mountains
+
+14	Annapurna Region	0.400000	0.322727	0.361364
+
+		%d1	5/11	Annapurna Region	##trail; nature	%%one of the most popular trekking regions; fascinating culture; ideal walking area; good infrastructure; well maintained
+
+		%d4	9/10	Annapurna Region	##region; trail	%%stunning nature; Himalayas view; snow capped mountains
+
+15	Mahendra Gufa	0.200000	0.444444	0.322222
+
+		%d3	5/9	Mahendra Gufa	##cave	%%cavernous cave; stalactites and stalagmites; idol of Lord Shiva
+
+16	Chitwan National Park	0.400000	0.227273	0.313636
+
+		%d1	6/11	Chitwan National Park	##national park	%%wildlife viewing; safari-type atmosphere; rhinos; Bengal tigers; leopards; sloth bears; gaur deer; Freshwater dolphins; crocodiles; 500 species of birds; UNESCO list of world cultural heritage sites
+
+		%d5	3/3	Chitwan National Park	##national park	%%wildlife spotting; 68 species of mammals; 500+ species of birds; rich diversity of flora and fauna; elusive Bengal Tiger; woodpeckers; kingfishers; 2 species of crocodile; 2 species of deer; one horned rhinos
+
+17	Ghorepani and Poon Hill	0.200000	0.400000	0.300000
+
+		%d2	3/5	Ghorepani and Poon Hill	##trail	%%panorama of surrounding valley; majestic vistas of mountains
+
+18	Langtang Region	0.200000	0.363636	0.281818
+
+		%d1	7/11	Langtang Region	##national park; trail	%%incredible area for hiking; extensive views; old monasteries; beautiful mountain scenery; rhododendron forests; less busy; extemely convenient
+
+19	Chitwan and Bardia National Park	0.200000	0.300000	0.250000
+
+		%d4	7/10	Chitwan and Bardia National Park	##national park	%%jungle safari; wildlife safari; jungle walking; jeep safari; elephant safari; wildlife tour
+
+20	Swayambhunath	0.200000	0.272727	0.236364
+
+		%d1	8/11	Swayambhunath ##temple	%%second most important shrine; resident monkeys
+
+21	Swayambhu Mandir	0.200000	0.222222	0.211111
+
+		%d3	7/9	Swayambhu Mandir	##temple	%%magnificent golden shire; huge Tibetan prayer wheel; painted Buddha statues
+
+22	Upper mustang	0.200000	0.200000	0.200000
+
+		%d4	8/10	Upper mustang	##region	%%trekking area; antique Tibetan villages; rare medieval Buddhist arts; Himalayan desert
+
+23	Thamel Area	0.200000	0.111111	0.155556
+
+		%d3	8/9	Thamel Area	##market	%%street shopping; interesting knick knacks; Newari style design; silk; jewelry; pashmina; embroidered jacket
+
+24	Dolpo Hidden Karnali region	0.200000	0.000000	0.100000
+
+		%d4	10/10	Dolpo Hidden Karnali region	##region	%%strange beauty; surprising charm; Rare flora and fauna
+
+24	Helambu Trek	0.200000	0.000000	0.100000
+
+		%d1	11/11	Helambu Trek	##trail	%%popular trekking area; beautiful mountain scenery; beautiful trek
+

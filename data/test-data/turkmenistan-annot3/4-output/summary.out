@@ -1,0 +1,84 @@
+1  Konya-Urgench  0.6 0.63 0.62
+  %d12 1/10 Dashoguz ##city %%Northern Turkmenistan; hub for tourists visiting the Konya-Urgench
+  %d12 3/10 Konye Urgench ##town; historic site %%ancient town of Urgench; razed to ground by Genghis Khan
+  %d14 3/11 Konye-Urgench ##historic site %%ancient town of Urgenc; unexcavated ruins of the 12th-century capital of Khwarezm
+  %d15 8/10 Feel thousand years of history in Kunya-Urgench air ##historic site %%Ancient Capital of Northern Khorezm; famous for the Academy of Sultan Mamun ibn-Mamun
+
+1  Nissa  0.6 0.64 0.62 
+  %d12 5/10 Nissa ##city; historic site %%important city of the Parthian empire; ruins of the fortress at Nissa are a UNESCO World Heritage Site
+  %d14 1/11 Nisa ##historic site %%ancient city located near modern-day Bagir; first captials of the Parthians
+  %d15 5/10 Take a trip to 2300 years back in time ##historic site %%old nisa; UNSECO Worl Heritage List; capital of well-known Parthian Empire from 3 B.C. to 3 A.D.
+
+3  Kugitang Nature Reserve  0.6 0.51 0.56
+  %d11 3/5 Kugitang Nature Reserve ##nature %%protect Kugitang Mountain Range; home to the markhor mountain goat; Dinosaur Plateau; bottom of a lake which dried up, leaving footprints of dinosaurs; Karlyuk Caves; need permission
+  %d13 2/3 Hiking in Kugitang Nature Reserve ##nature; mountain %%travel permit required; mountains around Nokhur
+  %d15 2/10 Touch the fossilized dinosaur tracks ##nature %%large limestone slab; numerous footprints of dinosaurs
+
+3  Merv  0.6 0.51 0.56
+  %d12 4/10 Merv ##town; historic site %%oasis towns on the Silk Road; Hindu religion started here
+  %d14 2/11 Merv ##historic site %%major oasis-city in Central Asia; largest city in the world in the 12th Century
+  %d15 9/10 Walk along the shadow of the ancient city of Central Asia ##Merv; city; historic site %%settled in the era of Margiana Civilization; as the result of the Mongol invasion, the city was completely destroyed; UNESCO World Heritage List
+
+5  Akhaltek Racehorses  0.2 0.9 0.55
+  %d15 1/10 See akhaltek racehorses ##nature; show %%famous around the whole world; used as warhorses; offical state holiday "The racehorse day"
+
+5  Karakum Desert  0.6 0.50 0.55
+  %d11 1/5 Karakum Desert ##nature %%hottest in Central Asia; sights like Darvaza Gas Craters
+  %d13 1/3 horse trekking ##nature %%12 days Turkem Akhalteke Horse Ride Wonders of the Karakum Desert
+  %d13 3/3 Adventure tour and camel trek ##nature; desert %%camel trek in the Kara Kum Desert
+  %d14 5/11 Karakum ##desert %%many kind of rare animals; flood-land drained by the Amu Darya
+
+7  Mary  0.2 0.8 0.5
+  %d12 2/10 Mary ##city;desert %%situated in a big oasis in the heart of the Kara Kum Desert; history museum
+
+8  Door to Hell  0.4 0.53 0.47
+  %d14 6/11 Door to Hell ##nature %%natural gas deposit; avoid poisonous gas discharge, it was decided the best solution was to burn it off
+  %d15 4/10 Come around to the Door to Hell ##nature %%interesting and mysterious sights of Turkmenistan 90km in the desert to the nearest shop
+
+9  Yangi-Kala Canyon  0.2 0.7 0.45
+  %d15 3/10 See fire fortresses of yangi-kala canyon ##nature %%especially beautiful in the sunset; wonderful place for hiking, tenting, and racing in jeeps
+
+10  Azadi Mosque  0.2 0.6 0.4
+  %d11 2/5 Azadi Mosque ##mosque %%very few locals visit; attract tourist because of its beauty; mimics the Blue Mosque of Istanbul; one of the top tourist attractions
+
+11  Annau Archeology Site  0.2 0.4 0.3
+  %d12 6/10 Annau Archeology Site ##historic site %%located on the Silk Road; camels were first domesticated here; Seyit Jemaletdin Mosque
+
+11  Ashgabat City  0.4 0.2 0.3
+  %d12 10/10 Ashgabat City ##city %%located between the Kara Kum desert and the Kopet Dag mountain range; largest mosques in Central Asia
+  %d15 6/10 Recognize a revived city ##city %%Ashgabat; destroyed by an earthquake in 1948
+
+13  National Museum  0.4 0.18 0.29  
+  %d11 5/5 National Museum ##museum %%across Kopet Dag; exhibits such as the Ancient History Hall; Broze age relics of the Margiana civilization; the Antiquity Hall and its collection of rhytons; used by Zoroastrians in ritual and special occasions
+  %d14 7/11 Ashgabat National Musuem of History ##museum %%most museums are located in the major cities of Turkmenistan
+
+14  Sarakhs  0.2 0.3 0.25
+  %d12 7/10 Sarakhs ##town;historic site %%oasis town; mausoleum of Sufi Abul Faz; burial site of Sheikh Ahmed Al Khady
+
+15  Mary Museum  0.2 0.27 0.235
+  %d14 8/11 Mary Museum ##museum %%most museums are located in the major cities of Turkmenistan
+
+16  Abiverd  0.2 0.2 0.2
+  %d12 8/10 Abiverd ##city; historic site %%ruins of an ancient fortess and a mosque
+
+16  Tolkuchka Bazaar  0.2 0.2 0.2
+  %d11 4/5 Tolkuchka Bazaar ##market %%incredible souvenirs; best bazaar; jewelry, pistachios, carpets, and even car parts!; sell livestock like goats and camels; haggling is acceptable.
+
+16  Turkmen Carpet Museum  0.2 0.2 0.2
+  %d14 10/11 Turkmen Carpet Museum ##musuem %%most museums are located in the major cities of Turkmenistan
+  %d15 7/10 Understand the language of a Turkmen Carpet ##art %%Ashgabat Carpet Museum; History of Carpet weaving; biggest carpet that is 301 square meters
+
+19  The Main Museum of Turkmenistan  0.2 0.18 0.19
+  %d14 9/11 The main museum of Turkmenistan ##museum %%most museums are located in the major cities of Turkmenistan
+
+20  Dekhistan  0.2 0.1 0.15
+  %d12 9/10 Dekhistan ##city; historic site %%located in the Misrian Valley; beautiful towers of ancient settlements; most ancient mosque of the early Islamic period
+
+21  Capsian Sea Coast  0.2 0.63 0.13
+  %d14 4/11 Capsian Sea Coast ##waterfront; resorts %%number of popular sea resorts like Avaza
+
+22  Turkmen Museum of Fine Arts  0.2 0.0 0.1
+  %d14 11/11 Turkmen Museum of Fine Arts ##museum %%most museums are located in the major cities of Turkmenistan
+
+22  Melons  0.2 0.0 0.1
+  %d15 10/10 Dive in a melon paradise ##nature %%every second Sunday of August, Turkmen Melon Day; not only delicious, but also have healing properities

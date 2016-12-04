@@ -1,0 +1,96 @@
+1	Kathmandu	0.800000	0.7667	0.7833
+	%d2 1/10	Kathmandu	##city	%% cultural capital; crowded metropolis; sweeping views of the Kathmandu Valley 
+	%d3 5/10	Kathmandu	##city	%% intense, bustling markets; breath-taking historic capital of Nepal; swathing with excited trekkers; wonderful cuisine
+	%d4 1/10	Kathmandu	##city	%% central point of the Nepalese economy; Durbar Square is the heart of the city's culture 
+	%d5 0/7	Kathmandu	##city	%% delightful madness; ornate temples, majestic stupas, mysterious monasteries; Durbar Square; UNESCO World Heritage status
+
+2	Everest Base Camp	0.600000	0.8000	0.7000
+	%d1 1/10	Everest Base Camp	##trail	%% requires a high level of fitness; rest point 
+	%d3 2/10	Everest Base Camp	##trail; mountain	%% iconic attraction; next best achievement; trek of a lifetime; lush rhododendron forests; very high level of fitness
+	%d4 3/10	Everest Base Camp	##trail	%% pinnacle of goals; Nepalese tea houses and; cultures of the Sherpa 
+
+3	Pokhara	0.800000	0.5667	0.6833
+	%d3 1/10	Pokhara	##town	%% lakeside town; famous paragliding cliff; panoramic aerial view of the lake; friendly locals
+	%d4 7/10	Pokhara	##town	%% amazing scenery of lakes and mountains; monkey filled forests 
+	%d5 0/7	Pokhara	##town	%% welcome retreat; calm lakes, icy peaks and monkey-filled forests; notable museums 
+	%d2 5/10	Pokhara	##city	%% tranquil lakes, verdant shorelines and mountain views; gateway to the Annapurna region; lakeside city; lined with luxury hotels, restaurants, bars and shops
+
+4	Chitwan National Park	1.000000	0.3250	0.6625
+	%d1 3/10	Chitwan National Park	##national park	%% World Heritage Site; full accommodations; elephant-jeep-safaris, rafting tours and guided jungle walks 
+	%d2 6/10	Chitwan National Park	##national park	%% best wildlife-viewing destinations in Asia; sanctuary for rare and endangered species; elephants, leopards, Indian bison, rhinoceros and sloth bears 
+	%d3 10/10	Chitwan National Park	##national park	%% Heart of the jungle; dense marshland, crocodile infested waters and thick forests; boiling hot weather; Rare reptiles, birds and mammals thrive
+	%d4 8/10	Chitwan National Park	##national park	%% World Heritage Listed; amazing flora and fauna; Bengal tiger roams free 
+	%d5 0/7	Chitwan National Park	##national park	%% UNESCO World Heritage Status; incredibly rare species; Bengal Tiger and single-horned Asiatic Rhino reside here 
+
+5	Annapurna Circuit	0.800000	0.500000	0.650000
+	%d2 2/10	Annapurna Circuit	##trail	%% high into the Himalayas; desert plateaus and through lush subtropical valleys; one of the most popular treks in Nepal; lodges and tea stops at hourly intervals
+	%d3 4/10	Annapurna Circuit	##trail	%% popular trail; dense mossy forests; icy waterfalls; tantalizing glimpse of the high mountains
+	%d5 0/7	Annapurna Circuit	##trail	%% one of the very best treks in the world; lodges and eateries along the route; traditional Buddhist village life 
+	%d1 9/10	Annapurna Base Camp	##trail	%% luscious rhododendron forests; high altitude landscapes 
+
+6	Bhaktapur	0.800000	0.46667	0.63333
+	%d5 0/7	Bhaktapur	##town	%% third largest town in Nepal; more temples in Bhaktapur per square foot than in Kathmandu!; ideal for exploring on foot 
+	%d2 3/10	Bhaktapur	##city	%% One of three ancient capitals; Less crowded and hectic than bustling Kathmandu; pedestrian-only thoroughfares 
+	%d4 6/10	Bhaktapur	##city	%% medieval; city with temples and shrines abound; amazing religious architecture 
+	%d3 7/10	Bhaktapur	##city	%% charming medieval alleys; well preserved city; beautiful wood carvings; peace of having no traffic
+
+7 	Patan	0.400000	0.650000	0.525000
+	%d3 3/10	Patan	##city	%% temple-saturated city; rooftop cafe's; vibrant colors on display 
+	%d2 4/10	Patan	##city	%% stunning display of Newari architecture; recently restored stone Krishna Temple; gorgeous handmade silk saris 
+
+8	Mount Everest	0.4	0.6	0.5
+	%d4 4/10	Mount Everest	##mountain	%% world's highest mountain 
+	%d5 0/7	Everest	##mountain	%% highest mountain in the world; roof of the world 
+
+8	Poon Hill	0.200000	0.800000	0.500000
+	%d1 2/10	Poon Hill	##viewpoint; trail	%% unobstructed and magnificent mountain views; dense mossy forests; icy waterfalls 
+
+8	Garden of Dreams	0.200000	0.800000	0.500000
+	%d4 2/10	Garden of Dreams	##garden	%% historical gardens; European architecture; great place to relax 
+
+11	Gosaikunda Lake	0.200000	0.600000	0.400000
+	%d1 4/10	Gosaikunda Lake	##lake	%% adventure travel destination; religious site according to Hindu mythology 
+
+12	Panch Pokhari	0.200000	0.500000	0.350000
+	%d1 5/10	Panch Pokhari	##lake; temple	%% five holy lakes; pristine mountain views; holy and of religious importance 
+
+12	Festival of Holi	0.200000	0.500000	0.350000
+	%d4 5/10	Festival of Holi	##festival	%% ancient Hindu festival; mythical demon Holika; throw coloured paint and water balloons 
+
+14 	Lumbini		0.600000	0.05	0.325
+	%d5 0/7		Lumbini	##town; historic site	%% most important Buddhist site in the world; here that Lord Buddha was born; UNESCO World Heritage Site 
+	%d3 9/10	Lumbini	##town; historic site	%% birth-place of one of history's most revered figures; majestic temples and beautiful scenery and tranquility 
+	%d2 10/10	Lumbini	##town; historic site	%% Crowds of Buddhist pilgrims; birthplace of Siddhartha Gautama; multiple monasteries, sacred ponds, meditation centers and cultural facilities 
+
+15	Khaptad National Park	0.200000	0.400000	0.300000
+	%d1 6/10	Khaptad National Park	##national park	%% steep slopes, streams and moorland; tranquility and peace 
+
+15	Langtang Trek	0.200000	0.400000	0.300000
+	%d3 6/10	Langtang Trek	##trail	%% relatively unheard of; superb nature treks; splendid verdant mountains and forests; therapeutic river sounds
+
+17	Rara Lake	0.200000	0.300000	0.250000
+	%d1 7/10	Rara Lake	##lake; nature reserve	%% rare and vulnerable species; shimmering blue jewel set in a ring of snowy peaks; biggest lake 
+
+17	Khumbu		0.200000	0.300000	0.250000
+	%d2 7/10	Khumbu	##region	%% Sherpa village of Namche Bazaar; country's foremost Buddhist center; stunning views of the tallest mountain on the planet 
+
+19	Upper Mustang	0.200000	0.200000	0.200000
+	%d1 8/10	Upper Mustang	##historic site	%% Buddhist kingdom; rocks in all kinds of colors and bizarre formations; desolate landscape 
+
+19	Nagarkot		0.200000	0.200000	0.200000
+	%d2 8/10	Nagarkot	##town; viewpoint	%% majesty of the Himalayas without arduous physical activity; commands views of eight Himalayan ranges; sun rising over the Himalayas 
+
+19	Gokyo Lakes		0.200000	0.200000	0.200000
+	%d3 8/10	Gokyo Lakes	##region; trail	%% off-the-beaten-path trail; breath-taking views of Mt Everest; dazzling lakes; Sherpa heartland
+
+22	Janakpur		0.200000	0.100000	0.150000
+	%d2 9/10	Janakpur	##city	%% capital of a millennia-old Indian kingdom; 100 sacred pools and ponds; place where Lord Ram wed Sita; Maithili culture
+
+22	Bodhnath	0.200000	0.100000	0.150000
+	%d4 9/10	Bodhnath	##temple	%% largest stupa; Tibetan prayer flags and Tibetan Monks 
+
+24	Tilicho Lake	0.200000	0.000000	0.100000
+	%d1 10/10	Tilicho Lake	##lake; trail	%% one of the highest lakes in the world; revitalizing experience; extremely adventurous terrain 
+
+24	Dhulikhel		0.200000	0.000000	0.100000
+	%d4 10/10	Dhulikhel	##town	%% panoramic views of the Himalayas; square lined with temples 

@@ -1,0 +1,106 @@
+1 Buenos Aires 1 0.58 0.79
+%d6 1/13 Buenos Aires ##city %% European-style metropolis; brimming with potential
+%d7 1/9 Buenos Aires ##city %% European-looking city with an fabulous Latin Vibe; "The Paris of South America"; shopping
+%d8 8/8 The Autonomous City of Buenos Aires ##city %% Opulent architectural structures along wide boulevards; Tango performances on the weekends; mate ceremony
+%d9 12/15 Tango til dawn in Buenos Aires ##city %% mix of Argentine culture and cosmopolitan city life; full-on, round-the-clock city; tango halls that go on way past dawn
+%d10 1/10 The City ##city %% a riot of colour, festivals, music and dance; wide streets, stunning buildings and vibrancy of its people and culture
+
+2 Salta 0.8 0.58 0.69
+%d6 4/13 Salta & Jujuy ##region %% colonial towns; Andean culture; remnants of the conquering Spanish; adobe and wood churches; colonial architecture; adventure sport
+%d7 7/9 Salta and the North West ##region %% beautiful valley surrounded by the fantastic Andean peaks; anthropology museum, the MAAM (Museo de Antropologia de Alta Montaña); Trn a las Nubes (Train to the Clouds); dry landscapes, pretty adobe villages, traditional crafts markets and some of the best wines in the country
+%d8 2/8 Salta ##city %% bright coloured churches; manicured town squares; cobbled streets; colonial architecture
+%d9 5/15 Head north to colonial Salta ###city %% colonial Spanish architecture; pre-Inca ruins at Santa Rosa de Tastil; stunning red gorge of the Quebrada de Humahuaca; rose-tinted mountains
+
+3 Iguazu 1 0.33 0.665
+%d6 6/13 Iguaz? ##region %% 275 waterfalls;towering mass of spray and sound
+%d7 9/9 Cataratas del Iguazu ##waterfall %% several trails to admire the local wildlife; get completely soaked; hear the roar of the waterfalls; natural light illuminates the waterfalls
+%d8 7/8 Devil's Throat at Iguazú Fals ##waterfall %% acoustic impact
+%d9 11/15 Take a shower in the Iguazú Fals ##waterfall %% viewing platforms and spray-drenched catwalks; 275 separate falls275 separate falls
+%d10 3/10 Iguazu Falls ##waterfall %% taller than Niagara and twice as wide; thunderous noise is deafening; mist that hangs in the air from the battering the water receives soaks you from a long way away
+
+4 El Calafate 0.8 0.43 0.615
+%d6 5/13 El Calafate ##town %% Glaciar Perito Moreno; Upsala and the Spegazzini; celestial radiance of the glaciers
+%d7 4/9 El Calafate, Patagonia and the glaciers ##region %% lakes and glaciers; icebergs that float on the lake; hiking on the Perito Moreno; fossils
+%d8 4/8 El Calafate & Los Glaciares National Park ##national park %% Perito Moreno; Watch large chunks of ice crash into the water below; ski-village feel; glacier treks
+%d9 14/15 Watch glaciers calve at Los Glaciares National Park ##national park %% rugged mountains and clear lakes; Perito Moreno
+
+5 Mendoza 0.8 0.40 0.6
+%d6 10/13 Mendoza ##city %% country's primary wine-producing region; Cerro Aconcagua, the continent's highest peak; Río Mendoz
+%d7 6/9 Mendoza ##city %% boulevards and cosmopolitan café; wine tasting tour
+%d8 3/8 Mendoza ##city %% Malbec, Tempranillo, Torrontes and Chardonnay; wineries at around 2,000-3,600 feet
+%d9 9/15 Sample Mendoza's fine wines ##region %% some of the New World's best tipples; learn about winemaking at a traditional bodega (winery)
+
+6 La Boca 0.2 0.92 0.56
+%d9 1/15 Discover vibrant La Boca ##city district %% rainbow of painted houses and artistic talents; colourful portside neighbourhood
+
+7 Ushuaia 0.8 0.29 0.545
+%d7 3/9 Ushuaia and Tierra del Fuego ##region %% several walking trails; Tren del Fin del Mundo; a day cruise across the Beagle Channel; Les Eclaireurs Lighthouse
+%d8 6/8 Ushuaia ##town %% adventure cruises to Antarctica; boat ride across the Beagle Channel; experience a large penguin colony up close; Lighthouse at the end of the world
+%d9 13/15 Travel to the 'Ends of the Earth' at Tierra del Fuego ##region %% Gateway to the Antarctic; windswept archipelago of craggy peaks; Ushuaia, the world's most southerly city
+%d10 9/10 The End of the World ##city %% furthest south in the world; relatively temperate
+
+8 Food 0.4 0.68 0.54
+%d9 2/15 Feast on a meaty parilla ##other %% delicious meat experience
+%d10 5/10 Eating in Argentina ##other %% beef; juicy, succulent steaks or hearty stews and in abundance
+
+9 Puerto Madryn 0.6 0.46 0.53
+%d7 2/9 Puerto Madryn, the Peninsula Valdes and Punta Tombo ##region %% beach destination; thriving wildlife; austral whales; largest penguin nesting region in South America
+%d9 15/15 Watch whales in Puerto Madryn ##nature reserve %% prime whale-watching location; bulky masses of elephant seals basking on the shoreline
+%d10 4/10 Valdes Peninsula ##region %% whales play boisterously in the icy waters; million and a half Magellan Penguins
+
+10 Rosario 0.2 0.85 0.525
+%d6 2/13 Rosario ##city %% up-and-coming city; riverside location; being the birthplace of both Che Guevara and the nation's flag; thriving art scene; lively nightlife
+
+11 Quebrada de Humahuaca 0.6 0.43 0.515
+%d7 8/9 Quebrada de Humahuaca ##region %% few remaining indigenous groups of Argentina; Pucará de Tilcara, an Inca archeological sit; packed with color, beautiful cobbled street, lively markets and friendly locals; Salinas Grandes, a large salt flat at 3350 meters above sea level
+%d8 1/8 Quebrada de Humahuaca ##nature %% multicoloured mountain range; extensive network of Inca trails; pre-Incan fortress nearby, Pucará de Tilcar
+%d10 7/10 Quebrada de Humahuaca ##town %% regiments of cactus that seem to be waiting, guarding the valley like a posse; UNESCO Heritage Site; founded by the Incas
+
+12 Pampas 0.4 0.62 0.51
+%d6 3/13 Pinamar, Cariló & Mar de las Pamas ##region %% Upmarket beach town; summertime playground of the smart set; beaches extending to 300 metres in places
+%d9 8/15 Ride like a gaucho in the Pampas ##region %% flat and fertile lowlands; stay at an estancia (Argentine-style ranch)
+
+13 Lake District 0.4 0.6 0.5
+%d9 3/15 Go wild in the Lake District ##region %% glacial lakes, towering mountains and dense forests
+%d10 6/10 The Seven Lakes Region ##region %% emerald hills and sapphire blue lakes against a cobalt sky; silent ink black sky
+
+14 Bariloche 0.4 0.45 0.425
+%d6 9/13 Bariloche, El Bolsón & Villa La Angostua ##region %% rarest trees on the planet, the arrayanes; advanced infrastructure; influence of the hippie squatters
+%d10 4/10 Have a mountain break in Bariloche ##region %% locally-made chocolate; Andean scenery
+
+15 Glaciers 0.2 0.8 0.41
+%d10 2/10 The Glaciers ##glacier %% extend like a giant tongue down massive valleys
+
+16 El Chalten 0.4 0.41 0.405
+%d7 5/9 El Chalten ##town %% iconic Fitzroy mountain range
+%d8 5/8 El Chalten ##town %% hikers paradise; views of valleys, glacial rivers and lakes reflecting adjoining mountains
+
+17 Nahuel Huapi 0.2 0.6 0.4
+%d9 6/15 Hike around Nahuel Huapi ##national park %% extinct Tronador Volcano, alpine meadows and amazing fauna, sprawling glacial lake
+
+18 River Manso 0.2 0.53 0.365
+%d9 7/15 Raft down the Manso ##river %% wild rapids on the River Manso
+
+19 Misiones 0.2 0.46 0.33
+%d6 7/13 Misiones ##region %% dense forests; rustic lodges; Jesuit ruins; remote waterfalls; yerba mate plantations; forest
+
+20 Parque Sierra de las Quijadas 0.2 0.38 0.29
+%d6 8/13 Parque Sierra de las Quijadas ##national park %% burnt-red canyons and valleys; criss-crossed by dry river beds and surrounded by cliff walls
+
+21 Andes 0.2 0.33 0.265
+%d9 10/15 Ski down the Andes ##mountain %% world-class advanced slopes
+
+22 Valley of the Moon 0.2 0.2 0.2
+%d10 8/10 Valley of the Moon ##nature %% impossible rock formations; fossils of dinosaurs; dinosaur footprints; fossilised trees; evidence of early civilisation
+
+23 Esteros de Ibera 0.2 0.15 0.175
+%d6 11/13 Esteros del Iber� ##nature %% more than 350 types of bird; rare and exotic species of mammal, reptile and amphibian; second-largest wetland in the world
+
+24 Tigre 0.2 0.08 0.14
+%d6 12/13 Tigre ##town %% small, charming town with leafy Victorian neighbourhoods
+
+25 Cordoba 0.2 0.0 0.1
+%d6 13/13 Las Sierras de Córdob ##nature %% asados at the cabaña; Cerro Champaquí, the province's tallest peak
+
+25 Tango 0.2 0.0 0.1
+%d10 10/10 Tango Time ##other %% powerful, erotic story told through dance of the prostitute who doesn't want to give her services too easily to the gaucho

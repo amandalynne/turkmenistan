@@ -1,0 +1,94 @@
+1 Ulaanbaatar 0.4 0.904545455 0.652272727
+%d1 1/10 Ulan Bataar ##city %%capital city;third of the Mongolian population; Mongolian Museum of Natural History; cultural experience; excellent collection of dinosaurs; interesting artefacts; Genghis Khan; The Winter Palace of Bogd Khan; last-living Buddha
+%d5 1/11 Ulaanbaatar ##city %%main hub; foreign tourists; capital of Mongolia; economic, cultural and a political center; number of tourist attractions
+
+2 Gandan Monastery 0.4 0.759090909 0.579545455
+%d1 3/10 Gandan Khiid ##temple %%Gandantegchinlen; great place of complete joy; 600 monks; Ochidara Temple; significant ceremonies are held; large statue; main attraction is the magnificent white Migjid Janraisig S&#252;m;Buddha of Longevity
+%d5 2/11 Gandan Monastery ##temple %%largest and most significant Tibetan-style monastery; over 200 monks in residence
+
+3 Gobi Desert 0.4 0.7 0.55
+%d1 4/10 Gobi Desert ##desert %%southern third of Mongolia; sparsely populated; home to small pockets of Nomads; herds of camels; majestic sand dunes; mountain ranges; narrow canyons; more than just sand; rich in desert wildlife; extraordinary camping experience; days are extremely hot; temperatures at night can plummet
+%d4 1/5 Gobi Desert ##desert %%large desert region; notable in history as part of the great Mongol Empire; location of several important cities along the Silk Road;large nature reserves;
+
+4 Bogd Khan Mountain 0.2 0.8 0.5
+%d1 2/10 Bogd Khan Mountain ##national park %%majestic mountain; oldest national park in the world; UNESCO World Heritage; Manjusri monastery; restored temple; the remains of walls and buildings; images of Buddhist deities; sacred inscriptions; popular tourist and hiking destination; close to the natural wonders
+
+5 National History Museum 0.2 0.727272727 0.463636364
+%d5 3/11 National History Museum ##museum %%history and culture from prehistoric times to the present day; Exhibitions; ethnography and traditional life; traditional dress; ethnic groups
+
+6 Kovsgol 0.4 0.5 0.45
+%d1 6/10 Kovsgol ##nature %%drive from Ulan Baatar; can be reached by plane; beautiful lake; bordering Siberia; most scenic province; biggest salmon in the world; fish, trekking and walking; Russian border; nomadic families; herds of yaks; Reindeer people; wigwam-styled tents; Amarbayasgalant Khiid; ancient Mongolian Buddhist monastery
+%d4 2/5 Khovsgol Lake ##lake;national park %%Mongolia&#8217;s second largest lake;one of seventeen ancient lakes worldwide more than 2 million years old;most significant drinking water reserve of Mongolia;
+
+7 Genghis Khan's Square &amp; Parliament House 0.2 0.636363636 0.418181818
+%d5 4/11 Genghis Khan's Square &amp; Parliament House ##historic site; city square %%at the heart of the city; surrounded by theaters, government buildings and banks; bronze statue; Genghis Khan and his four warriors;
+
+8 Gorkhi-Terelj National Park 0.4 0.4 0.4
+%d3 0/5 Gorkhi-Terelj National Park ##national park %%most frequented tourist places; tourist camps;horse riding; camel riding; ger camping; popular rock formations
+%d4 3/5 Gorkhi-Terelj National Park ##national park %%mountainous area with a beautiful river, forests and some interestingly shaped rocks; tourist camps; restaurants; souvenir shops; horses and camels for rent; tourist ger camps
+
+9 Bogd Khan Palace Museum 0.4 0.363636364 0.381818182
+%d3 0/5 Bogd Khan Palace Museum ##museum;historic site %%used to be the residence of the person after whom it was named;
+%d5 7/11 Bogdkhan Palace Museum ##museum; temple %%seven Summer Prayer temples; the winter palace; unique and valuable objects
+
+10 Central Museum Of Mongolian Dinosaurs 0.2 0.545454545 0.372727273
+%d5 5/11 Central Museum Of Mongolian Dinosaurs ##museum %% world famous fossils; fossils; eggs; fighting dinosaur;paleontology discoveries
+
+11 Bayanzag 0.2 0.5 0.35
+%d3 0/5 Bayanzag ##nature %%popularly called the Flaming Cliffs; glowing orange color;well known not just among tourists but more so among paleontologists;dinosaur fossils found; worth a visit simply for the view;
+
+11 Hotel Mongolia 0.2 0.5 0.35
+%d3 0/5 Hotel Mongolia ##hotel %%luxury hotel; walled camp;Tibetan architecture;stone gers; traditional gers; temple rooms; regular suites;not open during the winter season
+
+11 Yolyn Am 0.2 0.5 0.35
+%d1 5/10 Yolyn Am ##nature %%birdlife; famous for its dramatic rocky cliffs and narrow, heavily-shaded canyons;Valley of the Vultures; located within the Gobi Gurvansaikhan National Park; Gobi Desert; gets little precipitation
+
+11 Skhbaatar Square 0.2 0.5 0.35
+%d2 0/6 Skhbaatar Square ##memorial; city squre %%revolution leader whose statue also stands in the square; site for cultural shows; major state ceremonies;
+
+11 Gandantegchinlen Monastery 0.2 0.5 0.35
+%d2 0/6 Gandantegchinlen Monastery ##temple %%center of Buddhist learning; Great Place of Complete Joy
+
+11 Sainshand 0.2 0.5 0.35
+%d2 0/6 Sainshand ##city %%capital of Dornogovi Province; typical desert climate;
+
+11 Danzanravjaa Museum 0.2 0.5 0.35
+%d2 0/6 Danzanravjaa Museum ##museum %%original artistic creations;
+
+11 Khamariin Khiid 0.2 0.5 0.35
+%d2 0/6 Khamariin Khiid ##temple %%restored Buddhist monastery;energy center of the country;
+
+11 caves 0.2 0.5 0.35
+%d2 0/6 108 caves ##cave; temple %%used to meditate; best suited for meditation; popular pilgrimage site
+
+20 Choijin Lama Temple 0.4 0.272727273 0.336363636
+%d3 0/5 Choijin Lama Temple ##temple; museum %%Buddhist monastery; fine sample of the architecture;dance masks; religious instruments; paintings;converted into a museum
+%d5 8/11 Choijin Lama Temple Museum ##museum; temple %%situated in the center of Ulaanbaatar; fine collection of arts and religious relics; one of the most beautiful monasteries in Mongolia
+
+21 Tumen Ekh Ensemble 0.2 0.454545455 0.327272727
+%d5 6/11 Tumen Ekh Ensemble ##show %%premier traditional performance group; folk song, traditional music, dance and contortion;folk art;traditional Mongolian music
+
+22 Altai 0.4 0.2 0.3
+%d1 8/10 Altai ##nature %%most barren and highest mountain range; big lakes; excellent hike; trekking; mountaineering; traditional form of throat singing; Many wild and rare animals
+%d4 4/5 Altai Tavan Bogd National Park ##national park %% highest mountain of Mongolia; lakes;protected area;highest mountains; largest glacier
+
+23 Khanggai 0.2 0.3 0.25
+%d1 7/10 Khanggai ##nature %%mountain range; ancient capital;scenic wonder; largest waterfall; hot springs; treks;local nomads; yaks; Erdene Zuu; oldest and most famous Buddhist monastery;
+
+24 Zaisan Hill 0.2 0.181818182 0.190909091
+%d5 9/11 Zaisan Hill ##memorial %%best view of the city and surrounding hills; standing statue of Buddha
+
+25 Khentii 0.2 0.1 0.15
+%d1 9/10 Khentii ##nature %%historical sites linked to Genghis Khan; luxury tourist camps; Horse-riding; trekking; birdwatching;
+
+26 International Intellectual Museum 0.2 0.090909091 0.145454545
+%d5 10/11 International Intellectual Museum ##museum %%items from 130 countries around the World; friendly environment; guide is available for every visitor; visitors are allowed to touch
+
+27 Orkhon Valley 0.2 0.0 0.1
+%d1 10/10 Orkhon Valley ##nature;historic site %%one of the most important cultural regions in the world; UNESCO World Heritage; centre of the Mongolian Empire
+
+27 Erdene Zuu 0.2 0.0 0.1
+%d4 5/5 Erdene Zuu ##temple %%earliest surviving Buddhist monastery; active Buddhist monastery; museum that is open to tourists
+
+27 Zanabazar Fine Art Museum 0.2 0.0 0.1
+%d5 11/11 Zanabazar Fine Art Museum ##museum; art %%figures of Buddha sculpted in bronze; silver, gold and pearl mandala;traditional Mongol zurag paintings

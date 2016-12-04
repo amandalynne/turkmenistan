@@ -1,0 +1,136 @@
+1    Machu Picchu     0.8        0.9        0.85
+% d1 0/8  Machu Picchu ##ruin    ##historic site     ##archaeological site %% Lost city of Inca; most visited tourist attraction; most important archaelogical sites in South America; over 5 square miles; two thousand feet over urubamba river and invisible from below; retreat for inca king; UNESCO world heritage site; Most famous historical site in all of South America; Inhabited only for over 100 years and abandoned during Spanish conquest; Has a mystical appeal;
+% d2 0/10 Machu Picchu ##ruin    ##historic site     ##archaeological site %% Most famous historical site in all of South America; Inhabited only for over 100 years and abandoned during Spanish conquest; Has a mystical appeal
+% d3 1/10 Machu Picchu ##ruin    ##historic site     ##archaeological site %% most beautiful and impressive ancient sites in the world; Lost City of the Incas; Completely self contained; surrounded by agricultural terraces and watered by natural springs;
+% d4 0/13 Machu Picchu ##ruin    ##historic site ##archaeological site  %% Most famous citadel of the ancient Inca Empire; most famous archaeological site in the whole continent; can visit Machu Picchu by train, on a day trip from Cusco
+
+2    Nazca Lines    0.6        0.8     0.7
+% d2    0/10 Nazca Lines     ##archaeological site ##historic site     %% Nazca lines are immense ancient geoglyphs ; Traced into the Peruvian desert over 1500 years ago; They feature images of various creatures of Peru, including monkeys, spiders; Best viewed from the air; Held some sacred value for the Nazca people
+% d3    2/10 Nazca Lines    ##archaeological site ##historic site    %%  Located between the towns of Nazca and Palpa; The lines were created on large scale; flights in a Cessna to view the lines
+% d4    0/14 Nazca Lines    ##archaeological site ##historic site      %%  astronomical size lines; geoglyphs of Nazca; sizes exceeding 656 feet in length; UNESCO Heritage List; incredible feat. of ancient artistry ; most underrated and breathtaking
+
+3  Manú National Park    0.4     0.93    0.665
+% d4    0/14 Manú National Park ##park      %%  UNESCO-listed park ;  multitude of ecosystems, flora and fauna;
+% d5    1/15 Manú National Park ##park       %%  most attractive areas; rainforest ;  1.7 million hectares;  highly diverse cloud forest;  Amazon wildlife;
+
+4    The Pacaya Samiria National Reserve    0.2     0.86    0.63
+% d5    2/15  The Pacaya Samiria National Reserve ##park      %% flooded Amazon Rainforest; Get to it  by cruise; country’s largest reserve;  most luxurious cruises;
+
+5    Chan Chan     0.6     0.5        0.55
+% d1 0/8 Chan Chan         ##archaeological site ##historic site     ##city    %% Covers an area of 36 square miles ; Center of goverment for Chimu kingdom ; Means 'Sun Sun'; Largest pre-colombian city in South America; UNESCO world heritage site
+% d2 0/10 Chan Chan         ##archaeological site ##historic site     ##city    %% Largest pre-columbian city; Located in dester plain inNorthen peru ; Seat of Kingdom of Chimor; Largest adobe city on earth;
+% d4 0/14 Chan Chan        ##archaeological site ##historic sites    ##architecture %%  largest, pre-colonial citadel; 500km north of Lima;  Chimu archaeological site ; most opulently decorated.; sophisticated irrigation system in driest region of earth
+
+6    Cusco     0.6     0.5        0.55
+% d1 0/8 Cusco ##archaeological site       ##historic site      %% Capital of inca empire from 13th century to arrival of Spanish; Inca architecture; Survived many earthquakes; World heritage site
+% d2 0/10 Cusco ##archaeological site       ##historic site      %% Historic Inca capital of Peru ; Located in foothulls of Andes; Represent the testament to various cultural inheritances which make Peru a unique country ;
+% d4 0/14 Cusco ##archaeological site  ##historic site ##city      %%  Former capital city of the Incas; colonial architecture, ancient ruins, and an incredible mountainous landscape; high altitude city;
+
+7    Colca Canyon    0.4        0.7        0.55
+% d3    3/10 Colca Canyon ##canyon    %% Deep canyon; At 4,160 meters ;  twice as deep as the Grand Canyon; Andean condors are major attraction
+% d4    0/14 Colca Canyon ##canyon    %% third most-visited site in the country; over 3,270m deep; spectacular views; multitude of agricultural terraces 160km from Arequipa
+
+8    Inca Trail    0.2     0.8        0.5
+% d3    2/10 Inca Trail     ##trail      %%  Most famous hikes in the world; Connect the small town of Aguas Caliente and Machu Picchu; 26 miles; high-altitude trek; May to September are the best months
+
+9    The Tambopata National Reserve    0.2     0.8        0.5
+% d5    3/15 The Tambopata National Reserve ##park      %%   largest tracts of protected tropical forest; 1.5 million hectares; contains a very high diversity of animals and plants; rainforest’s largest macaw clay; high diversity of monkeys; mountain biking;
+
+10    The Tamshiyacu Tahuayo Reserve    0.2     0.73    0.465
+% d5    4/15 The Tamshiyacu Tahuayo National Park ##park    %% fantastic diversity of species; The Tahuayo Lodge offers a private guide and a customized itinerary;  420,000 hectares of Amazon Rainforest;
+
+11    Arequipa    0.4     0.5        0.45
+% d2    0/10 Arequipa     ##city %% Known as the White City; Third largest city in Peru, after Lima and Cuzco; Colonial architecture of the Spanish; Architectural style known as ‘escuela arequipeña’
+% d4    0/14 Arequipa     ##city    %% sheer looks; UNESCO Historic Center; On base of often-times snow-capped volcanoes;  most beautiful cities you will ever visit; Peru’s best museums
+
+12    Sacred Valley of the Inca     0.4        0.5        0.45
+% d1 0/8  Sacred Valley of the Inca     ##archaeological site ##historic site      %% Streches from Cusco to Machu Pichu; Has many historical and archaelogical sites; Has the only fortress that resisted the spanish attack
+% d2 0/10 Sacred Valley of the Inca     ##archaeological site ##historic site      %% The valley stretches across the Andes; The entire valley was a revered site for the Incas; Include the Inca city of Pisac
+
+13    Lima    0.4        0.5        0.45
+% d2    0/10 Cercado de Lima    ##archaeological site ##historic site     ##city    %% Now a modern metroplois ; Was considered the most beautiful city in the New World; Has Spanish architecture
+% d4    0/14 Lima        ##city      %% capital; 8 million people; 43 districts ; Has Miraflores, an upmarket seaside hub
+
+14    The Huascaran National Park    0.2     0.66        0.43
+% d5    5/15 The Huascaran National Park ##park    %%  340,000 hectares of Cordillera Blanca habitat;  hundreds of glaciers;  highest mountain in Peru. 22,205 feet;
+
+15    The Titicaca National Reserve    0.2     0.6        0.43
+% d5    6/15 The Titicaca  National Park ##park      %%  protects the famous Lake Titicaca and its wildlife.; highest large-lake;  giant Titicaca frog,; 36,000 hectares;
+
+16    Plaza de Armas    0.2     0.6        0.43
+% d3    4/10 Plaza de Armas ##building    %% Heart of Cuzco; Located in the city center; Popular outdoor lunch destination
+
+17    The Allpahuayo Mishana National Reserve        0.25    0.53    0.39
+% d5    7/15 The Allpahuayo National Park ##park      %%  close to Iquitos city; white sand forests; 60,000 hectares;  number of trails within the area;
+
+18    Lima Cathedral     0.2     0.5        0.35
+% d1 0/8 Lima Cathedral         ##architecture ##church      %% Built by Spanish; Most distinctive example of spanish colonial arts in the Americas; UNESCO world heritage site
+
+19    Huaca Pucllana     0.2     0.5        0.35
+% d1 0/8 Huaca Pucllana     ##architecture ##city      %% Ceremonial and administrative center for the Lima culture; Historic cultural park; Important relegious center of Lima culture; More than 16 acres; Has great pyramid;
+
+20    El Brujo     0.2     0.5        0.35
+% d1 0/8 El Brujo          ##archaeological site ##historic site         %% Used to perform Shamanic rituals; Situated on a natural terrace 17 meters above sea level and with area of 247 acres close to seashore;
+
+21    Lake Titicaca    0.2     0.5        0.35
+% d2    0/10 Lake Titicaca     ##archaeological site ##historic site ##lake %% Shared with Peru’s neighbour Bolivia; Largest lake in South America by volume; Famous for the distinctive communities which exist on many of the tiny island
+
+22   Puno    0.2     0.5        0.35
+% d4    0/14 Puno ##town      %%  simple port city;  great base for all Lake Titicaca explorations;
+
+23    Huaca de la Luna     0.2     0.5        0.35
+% d1 0/8 Huaca de la Luna   ##archaeological site ##historic site     ##city    %% Part of ancient city of Huacas de Moche whih was capital city of Moche people; Dates back to 1st century BC preceding Moche and Chimu, Inca which followed them; Sturctures have not weathered well over the years;
+
+24    Huaraz    0.2     0.5        0.35
+% d4    0/14 Huaraz ##town      %%  wonderful mountain town; treasure trove of archaeological sites; absolutely stunning nature; hiking trip from Huaraz to famed Laguna 69
+
+25  Cordillera Huayhuash    0.2     0.5        0.35
+% d4    0/14 Cordillera Huayhuash ##mountain      %% most sensational in all of South America;  best high-altitude trekking on the planet;  20km long ; breathtaking views; glacier crossings and rock climbing
+
+26    Caral    0.2     0.5        0.35
+% d2    0/10 Caral     ##archaeological site ##historic site %% Most ancient architectural site; Oldest urban site; Crucial piece of evidence revealing the transition from a nomadic to a settled lifestyle; 200 km north of Lima and is made up of 19 pyramid structures
+
+27    Chavín de Huántar    0.2     0.5        0.35
+% d2    0/10 Chavín de Huántar     ##archaeological site ##historic site %% Now one of the most famous pre-Columbian archaeological site; Located at an altitude of 3,177 metres; Both an agricultural center and a religious and ceremonial site.
+
+28    Uros Islands    0.2     0.5        0.35
+% d3    5/10 Uros Islands ##island    %%   Artificial islands; Made of dried totora reeds; Uros, a pre-Incan people; Reed is also a primary source of food
+
+29    The Paracas National Park    0.2     0.46    0.33
+% d5    8/15 The Paracas National Park ##park ##archaeological site %%  southern Peru on the Paracas Peninsula ;  100 different archaeological sites identified within the protected area; tour boat to visit the Ballestas Islands to see different birds and sea lions;
+
+30    The Cordillera Azul National Park    0.2     0.4        0.3
+% d5    9/15 The Cordillera National Park ##park      %% tropical montane forest on the eastern slope of the Andean mountain range ;  largest of Peru’s protected areas; 6,000 different plants;  200 different fish species;
+
+31 Iquitos     0.4     0.2        0.3
+% d3    8/10 Iquitos (Amazon River)     ##city      %%  Adventure holiday destination;  the world’s largest city that cannot be reached by road;
+% d3    0/14 Iquitos    ##city      %%   largest city in this section of the Amazon; can be reached by plane from Lima and Cusco; Amazonia Adventures; disconnect from the modern world ;
+
+32    Santa Catalina Monastery    0.2     0.4     0.3
+% d3    6/10 Santa Catalina Monastery ##archaeological site ##historic sites    ##architecture %% Covers a walled area of 20,000 square meters; Mudéjar style; most important monasteries of colonial Peru and Latin America.
+
+33    The Tumbes National Reserve        0.2     0.33    0.265
+% d5    10/15 The Tumbes National Park ##park      %%  70,000 hectares; Desert surrounds the protected area; unique diversity of birds and over 250 species
+
+34    Mancora        0.4        0.1        0.25
+% d3    9/10 Mancora ##town      %% On northern coast; Peru’s best sandy beach; large proportion of beach resorts; popular surfing destination
+% d4    0/14 Mancora ##town      %% Peru’s hidden secrets; northern coastal town; town is chilled-out to perfection ;  best prawn ceviche in the country
+
+35  The Cutervo National Park    0.2        0.26    0.23
+% d5    11/15 The Cutervo National Park ##park  %% r 80 km2 of habitat; You can find many different strange animals ; excellent trails in the park;  fantastic views and walks in the palm tree forests
+
+36    Huacachina      0.4        0    0.2
+% d3    10/10 Huacachina ##town      %% Tiny oasis town; Surrounds a small natural lake; Surrounded by towering sand dunes; Mostly attracts international tourists
+% d4    0/14 Huacachina ##town      %% fun-lover’s paradise;  wealth of guesthouses; shores of a large lagoon; 300km south of Lima
+
+37  The Amotape Hills National Park        0.2        0.2        0.2
+% d5    12/15 The Amotape Hills National Park ##park  %%  equatorial dry forest;  400 different birds;  endemic species ; some fantastic walking trails ; Located near Nasca on the road to Cusco;
+
+38  The Pampas Galeras National Reserve     0.2        0.13    0.165
+% d5    13/15 Pampas Galeras National Reserve ##park  %% Located near Nasca on the road to Cusco; has the vicuñas, These are related to llamas ;  located at high altitude at around 4,000 and 5,000 meters above sea levels; is mainly covered with different dry grasses.
+
+39     The Rio Abiseo National Park    0.2        0.06    0.125
+% d5    14/15 Rio Abiseo  National Park ##park  ##archaeological site %%  protects forest on the tropical Andes;   270,000 hectares of diverse Andean forests and grasslands; haven for wildlife since before the last glaciation event; 36 archaeological sites have been found in park
+
+40    The Tingo Maria National Park    0.2        0      0.1
+% d5    15/15 Tingo Maria National Park ##park  %%  Attracting 80,000 visitors each year; 4,500 hectares ; best known for its owl cave; different waterfalls and streams;

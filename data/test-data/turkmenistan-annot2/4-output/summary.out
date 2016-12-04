@@ -1,0 +1,204 @@
+1	Merw Historical Park	0.4	0.5	0.45
+	% d9	0/20	Merw Historical Park	##park; historic site	%% the most important Silk Road hub in the region; a UNESCO World Heritage Site
+	% d9	0/6	Merv	##historic site	%% an ancient city along the old Silk Road; a UNESCO World Heritage site
+
+2	Kunya Urgench Historical Park	0.4	0.5	0.45
+	% d8	0/13	Kunya Urgench Historical Park	##park; historic site	%% UNESCO World Heritage status; an important Silk Road hub on the Oxus River; several mausoleums; town wall remains; the tallest minaret in Central Asia; the Kyrk Molla pilgrim mount
+	% d10	0/6	Kunya-Urgench	##historic site	%% magnificent architecture; UNESCO World Heritage site; 200ft tall minaret
+
+2	Dehistan	0.4	0.5	0.45
+	% d7	0/13	Dehistan	##town; historic site	%% located at the banks of the Etrek River; the impressive remains of two 20 m high minarets; the remains of a mosque portal of 18 m height
+	% d10	0/6	Dehistan	##town; historic site	%% an ancient oasis; a minaret; a mosque; tentative list of UNESCO World Heritage sites
+
+2	Yangikala and Yangisuw	0.4	0.5	0.45
+	% d7	0/13	Yangikala and Yangisuw	##cliff; canyon	%% impressive white, green and red limestone formations; the remains of massive coastline and seabed of the pre-historical Parathetys Sea; surreal landscape; sunset and sunrise offer particularly spectacular views
+	% d10	0/6	Yangykala Canyon	##canyon	%% a must-see destination for visitors; millennia of natural erosion
+
+2	Ahal Region	0.2	0.5	0.35
+	% d6	0/19	Ahal Region	##region %% Ashgabat; Kopetdagh Mountains; southern parts of the Karakum Desert; mountain villages; a network of underground lakes and moon-like landscapes; (multiple-)day walking tours; sites that reflect the region's importance during the medieval Silk Road period and human presence as early as the Bronze Age; Serakhs provides another entry point into Iran; jeep safaris; horse riding treks; Tejen River; Karakum Canal; fields of grain and cotton; vineyards; fruit and vegetable plantations; processing plants
+
+2	Anau	0.2	0.5	0.35
+	% d6	0/19	Anau	##historic site; archaeological site; mosque	%% the site of an urban settlement that existed since the Bronze Ages; excavation mounts; the remains of the medieval fortress; the remains of the portal of the magnificent mosque of Said Jemaliddin; an important pilgrim destination
+
+2	Abiverd	0.2	0.5	0.35
+	% d6	0/19	Abiverd	##archaeological site	%% archaeological site showing settlements that existed since II c. BC; moderate climate; abundant bazaars; the remains of the city's citadel
+
+2	Meane Baba Mausoleum	0.2	0.5	0.35
+	% d6	0/19	Meane Baba Mausoleum	##monument	%% the mausoleum of Abu Said; an important pilgrim destination
+
+2	Ulug Depe	0.2	0.5	0.35
+	% d6	0/19	Ulug Depe	##archaeological site	%% proof of the longest chronological sequence of human habitation ever found on the territory of Central Asia; 30-m high mount at the foothills of the Kopetdag Mountains; evidence of human habitation as far back as the Neolothic era
+
+2	Altyn Depe	0.2	0.5	0.35
+	% d6	0/19	Altyn Depe	##archaeological site	%% a 22m meter high mount; the presence of a settlement from the Bronze Age; remains of a ziggurat
+
+2	Namazga Depe	0.2	0.5	0.35
+	% d6	0/19	Namazga Depe	##archaeological site	%% reference for the chronology of other Bronze Age sites in Turkmenistan
+
+2	Nodir Shah Fortress	0.2	0.5	0.35
+	% d6	0/19	Nodir Shah Fortress	##fort	%% the remains of a large fortress; located against the backdrop of the Kopetdag Mountains; walls of one kilometer long and 3 meters high; the ruins of a palace
+
+2	Nissa Historical Park	0.2	0.5	0.35
+	% d6	0/19	Nissa Historical Park	##historic site; park	%% natural high platform at the foothills of the Kopetdag mountains; proof of Hellenistic architecture and Zoroastrian worship
+
+2	Kipchak	0.2	0.5	0.35
+	% d6	0/19	Kipchak	##mosque	%% the ruhy mosque; one of the five largest mosques in the world; magnificent contrast against the backdrop of the Kopetdag mountains; the graves of Turkmenistan's first president and his family
+
+2	Geok Depe Mosque and Fortress	0.2	0.5	0.35
+	% d6	0/19	Geok Depe Mosque and Fortress	##mosque; fort	%% the remains of a 19th-century fortified settlement; the Saparmurat Haji mosque; a small histori museum; the ruins of the fortress; four tall minarets
+
+2	Kowata underground lake in Baharden	0.2	0.5	0.35
+	% d6	0/19	Kowata underground lake in Baharden	##cave	%% one out of a dozen karst caves in Turkmenistan; swim in the lake; enjoy tea and shahlyk under the trees next to the cave
+
+2	Kopetdag Mountains and the lunar landscapes	0.2	0.5	0.35
+	% d6	0/19	Kopetdag Mountains and the lunar landscapes	##nature	%% natural border with Iran; unique protected flora, birds, and mammals; some bizarre lunar-like landscapes; the Sumbar River area; dry and sub-tropical climatic conditions; an abundance of wild and cultivated forms of vegetation; barren and lunar-like hills
+
+2	Nohur	0.2	0.5	0.35
+	% d6	0/19	Nohur	##town; nature	%% home to a small community that lives in the high valleys of the Kopetdag Mountains; isolation from mainland Turkmenistan; a center of keteni(Turkmen silk) weaving; an opportunity to enjoy magnificent mountain landscapes, canyons, waterfalls, and highlands
+
+2	Karakala	0.2	0.5	0.35
+	% d6	0/19	Karakala	##town	%% a small and pleasantly tree-lined mountain town in the heart of the Kopetdag Mountains; botanical garden; the base for wildlife protection activities; a museum dedicated to the famous Turkmen poet Magtymguly
+
+2	Karakum Desert	0.2	0.5	0.35
+	% d6	0/19	Karakum Desert	##desert	%% 35m high mounts of loose sand; broad, flat areas of fertile clay soil; desert acacia; poplar; while and black saksaul; flat plains encrusted with salt; herds of sheep and camels; springtime is magnificent
+
+2	Erbent and Bokurdok	0.2	0.5	0.35
+	% d6	0/19	Erbent and Bokurdok	##town	%% inhabited by people of the Teke tribe; a glimpse into desert life; yurt construction; baking of Turkmen flat bread; the milking of camels
+
+2	Murzachirla and Akmolla	0.2	0.5	0.35
+	% d6	0/19	Murzachirla and Akmolla	##town	%% a cluster of authentic desert settlements; camp style overnight; remoteness and limited influence from modern urban development; hospitality; nomatic lifestyle features; the villages come to life at sunrise and sunset
+
+2	Darwaza	0.2	0.5	0.35
+	% d6	0/19	Darwaza	##other	%% the center of a gas-right area in the heart of the Karakum desert; unique burning crater; a particularly spectacular view in the dark; an underground cavern filled with natural gas; a large circular 60-m wide hole; hundreds of fires burning; flames up to 10-15m high
+
+2	Balkan Region	0.2	0.5	0.35
+	% d7	0/19	Balkan Region	##region %% entry point into Iran; access into Kazakhstan; Turkmenbashi town; Turkmenistan's port that offers connection to Baku in Azerbaijan; Awaza seaside area; dozens of resorts; Balkanabad; spectacular volcanic landscapes; pre-historical coast formations
+
+2	Ferava and Parau Bibi Mausoleum and pilgrim site	0.2	0.5	0.35
+	% d7	0/13	Ferava and Parau Bibi Mausoleum and pilgrim site	##monument; historic site	%% a Silk Road hub; intricate system of karyz (underground water pipelines); one of the most important centers of pilgrimage in Turkmenistan
+
+2	Balkanabad	0.2	0.5	0.35
+	% d7	0/13	Balkanabad	##city	%% the regional capital of the Balkan region; several pleasant dining places; a comfortable hotel; day excursions to Dehistan; trips into the Yangikala Canyons; Uzboy River; Ygdykala; Balishem
+
+2	Mashhat Ata Mausoleums and the Shir Kabir Mosque	0.2	0.5	0.35
+	% d7	0/13	Mashhat Ata Mausoleums and the Shir Kabir Mosque	##monument; mosque	%% five mausoleums; the earliest mosque among those that survived in Turkmenistan; original fragments; tribal cemetary
+
+2	Caspian Sea	0.2	0.5	0.35
+	% d7	0/13	Caspian Sea	##lake	%% landlocked; the largest enclosed body of water on Earth; several salt marshes; Karabogaz Gulf; numerous kinds of sturgeons; trout; white fish; the Caspian seal; millions of birds winter at protected areas; thousands of flamingoes and pelicans
+
+2	Turkmenbashi Port	0.2	0.5	0.35
+	% d7	0/13	Turkmenbashi Port	##city	%% the port of Turkmenistan; cliffs which encircle the city; one of the biggest industrial and tourist centers of Turkmenistan; interesting museum
+
+2	Gozli Ata Mausoleum	0.2	0.5	0.35
+	% d7	0/13	Gozli Ata Mausoleum and pilgrim site	##monument; historic site	%% the backdrop of stunning pink and red limestone formations; one of the holiest pilgrim sites in Turkmenistan; a large Salor tribal graveyard
+
+2	Kemal Ata Mausoleum and Kaitarmysh volcanic rock formations	0.2	0.5	0.35
+	% d7	0/13	Kemal Ata Mausoleum and Kaitarmysh volcanic rock formations	##monument; nature	%% a freshwater source; a small valley; various ancient volcanic rock formations; Kaitarmysh spring; a favorite drinking place for local shepherds with their cattle; various rock formations made of dried-up lava
+
+2	Uzboy River	0.2	0.5	0.35
+	% d7	0/13	Uzboy River	##river	%% a tributary of the Amu Darya; abruptly dried up; only a few communities of kumli inhabit the area; several unique water reservoirs; the Yashka lake; the Mollagara salt lake
+
+2	Melegoch and Balishem	0.2	0.5	0.35
+	% d7	0/13	Melegoch and Balishem	##town	%% a cluster of authentic desert settlements; camp style overnight; limited influence from modern urban development; hospitality; nomadic lifestyle features
+
+2	Ygdykala	0.2	0.5	0.35
+	% d7	0/13	Ygdykala Fortress	##fort	%% the remains of a Parthian frontier fortress
+
+2	Dashoguz Region	0.2	0.5	0.35
+	% d8	0/13	Dashoguz Region	##region %% northermost region of Turkmenistan; fertile riverine oases; the UNESCO World Heritage site of Kunya Urgench; a logical gateway to neighboring Uzbekistan; lowlands; ravines; salt plains; lakes; remnants of the dried-up riverbed of the ancient Uzboy River; the ever-present Karakum Desert
+
+2	Kunya Urgench - Kutlug Timur Minaret	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Kutlug Timur Minaret	##architecture	%% located southeast of Kyrk Molla; the tallest minaret in Central Asia
+
+2	Kunya Urgench - Il Arslan Mausoleum	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Il Arslan Mausoleum	##monument	%% the oldest mausoleum on the territory of Kunya Urgench; the Khorezmian conical dome; a un-outspoken conical dome; terra-cotta stucco decorations
+
+2	Kunya Urgench - Tekesh Mausoleum	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Tekesh Mausoleum	##monument	%% the mausoleum of Soltan Tekesh; remarkable blue glazed decorated conical dome; rather high and intricately decorated entrance portal with stalactite design; square base
+
+2	Kunya Urgench - Turabek Khanym Mausoleum	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Turabek Khanym Mausoleum	##monument	%% double-domed construction; remains in excellent state to this day; impressive stalactite majolica decorations
+
+2	Kunya Urgench - Najmiddin Kubra and Sultan Ali Mausoleum Complex	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Najmiddin Kubra and Sultan Ali Mausoleum Complex	##monument	%% Najmiddin Kubra mausoleum; beautifully aquamarine majolica portal decorations; the tomb of Najmiddin Kubra
+
+2	Kunya Urgench - Kyrk Molla pilgrim hill	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - Kyrk Molla pilgrim hill	##fort	%% the remains of the fortified northern walls of a citadel; perhaps the oldest part of Kunya Urgench; local pilgrims perform an unusual prayer ritual
+
+2	Kunya Urgench - 'The Gate of the Caravanserai'	0.2	0.5	0.35
+	% d8	0/13	Kunya Urgench - 'The Gate of the Caravanserai'	##building	%% one of the few monuments preserved on the territory of Dash Gala
+
+2	Yzmukshir	0.2	0.5	0.35
+	% d8	0/13	Yzmukshir	##fort	%% unique double wall fortifications; gates; towers; enormous moat; well-reserved 25-meter high walls
+
+2	Diyarbakir	0.2	0.5	0.35
+	% d8	0/13	Diyarkabir	##historic site	%% an ancient and medieval urban site; caravanserai and bazaar from the period of the Khorezm Empire
+
+2	Shahsenem	0.2	0.5	0.35
+	% d8	0/13	Shahsenem	##historic site; fort	%% a urban site; fortified medieval town; the ruins of a large mosque
+
+2	Devkesen	0.2	0.5	0.35
+	% d8	0/13	Devkesen	##historic site; fort	%% an earthen citadel with goffered walls; currently off-limits to visitors; a walled "lower town"; 3 nameless mausoleums; a mosque of fired brick and stone
+
+2	Mary Region	0.2	0.5	0.35
+	% d9	0/20	Mary Region	##region %% fertile Murgab riverine oases; UNESCO World Heritage site of Merw; excavation sites of the Margush civilization; Gonus Depe archeological remains; entry point to Afghanistan; a bustling green-domed bazaar; the famous Mary History and Ethnography Museum
+
+2	Mary Town	0.2	0.5	0.35
+	% d9	0/20	Mary Town	##town	%% a typical provincial town; the Central Bazaar; the remains of a tsarist bathhouse and teahouse; Russian-orthodox Prokovskaya Church; Art Gallery; a large newly-built mosque
+
+2	Mary Museum	0.2	0.5	0.35
+	% d9	0/20	Mary Museum	##museum	%% an impressive octagonal-shaped building; the largest collection fo artefacts found at the BMAC excavation sites of Bronze age Margush; a good local flora and fauna section; a wonderful ethnography hall
+
+2	Merw - Erk Kala	0.2	0.5	0.35
+	% d9	0/20	Merw - Erk Kala	##fort; historic site	%% 20 hectares; enclosed by massive walls and a moat
+
+2	Merw - Gyaur Kala	0.2	0.5	0.35
+	% d9	0/20	Merw - Gyaur Kala	##fort; historic site	%% 360 ha area town planning; the now indistinctive ruins of a mosque; a mound which covered the remains of a Buddhist stupa and monastery
+
+2	Merw - Sultan Kala	0.2	0.5	0.35
+	% d9	0/20	Merw - Sultan Kala	##historic site	%% the Seljuk regional capital; an ark (governmental quarters); a shakhristan (citadel); a rabat (bazaar)
+
+2	Merw - Abdulla Khan and Bairamali Khan Kalak	0.2	0.5	0.35
+	% d9	0/20	Merw - Abdulla Khan and Bairamali Khan Kalak	##historic site	%% post-medieval city; one fo the strongest and best fortified cities in the area; the last clay-walled urban site in Merw
+
+2	Merw - Mausoleum of Sultan Sanjar	0.2	0.5	0.35
+	% d9	0/20	Merw - Mausoleum of Sultan Sanjar	##monument	%% tall brick walls; a landmark for traveling caravans; Khorasan architectural style
+
+2	Merw - Shahriar Ark	0.2	0.5	0.35
+	% d9	0/20	Merw - Shahriar Ark	##fort	%% a citadel within the citadel; an interesting corrugated structure
+
+2	Merw - Mausoleum of Ibn Zaid	0.2	0.5	0.35
+	% d9	0/20	Merw - Mausoleum of Ibn Zaid	##monument	%% monument from the time of the Seljuk rule; mausoleum dedicated to Mohamed ibn Said; remarkable interior decorations
+
+2	Merw - Shrine and pilgrim site of Yusuf Hamadani	0.2	0.5	0.35
+	% d9	0/20	Merw - Shrine and pilgrim site of Yusuf Hamadani	##mosque; memorial	%% a recently built mosque and minaret; the shrine and grave of Yusuf Hamadani; a Tumurid iwan; a prayer hall; pilgrim guesthouse facilities
+
+2	Merw - Kyz Kala Complex	0.2	0.5	0.35
+	% d9	0/20	Merw - Kyz Kala Complex	##monument	%% two outstanding monuments dating back to the Sassanid period; the Big Kyz Kala; Small Kyz Kala; rectangular clay castles; various vaults
+
+2	Merw - Ashkhabi shrines	0.2	0.5	0.35
+	% d9	0/20	Merw - Ashkhabi shrines	##memorial	%% original set of graves from the time after the death of the prophet Mohamed; the graves of two ashkhabs
+
+2	Merw - Ice houses	0.2	0.5	0.35
+	% d9	0/20	Merw - Ice houses	##architecture	%% an extraordinary conical clay construction; build directly on the ground to store tightly packed snow
+
+2	Margush and Gonur Depe	0.2	0.5	0.35
+	% d9	0/20	Margush and Gonur Depe	##archaeological site	%% a possible fifth center of ancient civilization
+
+2	Talkhatan Baba Mosque	0.2	0.5	0.35
+	% d9	0/20	Talkhatan Baba Mosque	##mosque; memorial	%% an intricately brick decorated mosque; one of the best preserved mosques displaying Seljuk architectural master class; the grave of sheikh-mystic Talkhatan Baba
+
+2	Ahun Baba Madrassa	0.2	0.5	0.35
+	% d9	0/20	Ahun Baba Madrassa	##school	%% visited by the local Baluchi community that lives in the surrounding village
+
+2	Serakhs Baba Mausoleum	0.2	0.5	0.35
+	% d9	0/20	Serakhs Baba Mausoleum	##monument	%% one of the largest archaeological monuments of Southern Turkmenistan; a citadel surrounded by a walled sakhristan; a vast rabat; the mausoleum of Abul-Fazl
+
+2	Yekedshik cave complex	0.2	0.5	0.35
+	% d9	0/20	Yekedshik cave complex	##cave	%% caves stretch along the steep right bank of the Murgab River; supposedly Buddhist complexes
+
+2	Parthian Fortress of Nisa	0.2	0.5	0.35
+	% d10	0/6	Parthian Fortress of Nisa	##fort	%% the first capital of the Parthian kingdom; UNESCO World Heritage site
+
+2	Dinosaur Fossils and Caves of Koytendag	0.2	0.5	0.35
+	% d10	0/6	Dinosaur Fossils and Caves of Koytendag	##cave; archaeological site; nature reserve	%% a nature reserve that is home to the rare heptners markhor; dinosaur fossils; evidence of prehistory in the mystical caves; tentative list of UNESCO World Hesitage sites

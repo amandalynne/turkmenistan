@@ -1,0 +1,144 @@
+1  Cliffs of Moher  0.8  0.9  0.85
+  % d1  2/17    Cliffs of Moher  ##cliff  %% magnificent cliffs; awe-inspiring; ruggedly beautiful; most visited natural attraction; raw power of nature
+  % d3  0/28    Cliffs of Moher  ##cliff  %% cliffs of ruin; valleys and hills
+  % d4  0/7    The Cliffs of Moher  ##cliff  %% offshore break; big wave surfers
+  % d5  0/5    The Cliffs of Moher  ##cliff  %% beautiful 
+
+2  Trinity College  0.6  0.94  0.77
+  % d1  1/17    Trinity College  ##building  %% oldest university; ancient treasures; scholarly pursuit; Book of Kells
+  % d3  0/28    Trinity College  ##building  %%largest research library in Ireland; historic standing; over 4.5 million books
+  % d4  0/7    Trinity College	  ##building  %% Book of Kells
+
+3  Muckrose House and Gardens  0.6  0.7  0.65
+  % d1  5/17    Muckrose House and Gardens  ##garden  %% Killarney National Park; mansion; three lakes; Muckross Lake; house and gardens; Jaunting Cars; Traditional Farms
+  % d2  0/8    Muckross House  ##building	  %% mansion; national park; azalea gardens; water garden; rock garden
+  % d3  0/28    Muckross House and Gardens  ##garden  %% stunning beauty of Killarney National Park; famed world wide for their splendor and beauty
+
+4  Kilmainham Gaol  0.4  0.65  0.53
+  % d1  6/17    Kilmainham Gaol, Dublin  ##historic site  %% notoriously dark place; troubled past; High Treason; prison; dank vile institution; symbol of oppression and persecution; spine chilling
+  % d3  0/28    Kilmainham Gaol  ##museum  %% former museum; important part of Irish history
+
+5  Glendalough  0.2  0.83  0.52
+  % d1  3/17    Glendalough, Co. Wicklow  ##church  %% monastic site; two lakes; rich history; magnificent scenery; plentiful wildlife; fascinating archaeological finds; round tower
+
+6  Grafton Street  0.2  0.76  0.48
+  % d1  4/17    Grafton Street Area, Dublin  ##city, town square  %% shopping street, cafe culture; shopping heartland; Irish breakfast; numerous alleyways
+
+7  Aran Islands  0.4  0.47  0.43
+  % d1  9/17    The Aran Islands  ##coast; island  %% Man or Aran; islands; time warp; utterly unique; towering cliffs; rich scenery; archaeological heritage
+  % d3  0/28    Aran Islands  ##coast; island  %% heritage; spirit of Gaelic Island; touch the past; Celts and Early Christians
+
+8  Powerscourt House and Gardens  0.2  0.59  0.4
+  % d1  7/17    Powerscourt House and Gardens  ##garden  %% superb views, seven lakeside walks, engaging history, stunning backdrop of Sugarloaf Mountain
+
+9  Bunratty Castle  0.6  0.17	  0.39
+  % d1  14/17    Bunratty Castle and Folk Park  ##castle  %% castle; medieval fortress; themed banquets; Folk Park; dungeons; rural setting; village shops; families and kids
+  % d2  0/8    Bunratty Castle	  ##castle  %% River Shannon; castle; Medieval Banquets; medieval furniture
+  % d4  0/7    Bunratty Castle	  ##castle  %% River Shannon; castle; Medieval Banquets; medieval furniture
+
+10  Ring of Kerry  0.4  0.35  0.37
+  % d1  11/17    The Ring of Kerry  ##coast; trail  %% scenic route; jaw dropping Atlantic Ocean views; stunning islands; wild sweeping mountains; picturesque villages; astounding natural beauty; striking landscapes
+  % d3  0/28    Ring of Kerry  ##nature; trail  %% breathtaking vistas of mountains, cliffs, and beaches; most popular drive
+
+11  Dalkey  0.2  0.53  0.36
+  % d1  8/17    Dalkey and Killing on Dublin’s south coast  ##town  %% escape the city; electric arty population; Heritage Center; castle; ferry service; Dalkey Island; Coliemore Harbour
+
+12  Little Museum of Dublin  0.2  0.41  0.3
+  % d1  10/17    The Little Museum of Dublin  ##museum  %% capital’s museums; recent history; informative; U2; joyful museum; quirkiness
+
+12  Rock of Cashel  0.6  0.0  0.3
+  % d1  17/17    The Rock of Cashel  ##nature reserve  %% countless images; cathedral; castle; Chapel; medieval buildings; limestone rock formation; audio-visual show and exhibitions
+  % d2  0/8    Rock of Cashel  ##castle  %% limestone; historical site; Brian Boru; spectacular archeological site; stone walls; cathedral; stone tower; Romanesque chapel; abbey
+  % d4  0/7    Rock of Cashel  ##fort  %% fortifications; archaeological sites; bleak magic
+
+12  Guiness Storehouse  0.6  0.0  0.3
+  % d2  0/8  Dublin The Guinness Storehouse  ##historic site  %% brewery; dark stout; exhibits; best known export
+  % d3  0/28  Guiness Storehouse  ##building  %% international visitor attraction; glass atrium
+  % d5  0/5  Guiness Storehouse  ##historic site  %% incredible
+
+12  Causeway  0.6  0.0  0.3
+  % d2  0/8    The Giant’s Causeway  ##historic site  %% geological formation; promontory; basalt rock; Finn MacCool; Scotland
+  % d3  0/28    Giants Causeway  ##nature  %% ancient volcanic eruption; world heritage site; fourth greatest natural wonder
+  % d4  0/7  Giant Causeway  ##historic site  %% highest ranking attraction
+
+16  St. Stephen's Green  0.2  0.29  0.25
+  % d1  12/17    St. Stephen’s Green, Dublin  ##national park	  %% colorful history; picnic; feed cuts; beautifully maintained gardens; Duck Pond; picturesque bridge; recreation grounds; mature trees; playground
+
+17  Kindle  0.2	  0.24  0.22
+  % d1  13/17    Kindle, Co. Cork  ##coast  %% large numbers of visitors; sailing; fishing; walking; marvelous scenery; great food; restaurants; Gourmet Festival
+
+18  Dublin Castle  0.4  0.0  0.2
+  % d2  0/8    Dublin Castle  ##castle  %%  fortress; prison; treasury; state receptions; Book of Kells; Library
+  %  d3	  0/28    Dublin Castle  ##castle  %% governmental complex
+
+18  Blarney Castle  0.4  0.0  0.2
+  % d2  0/8    Blarney Castle  ##castle  %% oldest castles; stone; lakes of Killarney; three lakes
+  % d3  0/28    Blarney Castle  ##castle  %% castle; Shannon estuary; tourist attraction; great hall; dungeons; Lord Gort; tapestries 
+
+20  Shop Street  0.2  0.12  0.16
+  % d1  15/17    Shop Street, Galway  ##shopping mall	  %% booksellers; boutiques; jewelers; cafes; street entertainers; buskers; winding pedestrian thoroughfare; medieval townhouse
+
+21  English Market  0.2  0.06  0.13
+  % d1  16/17    The English Market, Cork  ##market  %% freshest seafood; artisan breads; excellent cheeses; iconic images
+
+22  Belfast  0.2  0.0  0.1
+  % d3  0/28    Belfast  ##city  %% capital city; urban area; Troubles; calmness and growth
+
+22  Burren  0.2	  0.0  0.1
+  % d3  0/28    Burren  ##region  %% landscapes; villages; Karst; Atlantic and Galway Bay
+
+22  Carrick-a-Rede  0.2  0.0  0.1
+  % d3  0/28    Carrick-a-Rede Rope Bridge  ##bridge  %% Carrick Island; rock in the road; salmon fisherman; large gaps between the slats
+
+22  Ceide Fields  0.2  0.0  0.1
+  % d3  0/28    Ceide Fields Visitor Center  ##region  %% field systems; five thousand years; unique experience; dramatic cliffs; coastline; blanket bog
+
+22  Christ Church Cathedral  0.2  0.0  0.1
+  % d3  0/28    Christ Church Cathedral  ##cathedral  %% medieval Dublin; Wood Quay; carriage-way scheme; cathedral
+
+22  Cobh  0.2  0.0  0.1
+  % d3  0/28    Cobh Heritage Center  ##historic site  %% life in Ireland; provides information on life in Ireland
+
+22  Conor Pass  0.2  0.0  0.1
+  % d3  0/28    Conor Pass  ##mountain  %% highest mountain pass in Ireland; wonderful views of the coast; waterfall and lakes
+
+22  Dingle Penninsula  0.2  0.0  0.1
+  % d3  0/28    Dingle Peninsula  ##nature  %% archaeological monuments; remarkable preservation of monuments; heritage
+
+22  Doolan  0.2  0.0  0.1
+  % d3  0/28    Doolan  ##village  %% attracting crowds to festivals; Irish folk music; unusual circular tower; main setting for PlayStation 3 game Folklore
+
+22  Dublin  0.2  0.0  0.1
+  % d3  0/28    Dublin  ##city  %%largest city; capital of Ireland; economic, administrative and cultural center; world famous literary history
+
+22  Dublinia  0.2  0.0  0.1
+  % d3  0/28    Dublinia  ##museum  %% heritage center; three exciting exhibitions; must see; burial customs; Viking warship; noisy medieval street
+
+22  Dun Aengus  0.2  0.0  0.1
+  % d3  0/28    Dun Aengus  ##fort  %% prehistoric fort; high cliff; most magnificent barbaric monument in Europe
+
+22  Gap of Dunlop  0.2  0.0  0.1
+  % d3  0/28    Gap of Dunlop  ##nature  %% beautiful glacial valley; energetic walk or cycle; famous lakes breathtaking; viewing points
+
+22  Killarney  0.2  0.0  0.1
+  % d3  0/28    Killarney  ##town  %% world famous; exquisite location beside lakes sand mountains; Ireland’s most beautiful destination; Heaven’s Reflex
+
+22  Old Bushmill's Distillery  0.2  0.0  0.1
+  % d3  0/28    Old Bushmills Distillery  ##historic site  %% rich in history and folklore; unique unbroken whiskey-making tradition
+
+22  Titanic  0.2  0.0  0.1
+  % d3  0/28    Titanic Walk  ##nature  %% maritime history; lasting impression on the visitor; guided tour
+  % d4  0/7    Titanic Belfast	  ##museum  %% talking holograms; film footage; doomed history; macabre
+
+22  Book of Kells  0.2  0.0  0.1
+  % d3  0/28    Trinity College Dublin and Book of Kells  ##building  %%one of oldest and most famous universities in Ireland; center of capital city; famous graduates Beckett, Wilde and Swift
+  % d5  0/5    Book of Kells  ##art  %% impressive
+
+22  Bruna Boinne  0.2  0.0  0.1
+  % d4  0/7    Bruna Boinne  ##temple  %% mind-boggling achievement; prehistoric
+
+22  Dublin Zoo  0.2  0.0  0.1
+  % d5  0/5    Dublin Zoo  ##zoo  %% fun 
+
+22  National Aquatic Center  0.2  0.0  0.1
+  % d5  0/5    National Aquatic Center  ##aquarium  %% refreshing 

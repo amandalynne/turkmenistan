@@ -1,0 +1,134 @@
+ 
+
+Print this map
+
+
+Print this map
+
+
+<map name="TopMap">
+<area coords="219,5,315,17" href="http://graphicmaps.com/">
+<area coords="234,17,313,42" href="/webimage/countrys/asia/kz.htm">
+<area coords="227,85,316,129" href="/webimage/countrys/asia/uz.htm">
+<area coords="212,273,309,297" href="/webimage/countrys/asia/af.htm">
+<area coords="254,303,318,343" href="/webimage/countrys/asia/lgcolor/tmcolor.htm">
+<area coords="84,255,142,302" href="/webimage/countrys/asia/ir.htm">
+<area coords="7,5,80,42" href="/webimage/countrys/asia/kz.htm">
+<area coords="6,143,40,204" href="/aatlas/infopage/caspiansea.htm">
+<area coords="135,5,178,20" href="/aatlas/infopage/aralsea.htm">
+<area shape="default" nohref>
+</map>
+<map name="PositionTopMap" id="tmas">
+<area coords="15,7,101,25" href="/aatlas/infopage/oceans.htm" alt="arctic ocean">
+<area coords="264,212,305,243" href="/aatlas/infopage/oceans.htm" alt="pacific ocean">
+<area coords="142,262,197,299" href="/aatlas/infopage/oceans.htm" alt="indian ocean">
+<area coords="248,310,314,344" href="/webimage/countrys/au.htm" alt="australia">
+<area coords="306,222,317,291" href="/webimage/countrys/au.htm" alt="oceania">
+<area coords="5,293,69,322" href="/aatlas/imagee.htm" alt="tropic of capricorn">
+<area coords="5,190,51,210" href="/aatlas/imagee.htm" alt="tropic of cancer">
+<area coords="158,45,201,73" href="/aatlas/imagee.htm" alt="arctic circle">
+<area coords="149,246,191,260" href="/aatlas/imagee.htm" alt="equator">
+<area coords="19,232,69,251" href="/webimage/countrys/af.htm" alt="africa">
+<area coords="7,66,73,126" href="/webimage/countrys/eu.htm" alt="europe">
+<area coords="50,127,78,153" href="/aatlas/infopage/blacksea.htm" alt="black sea">
+<area coords="85,114,110,158" href="/aatlas/infopage/caspiansea.htm" alt="caspian">
+<area coords="113,126,142,161" href="/aatlas/infopage/aralsea.htm" alt="aral sea">
+<area coords="39,212,77,226" href="/aatlas/infopage/redsea.htm" alt="red sea">
+<area coords="82,240,134,262" href="/aatlas/infopage/gulfofaden.htm" alt="gulf of aden">
+<area coords="159,207,201,241" href="/aatlas/infopage/baybengal.htm" alt="bay of bengal">
+<area coords="105,213,143,236" href="/aatlas/infopage/arabiansea.htm" alt="arabian sea">
+<area coords="63,165,157,180" href="/webimage/countrys/me.htm" alt="middle east">
+<area coords="5,168,56,181" href="/aatlas/infopage/medsea.htm" alt="mediterranean sea">
+<area coords="165,82,278,187" href="/webimage/countrys/as.htm" alt="asia">
+</map>
+
+
+ ATTRACTIONS: (a few major)  
+
+
+  Though most visits to Turkmenistan are business related, there are many important points-of-interest for any traveler.  The country's main entry point is Ashgabat, the capital city. Its major attractions include a collection of museums, and a colorful carpet factory and museum; be advised that NO permit is required to export your purchase. 
+
+ Across the country important archeological sites include the Parthian Fortress of Nisa; the Turabeg Khanym Mausoleum in Dashkhovuz: Dekhistan Oasis; Geok-Depe Fortress; the Mausoleum of Abu-Said Mayhene in Abiverd, near the Sarakh oasis; the Bronze Age treasures at the Mary Museum, and Merv, a one-time stop on the ancient Silk Road, and site of relics and ruins from many cultures. 
+
+  Note: The Government of Turkmenistan has designated certain areas of the country as 'restricted zones,' including border areas next to Iran, Uzbekistan and Afghanistan, the city and region of Dashoguz, and areas of the Caspian coast. Travel to these areas is forbidden without prior permission from the Government of Turkmenistan. 
+
+ GENERAL INTEREST:  
+
+Calling Code: 993 Electricity: 220V, 50Hz Drive on the: Right Times to Travel: Most visitors to Turkmenistan prefer the Spring and Autumm seasons. 
+ 
+ Turkmenistan's climate is continental, with extremely hot summers when temperatures can exceed 104&#176; F (40&#176; C) The winters are very cold and temperatures can drop to below -4&#176; F (-20%deg; C). 
+ 
+ There is no distinct rainy season in Turkmenistan, and rainfall is quite rare. 
+ TOURISM SITES AND LINKS:   Ayan Travel Company  Cultural and Adventure Tours  DN Tours   Monument Sites Nature Reserves  <em> (Turkmen)</em>  Owadan Tours UNESCO Sites TOURISM TRANSPORTATION:  
+
+  Turkmenistan Airlines    Turkmenistan Airports   
+ PASSPORTS - TRAVEL VISAS - WARNINGS:    NOTE: Before making your travel plans to any worldwide destination, we strongly recommend you authenticate important details regarding all applicable health, passport and visa requirements. The people at Travel Visa Pro can answer all of your questions!  Turkmenistan Travel Advice and Warnings 
+
+
+See Also
+
+Where is Turkmenistan?
+What is the Capital of Turkmenistan?
+List of Airports in Turkmenistan
+
+
+Turkmenistan Photographs Ruins of the Parthian Fortress...
+ by Michael Runkel
+ Buy This at Allposters.com 
+
+
+Curious About Geography
+
+Geography
+The Five Themes In Geography
+What Is Cartography?
+
+
+Trending on WorldAtlas
+
+
+Largest Landslide Victories In US Presidential Election History
+
+
+The Richest Countries In The World
+
+
+Most Dangerous Cities in the World
+
+
+29 Largest Armies In The World
+
+
+Most Dangerous Cities In The United States
+
+
+The 10 Smallest Countries In The World
+
+
+What Animals Live In South America?
+
+
+Tornado Alley: The Most Tornado Prone Region in the World.
+
+
+Top Countries On The Open Border Index
+
+
+Who, What, and Where In The World Is ISIS?
+
+
+World Facts
+
+Ten Lowest Places On Earth
+
+
+Economics
+
+Top 12 Sulphur Exporting Countries
+
+
+Did You Know
+
+Present Day Countries That Once Comprised The Soviet Union (USSR)
+
+

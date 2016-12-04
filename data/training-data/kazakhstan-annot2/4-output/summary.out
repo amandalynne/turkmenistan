@@ -1,0 +1,105 @@
+1	Astana	0.4	1.0	0.7
+% d6	1/5	The city of Astana	##city	%%second-largest city; most modern; beautiful; unusual; capital; tremendous growth; futuristic and unique look;
+% d9	0/11	Astana City     ##city          %%capital; friendly
+
+1 Almaty	0.6    0.8	0.7
+% d6	2/5	The city of Almaty	##city	%%largest city; major commerical centre; major cultural centre; one of the greenest cities; spectacular mountain backdrop; winter sports; museums; temples; teaters; parks; wonderful landscapes
+% d8	0/7	Almaty  ##city  %%beautiful; snow-capped mountains; wide tree-lined boulevards; skiing; horse-riding; trekking; banging nightlife
+% d9	0/11	Almaty City     ##city          %%rapidly growing; clean; Trans-Ili Alatau Mountains; parks; free space; vegetation; Panfinlov Park; Central State Museum
+
+1 Baikonur	0.8    0.6	0.7
+% d6	3/5	The city of Baikonur and Baikonur Cosmodrome	##city		 %%space launch facility; desert steppe
+% d7	0/11	Baikonur cosmodrome       ##historic site %%first spaceflight; interesting excursions; houses where Soviet cosmonauts lived; museum; space rockets
+% d9	0/11	Baikonur space port             ##other     %%first in the world outer space port
+% d10	0/7	National Nuclear Center: Baikonour Cosmodrome ##other  %%for the really adventurous and scientifically-inclined
+
+4 Steppe	0.4		     0.5	     0.45
+% d7	0/11	steppe  ##nature %%many artifacts; barrows; buried settlements; stone statues; picturesque natural sites
+% d9	0/11	Great Steppe    ##region        %%important; flowers and herbs
+
+4	 Khoja Ahmed Yassavy Mausoleum	  0.4	     0.5      0.45
+% d7	 0/11  Khoja Ahmed Yassavy Mausoleum        ##monument        %%huge, rectangular building; 46,5 x 65,5 meters; central chamber; enormous portal; a number of domes; more than 35 rooms
+% d10	 0/7   Mausoleum of Khoja Ahmed Yasawi   ##monument  %%UNESCO World Heritage Site; sacred; breathtaking; bronze kazan (cauldron)
+
+6 Otrar	0.2	0.5   0.35
+% d7	0/11	Otrar   ##ruin   %%traces of Genghis-khan invasion; Mausoleum of Khoja Ahmed Yassavy; palace
+
+6 Aisha-Bibi	0.2	0.5	 0.35
+% d7	0/11	Aisha-Bibi	##monument %%faced completely with fretted terracotta; UNESCO list of the most valuable historical architectural monuments
+
+6 Babdja Khatun	0.2		0.5	   0.35
+% d7	 0/11	Babdja Khatun             ##monument %%16-rib umbrella shaped dome; figured brickwork
+
+
+6	 Aksu-Dzhabagly	 0.2	  0.5	0.35
+% d7	 0/11	Aksu-Dzhabagly (Preserve)            ##nature reserve  %%hills; mountain woods; many wonderful tree species; juniper woods; canyon; Tien-Shan brown bear; Siberia ibex; snow leopard
+
+6	 Charyn Canyon	       0.2		     0.5      0.35
+% d7	 0/11	Charyn canyon  ##canyon              %%Charyn river; flat and barren steppe; weird, wonderful and colorful rock formations
+
+6	 Altyn-Emel    0.2     0.5		     0.35
+% d7	 0/11	Altyn-Emel (National park)           ##national park %%in Dzhungar mountain region; 190 archeological monuments; burial mounds; settlements of Bronze Age; various topographies; abundance of vegetation; rich fauna
+
+6	 Tamgaly-Tas	   0.2	     0.5	     0.35
+% d7	 0/11	Tamgaly-Tas          ##other         %%rock carvins; images of Buddha and Burhans; Tibetan inscriptions
+
+6 Panfilov Park		     0.2	     0.5    0.35
+% d8	    0/7	Panfilov Park   ##park       %%highlight of Almaty; Zenkov Cathedral; war memorials
+
+6	    Kok-Tobe Cable Car	0.2	     0.5	 0.35
+% d8	    0/7	     Kok-Tobe Cable Car           ##other     %%great view of Almaty city
+
+6	    St Nicholas Cathedral   0.2		  0.5	      0.35
+% d8	    0/7		St Nicholas Cathedral        ##church    %%over 100 years old
+
+6	    Mr Donner Kebab House   0.2		     0.5	 0.35
+% d8	    0/7	      Mr Donner Kebab house        ##other     %%massive mixed donner kebab; baklava
+
+6	    Monument to Independence  0.2	   0.5	       0.35
+% d8	    0/7	     Monument to Independence     ##monument  %%huge stone column; two winged snow leopards
+
+6	    Zelyony Bazaar and/or Barakholka market	      0.2    0.5   0.35
+% d8	    0/7	    Zelyony Bazaar and/or Barakholka market  ##market     %%flea markets; organic local food; endless trinkets
+
+6	    Landscapes	    0.2	   0.5	  0.35
+% d9	    0/11	Landscapes      ##other         %%different climatic zones; range of natural systems
+
+6	    Shymkent	0.2		0.5		0.35
+%d9	    0/11	Shymkent city   ##city          %%one of the largest; Holy Place; Arystanbab
+
+6	    Turkestan	0.2	 0.5	0.35
+% d9	    0/11	Turkestan city  ##city          %%ancient; mausoleum of Khoja Ahmed Yasawi; fair; mosque; Buddhist petroglyphs
+
+6	    Aktau	0.2	  0.5	0.35
+% d9	    0/11	Aktau city      ##city          %%between desert and Caspian Sea; nearby uranium deposits; unique desert landscapes; Mangyshlak plateau
+
+6	    Taraz	0.2   0.5	0.35
+% d9	    0/11	Taraz city      ##city          %%Great Silk Road; Museum of History; Aisha-Bibi Mausoleum; Mausoleum of Sypatay Batyr
+
+6	    Mountains	0.2   0.5	0.35
+% d9	    0/11	Mountains       ##mountain      %%Trans-Ili Alatau; Kyongey-Alatau; glaciers; trekking; nomadic herders; Khan Tengri; marathons
+
+6	    Lakes	0.2		0.5		0.35
+% d9	    0/11	Lakes           ##lake          %%Kul-Seye; glacier water; Lake Balkhash; huge; shallow; Zaisan Lake; Alakol
+
+6	    Tian Shan Mountains		0.2		0.5	    0.35
+% d10	    0/7	 Tian Shan mountains     ##mountain      %%hiking; biking; hourse back riding
+
+6	    Medeu     0.2  0.5		 0.35
+% d10	    0/7	Medeu           ##city  %%skiing; ice skating; pristine views
+
+6	    Chimbulak		0.2	0.5	  0.35
+% d10	    0/7			Chimbulak       ##city  %%skiing; ice skating; pristine views
+
+6	    Central State Museum    0.2	      0.5 0.35
+% d10	    0/7	    Central State Museum    ##museum  %%beautiful artifacts
+
+6	    Presidential Museum	    0.2	      0.5	  0.35
+% d10	    0/7		 Central State Museum    ##museum  %%beautiful artifacts
+
+31 Lake Balkhash	0.2	 0.2	 0.2
+% d6	4/5	Lake Balkhash	     ##lake	  %%one of the largest lakes in Asia; nature full of contrasts; fresh water; saline; beach; water sports; mountain chain; cliffs; canyons; holy cave; a lot of species
+
+31 Borovoye	0.4  0.0	     0.2
+% d6	5/5	Burabay (Borovoye) resort	  ##resort %%unique; beautiful; National Nature Park; magnificient mountains; blue lakes; pine woods; larch forests; rivers; springs; sanatoriums; health centers
+%d7	0/11	Borovoe              ##forest        %%pine forest; white snow; aromatic resinous waves; resort; health centers

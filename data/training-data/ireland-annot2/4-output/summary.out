@@ -1,0 +1,108 @@
+1   Cliffs of Moher  0.2  0.9  0.55
+    % d8     1/10   ##cliff     %% most visited natural attractions; iconic cliffs; most spectacular coastal walk; gigantic river delta; incredible views; imposing cliffs
+
+2   Kylemore Abbey   0.2   0.86   0.53
+    % d7     1/7    ##castle     %% Kylemore Castle; originally built as a private home; small cathedral; absolute must visit for a road trip
+
+3   Skellig  0.4  0.6  0.5
+    % d8  4/10    ##nature; island  %% UNESCO World Heritage; pair of small rocky mounds; two islands; monastic complex; birdlife; hair-raisingly steep 600-step climb
+    % d9  0/10    ##church; nature  %% ancient monastic settlement; craggy, windswept stone steps; beehive-shaped stone huts; UNESCO World Heritage site
+
+3   Ring of Kerry  0.2  0.8  0.5
+    % d8  2/10    ##nature; trail   %% most scenic tourist trail; most jaw-dropping landscapes; patchwork of lush meadows; glacial lakes; heather-topped mountains; longest and oldest walking route
+
+5   Aran Islands  0.4  0.5  0.45
+    % d8  5/10    ##town; nature; island  %% traditional knitted 'Aran sweaters'; car-free roads; traditional Irish village; small farming communities; enchanting; historic forts; sandy beaches
+    % d9  0/10    ##nature; historic site; island  %% bike rentals; trendy youth hostel; ruins of Dun Aengus; impressive Iron Age fortress; unspoiled
+
+5   Causeway  0.2  0.7  0.45
+    % d8  3/10    ##nature; coast  %% UNESCO World Heritage-listed site; 40,000 polygonal basalt rock columns; series of gigantic stepping stones; peculiar pathways
+
+7   Dublin  0.2  0.57  0.38
+    % d7  3/7     ##city  %% capital; music; pubs; great street culture; shopping; live buskers
+
+8   Connemara National Park  0.2   0.46  0.33
+    % d7  2/7     ##national park  %% beautiful to drive around; hike and trek; quite remote
+    % d8  8/10    ##national park  %% herd of native Connemara Ponies; wild countryside; hiking and climbing trails; most beautiful castles
+
+9   Glenveagh National Park  0.2  0.4  0.3
+    % d8  6/10    ##national park  %% second-largest National Park; 14,000 acres; mountaintop views; fishing; glittering lakes; rare wildlife; red deer
+
+10  Slieve League  0.2  0.43  0.32
+    % d7  4/7   ##cliff; coast   %% highest cliffs; stunning; natural beauty
+
+11  Burren  0.2   0.3   0.25
+    % d8  7/10   ##nature   %% mind-boggling landscape; ruts, fissures and rocky mounds; rocky terrain; rare plants and insects; colorful wildflowers
+
+12  Gleniff Horseshoe  0.2  0.29  0.24
+    % d7  5/7   ##nature; trail   %% 10km loop; Irish countryside; hike
+
+13  Copper Coast  0.4  0.0  0.2
+    % d6  0/9   ##nature; coast   %% spectacular coastline; beaches and coves; rocky headlands; geologically interesting
+    % d6  0/9   ##other  %% pet farm; child friendly facilities; farm memorabilia
+
+13  Dunmore   0.4  0.0  0.2
+    % d6   0/9    ##cave   %% impressive calcite formations; large bat colony
+    % d9   0/10   ##town; coast  %% best secret villages; traditional charm; Irish fishing village; thatched roofs; seaside cliffs; sheltered coves; moody clifftop rambles
+
+13  Ashford Castle  0.4  0.0  0.2
+    % d7   7/7    ##castle   %% crowning glory of castle hotels
+    % d10   0/5   ##castle   %% former fortress; spacious, high-ceilinged drawing room; vibrant buzz; old-world charm; antique furnishings; crystal chandeliers; tranquil views
+
+13  Glendalough  0.4  0.1  0.2
+    % d8   9/10   ##church; nature  %% most prominent monastic sites; 6th century Christian settlement; picturesque Irish countryside; nature lover's paradise; rolling meadows; vast lakes
+    % d9   0/10   ##city; church    %% city of seven churches; monastic settlement; fine scenery; cathedral; distinctive round tower; medieval churches; ancient stone structures
+
+17  Mullaghmore Beach  0.2  0.14  0.17
+    % d7    6/7   ##coast; town     %% quaint and charming seaside town; stunning seaside town
+
+18  Carrick-a-Rede  0.2  0.0  0.1
+    % d9   0/10   ##historic site    %% tourist attraction; 66-foot bridge; open year-round
+
+18  Butler Gallery  0.2  0.0  0.1
+    % d6    0/9   ##gallery; art    %% contemporary exhibitions; arts; innovative education projects
+
+18  Carlow Brewing Company  0.2  0.0  0.1
+    % d6   0/9    ##other   %% brewery; premium quality beers; award winning stouts and ales; natural ingredients
+
+18  Castle Archers Wexford  0.2  0.0  0.1
+    % d6   0/9    ##castle  %% 450 acre estate; archery; woodlands; Falconry displays
+
+18  Castlecomer Discovery Park   0.2  0.0  0.1
+    % d6   0/9    ##nature; park   %% 80 acre park; escape with nature; natural environment; fishing; trail walking
+
+18  Coclough Walled Garden  0.2  0.0  0.1
+    % d6   0/9    ##garden   %% Georgian Walled Garden
+
+18  Dunbrody Famine Ship   0.2  0.0  0.1
+    % d6   0/9   ##historic site  %% exact replica; impressive barque; full scale reconstruction
+
+18  Cooley Penninsula  0.2  0.0  0.1
+    % d8   10/10   ##nature; coast  %% remote; stunning scenery; forested Mourne Mountains; windswept coastline; off-the-beaten-track destinations
+
+18  Torc Waterfall  0.2  0.0  0.1
+    % d9   0/10   ##waterfall    %% free admission; easily accesible; beautiful waterfall; 60-foot cataract; scenic spot; natural beauty
+
+18  Beara Penninsula   0.2  0.0  0.1
+    % d9   0/10   ##nature; coast  %% scenery is great; rambling footpaths; wild natural landscape; under-visited coastal peninsula
+
+18  Mourne Mountains  0.2  0.0  0.1
+    % d9    0/10   ##nature; mountain   %% wild and romantic terrain; forests, rivers, grottos, caves, and follies
+
+18  Hore Abbey   0.2  0.0  0.1
+    % d9    0/10   ##historic site   %% gorgeous deserted ruin; no tour guides; no crowds; no entrance fee
+
+18  Irish Seisiuns   0.2  0.0  0.1
+    % d9    0/10   ##ceremony   %% informal gathering; people sing and play traditional Irish music; Sunday afternoons or midweek evenings
+
+18  Kelly's Cellars  0.2  0.0  0.1
+    % d10   0/5   ##historic site  %% low ceilings; wooden beams; unleveled floors; antique wall fixtures; original, arched passageways; live folk music; cold Guinness; traditional Irish pub
+
+18  Workman's Club  0.2  0.0  0.1
+    %d10   0/5   ##other   %% riveting music venue/lounge/bar/pub/event center; go-to spot packed eclectically with hipsters, footballers, artists, and tastemakers; performance venue; live DJs
+
+18  Montalto Estate  0.2  0.0  0.1
+    % d10  0/5   ##resort  %% the "it" spot for the highbrow set; long lazy lunches; golf weekends; intimate weddings; centuries-old, 400-acre private estate; stroll by the lake; cozy library
+
+18  Armagh Public Library   0.2  0.0  0.1
+    % d10  0/5   ##historic site   %% public library; one of the oldest libraries in the country; 500 years of books

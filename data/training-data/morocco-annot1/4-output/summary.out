@@ -1,0 +1,107 @@
+1 Fes 1.0 0.69 0.845
+%d1 2/10 Fes ## city %% medieval; religious and cultural center; old walled part; best explored on foot; Chaouwara Tanneries; the Merenid Tombs; the Sultanate palace; Jewish Quarter
+%d2 4/10 Fes ## city %% third largest city; word’s oldest university; two old medinas; donkeys and handcarts; largest carfree urban area; traditional adobe homes; courtyards; mosaic tiles; narrow streets and alleys; souqs and shops; dyed leather goods; limited to Muslims; striking exteriors
+%d3 3/10 Fes ## city;  %% nearly intact medieval city; medina; largest carefree urban area; high walls; historic city gates; Several shops and restaurants have a rooftop terrace; views are particularly spectacular
+%d4 4/12 Fes el Bali ## city %% big cultural destination; Imperial city; Old City; authentic; back alleys; gorgeous old doors; stinking tanneries
+%d5 0/12 Fès ## city %% the ‘real Morocco’; a medieval, labyrinthine Medina; distinctive Arabesque architecture; major centre of religion, culture and learning; umerous merdersas (religious schools; historic mosques; teeming souks
+
+2 Marrakech 0.6 0.9 0.75 
+%d1 1/10 Marrakech ## city %% imperial city; full of history; noisy; atmospheric; bazaars; bustling souqs; central square of Djemma El-Fna; Saadian Tombs; Marjorelle Gardens; traditional riad
+%d2 1/10 Marrakech ## city %% imperial city; Red City; sandstone buildings; hippie mecca; beautiful old architecture; courtyards of orange, palm, apricot and olive trees; medina; snake charmer; local delicacies; public bath; botanical garden; art deco; traditional tea house; Moorish features; Jardin Majorelle
+%d5 0/12 Marrakech ## city %% chilling out; shopping; the fantastical central square; Jemaa El Fna; thriving network of souks and hagglers; Jewish quarter; sultan’s palaces and gardens
+
+3 Chefchaouen 1.0 0.4 0.7
+%d1 4/10 Chefchaouen ## town; %% Rif Mountains; small town in a big landscape; popular with independent travelers; cannabis capital;blue and white painted houses; hiking; swimming; architecture; Outa el Hammam square
+%d2 7/10 Chefchaouen ## town %% blue city; popular tourist destination; Moroccan handicrafts; cannabis
+%d3 8/10 Chefchaouen ## town %% gorgeous mountain city; picturesque medina; dramatic backdrop of the Rif Mountains; white-washed homes; popular shopping destination; native handicrafts; wool garments; woven blankets; goat cheese native to the area; hashish; cannabis
+%d4 6/12 Chefchaouen ## town %% gorgeous labyrinth of blue-on-blue buildings; incredibly photogenic; the Medina alleys; colourful architecture; peaceful, easygoing town; a great place to recharge
+%d5 0/12 Chefchaouen ## city %% Rif Mountains; remote hideaway;  bewitching, storybook atmosphere; ancient crafts; diverse cultural heritage; stone-walled streets; impressive Spanish mosque and Kasbah
+
+4 Essaouira 0.8 0.42 0.61
+%d1 3/10 Essaouira ## town %% seaside town; popular beach hangout; narrow streets; red and blue painted houses; traditional Gnawa music
+%d2 5/10 Essaouira ## town %% Atlantic coastline; most popular beach; white-washed homes; scenic backdrop; kitesurfing and windsurfing; medina; crafts; wood carving; cabinet making
+%d3 6/10 Essaouira ## town %% relaxed fishing port; natural bay; renowned for its kitesurfing and windsurfing; many small arts and crafts businesses; cabinet making; wood-carving
+%d4 11/12 Essaouira ## town; %% most charming seaside village; laid-back; old hippie haunt; colourful fishing boats; stately old shore-side fort; twisty lanes of the old town
+
+5 Marrakesh Medina 0.2 0.9167 0.5583
+%d4 1/12 Marrakesh Medina ## city/town square %% bustling and vibrant buzz; old city; vast plaza of Djemma el-fna Square; the stall vendors, traditional musicians, snake charmers and random acrobats;  maze-like alleyways; colourful and noisy local life
+
+6 Djemaa El-Fna 0.2 0.9 0.55
+%d3 1/10 Djemaa El-Fna ## market %% one of the top tourist attractions in Morocco; medina; snake charmers; people with monkeys; story-tellers, magicians and peddlers of traditional medicines; dozens of food-stalls
+
+7 Merzouga 0.4 0.65 0.525
+%d1 5/10 Merzouga ## town %% small desert town; wind-blown Saharan sand dunes; gateway to wilderness; Bedouin Life; camel treks; authentic; knife-edged dunes; blue skies
+%d2 2/10 Merzouga ## town %% sand dunes; unique experience; overnight camel ride; reddish-orange dunes; group tours
+
+8 Hassan II Mosque 0.2 0.83 0.5167
+%d4 2/12 Hassan II Mosque ## mosque %% Casablanca's landmark building; lavish; modern mosque; decoration detail; intricately carved marble pieces; vibrant mosaics; traditional Islamic architecture
+
+9 Oudaias Kasbah 0.2 0.75 0.475
+%d4 3/12 Oudaias Kasbah ## city district; fort %% peaceful; quaint district; old fortress; white-and-blue houses; prettiest corner of the capital
+
+10 Tangier 0.6 0.34167 0.47083
+%d1 9/10 Tangier ## city  %% gateway to Africa; the medina; the Kasbah Museum; the Ville Nouvelle; harbour also offers interesting views
+%d4 5/12 Tangier ## city %% most European of all Morocco's cities; the bohemian cafes; louche bars
+%d5 0/12 Tangier ## city %% ancient alleyways; mixture of coastline and Kasbah; The Grande Mosquée; little cafés
+
+11 Ait Benhaddou 0.4 0.525 0.4625
+%d3 2/10 Ait Benhaddou ## city %% fortified cities; former caravan route; between the Sahara and Marrakech; high mud walls; 6 kasbahs; has appeared in several movies
+%d4 9/12 Ait Ben Haddou ## fort %% golden adobe kasbah; fortress; a fairytale place; the orange-hued turrets
+
+12 High Atlas Mountains 0.2 0.7 0.45
+%d2 3/10 High Atlas ## region; mountain %% mountain range; Toubkal National Park; Morocco’s highest Peak; Berber village Imlil; tallest mountain range; steep cliff-sided canyons;  traditional Mud Brick city; snow sports; hiking; has appeared in many movies
+
+13 Bab al-Mansour 0.2 0.67 0.43
+%d4 8/12 Bab al-Mansour ## architecture %% mammoth gateway; Imperial City district; Medina; stunning decoration; a magnificent relic
+
+14 Asilah 0.6 0.2 0.4
+%d1 10/10 Asilah ## city %% seaside; very popular; sandy beaches; colorful murals; annual Arts Festival
+%d2 6/10 Asilah ## town %% popular seaside resort town; trade center; fortifications; medina; north coast; hot summer spot; whitewashed buildings; budget hotels and restaurants; growing art scene; Paradise beach
+%d5 0/12 Asilah ## resort %%  cosiest and charming coastal resorts; decent restaurants; seafront avenues; incredibly well-preserved Medina
+
+15 Dades Valley 0.6 0.183 0.39167
+%d1 8/10 Dades Valley ## region %% mountain ranges; spectacular scenery; red cliffs; traditional forts; kasbahs; luxury hotels; valley; Berber villages; Todra and Dades Gorges
+%d4 10/12 Dades Valley ## region %% raw landscapes; snow-capped peaks; big-sky country; exceptional bird spotting opportunities; lush fields
+%d5 0/12 Dadés Valley ## region; fort %% High Atlas; dozens of fortress-cities; palm-strewn oases; dramatic, twisting gorges like Dadés and Todra
+
+16 Meknes 0.6 0.167 0.3835
+%d1 7/10 Meknes ## city; historic site %% laid back; smaller; imperial city; well-preserved medina; easily navigable souqs; capital; Moroccan architecture; huge gates; impressive carvings; Roman ruins of Volubilis
+%d2 8/10 Meknes ## city; historic site %% one of the four Imperial cities; Spanish-Moorish style; high walls; historical monuments; natural sites; Roman ruins of Volubilis
+%d3 10/10 Meknes ## city %%  one of the four Imperial cities; Spanish-Moorish style; high walls; great gates; a lot of historical monuments; natural sites; nearest city to the Roman ruins of Volubilis
+
+17 Draa Valley 0.2 0.5 0.35
+%d3 5/10 Draa Valley ## region %% High Atlas mountains; stunning; old Kasbahs; Berber villages; palm groves; scenic journey; Draa river
+%d3 7/10 Todra Gorge ## region %% remote; High Atlas Mountains; cliff-sided canyons; sheer and smooth rock walls
+
+17 Taza 0.2 0.5 0.35
+%d5 0/12 Taza ## town; fort %%  isolated provincial town; stunning views;  Rif and Middle Atlas mountain ranges; fortress; medieval city walls; original Andalucian mosque; Jbel Tazekka National Park; largest cave system
+
+17 Rabat 0.6 0.1 0.35
+%d2 9/10 Rabat ## city %% Moroccan coast; country’s capital; top tourist destination; pleasant; wide boulevards; outdoor cafes; medina, with its fortified walls; Kasbah des Oudaias
+%d5 0/12 Rabat & Salé ## city %% capital; the Moroccan monarchy; the Moroccan monarchy;  imposing gates; the picturesque kasbah; the peaceful beauty of the walled Chellah
+
+17 Erg Chebii 0.4 0.3 0.35
+%d3 4/10 Erg Chebii ## desert %% Sahara Desert; awe-inspiring dunes; unique orange colored sand; excursions to the dunes; camel trekking
+%d4 12/12 Erg Chebbi ## desert %% grand and rippling sand dunes; dune-surfing; four-wheel-drive;  dune-bashing; camel trekking; sand dune splendour
+
+17 Casablanca 0.2 0.5 0.35
+%d5 0/12 Casablanca ## city %% modern city; myriad 20th-century architectural styles; art deco; Mauresque; chic French restaurants; beach clubs
+
+17 Almeln Valley 0.2 0.5 0.35
+%d5 0/12 Almeln Valley and Tafroute ## town; region %% high-altitude town; dotted with tiny, thriving villages;spectacular surroundings; renowned for its almond harvests
+
+17 Oualidia 0.2 0.5 0.35
+%d5 0/12 Oualidia ## coast %% azure Atlantic; butterscotch beaches; rugged caramel cliffs; haven for wildlife, birds and surfers alike; unique gems of towns; ruined Saadian Kasbah; famous for its oysters
+
+17 Ouarzazate 0.2 0.5 0.35
+%d5 0/12 Ouarzazate ## town %% inhabited mainly by Berbers; kasbahs; biblical landscape; the Sahara Desert
+
+25 Volubilis 0.4 0.2583 0.3292
+%d3 9/10 Volubilis ## ruin %% important Roman town; administrative center; fertile lands
+%d4 7/12 Volubilis ## ruin %% Roman ruin; remarkable mosaics; tumbled columns and temple remnants; hilltop location; romantic ambiance
+
+26 Jebel Toubkal 0.2 0.4 0.3
+%d1 6/10 Jebel Toubkal ## mountain; national park %% High Atlas Mountains; North Africa's highest peak; challenging trek; snow-dusted summit; spectacular views
+
+27 Sidi Ifni 0.2 0.0 0.1
+%d2 10/10 Sidi Ifni ## town %% small fishing town; former Spanish territory; former Spanish territory; popular with surfers; fish market; Sunday market

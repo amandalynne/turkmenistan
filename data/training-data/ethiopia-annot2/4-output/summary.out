@@ -1,0 +1,91 @@
+1 Lalibela 1 0.714 0.857
+%d6 0/8 Lalibela ##city %%must see; built to be the 2nd Jerusalem; impressive array of churches that are carved out of stone; famous St. Georges Cathedral;
+%d7 0/8 the churches and monasteries ##church %%rock-hewn monolithic churches; ancient palaces and monasteries
+%d8 2/7 The rock-hewn churches of Lalibela ##church %%internationally-renowned for its rock-hewn churches; the largest monolithic church; the most finely executed and best preserved church;
+%d9 0/5 city of Lalibela ##city %%rock-hewn churches; carved out of a single block of granite
+%d10 0/10 Lalibela ##city %%An Ethiopian "Jerusalem"; hewn out of a single rock
+
+2 Simien Mountains 0.6 0.857 0.7285
+%d6 0/8 Simien Mountains ##region %%UNESCO World Heritage site; often called God&#8217;s playground; unique combination of animals and incredible landscapes
+%d8 1/7 The Simien Mountain National Park ##national park %%one of the major highlands of Africa; fourth highest peak in the continent; splendid Red Hot Pokers and Giant Lobelia
+%d9 0/5 Simien Mountains National Park ##national park %%the Grand Canyon of Africa; undulating plateau and deep valleys; UNESCO World Heritage Site; Ethiopian wolf and Walia ibex
+
+3 Harar 0.6 0.5 0.55
+%d6 0/8 Feeding Hyenas in Harar  ##show %%most popular tourist attractions in Ethiopia; feed the Hyenas every single night; 4th most holy city for Muslims;
+%d7 0/8 Harar ##city %%various things to do; clean narrow streets; mind blowing aroma of piquant spices
+%d10 0/10 The Urban Hyenas of Harar ##nature %%Hyenas entertain tourists and predict the future; walled Ethiopian city
+
+4 Gondar 0.4 0.57 0.485
+%d6 0/8 Gondar ##castle %%Camelot of Ethiopia; An entire castle complex;
+%d8 3/7 The  Castles of Gondar and other monuments ##castle %%many medieval castles;  breathtaking view over much of the city; Ethiopia's capital until the reign of the would-be reforming Emperor Tewodros II
+
+5 Addis Ababa 0.4 0.5 0.45
+%d6 0/8 Addis Ababa ##city %%capital of Africa; headquarters of the African Union; largest market in Africa;
+%d7 0/8 Visit Addis Ababa ##city %%capital city of  Ethiopia; the famous National Museum, housing the $"Lucy$" skeleton; colossal monuments or the shopper$'s paradise at Merkato;
+
+5 The Omo Valley 0.4 0.5 0.45
+%d6 0/8 The Omo Valley ##region; %%one of the only places in the world where you can still find&#160;indigenous&#160;people that haven&#8217;t been influenced by the outside world; an excellent location for African Safaris;
+%d8 6/7 Valley of the Omo ##archaeological site %%palaeontological and prehistoric sites
+
+5 Danakil Depression 0.4 0.5 0.45
+%d7 0/10 the Danakil Depression ##region %%Bask and frizzle under  the hot sun; lowest point of Africa; mean temperature recording around 35
+%d9 0/5 Danakil Depression ##nature %%one of the hottest places on earth; temperatures of up to 125 degrees Celsius; yellow mounds of sulfur
+
+8 Bahar Dar 0.2 0.5 0.35
+%d6 0/8 Bahar Dar ##city %%3rd largest city; access to Lake Tana; the Blue Nile Falls;
+
+8 Northern Stalae Park 0.2 0.5 0.35
+%d7 0/10 Northern Stalae Park ##monument %%visiting the Aksumite monuments; a lifetime of  memories
+
+8 Meet the locals 0.2 0.5 0.35
+%d7 0/10 Meet the locals ##other %%simple, yet vibrant lifestyle; things you should not miss out on
+
+8 the city of Djibouti 0.2 0.5 0.35
+%d7 0/10 the city of Djibouti ##city %%city in East Ethiopia; fascinating with its modern outlook and busy life
+
+8 Trekking 0.2 0.5 0.35
+%d7 0/10 Trekking ##nature %%rugged Simien Mountains; the cool breeze along Lake Tana; source of the Blue Nile
+
+8 Wildlife Encounter 0.2 0.5 0.35
+%d7 0/10 Wildlife Encounter ##nature %%a plethora of wild animals; Gelada Baboons; Walia Ibex; Ethiopian Wolves and Spotted Hyenas
+
+8 Fasil Ghebbi 0.2 0.5 0.35
+%d9 0/5 Fasil Ghebbi ##city %%fortress-city; residence of the Ethiopian emperors during the 16th and 17th Century; contains palaces, churches, monasteries
+
+8 safari and adventure tourism 0.2 0.5 0.35
+%d9 0/5 safari and adventure tourism ##nature %%several parks; one of the world's top adventure destinations
+
+8 Dallol 0.2 0.5 0.35
+%d10 0/10 Dallol ##region %%The hottest place on the planet
+
+8 Erta Ale 0.2 0.5 0.35
+%d10 0/10 Erta Ale ##mountain %%Ethiopia's "smoking mountain"; one of the hottest regions on the planet; two lava lakes
+
+8 The Afar Rift 0.2 0.5 0.35
+%d10 0/10 The Afar Rift ##region %%An ocean in the making
+
+8 Yemrehanna Kristos Church 0.2 0.5 0.35
+%d10 0/10 Yemrehanna Kristos Church ##church %%ancient Ethiopian cave church; endangered by the simple building of a road
+
+8 Obelisk of Axum 0.2 0.5 0.35
+%d10 0/10 Obelisk of Axum ##monument %%Massive stele; returned to Ethiopia after 70 years in Rome
+
+8 Chapel of the Tablet 0.2 0.5 0.35
+%d10 0/10 Chapel of the Tablet ##church %%holds the Ark of the Covenant; guarded by virgins
+
+8 Chemin de Fer Railway Museum 0.2 0.5 0.35
+%d10 0/10 Chemin de Fer Railway Museum ##museum %%Rusting railcars and locomotive equipment; Ethiopian train graveyard.
+
+23 Axum 0.4 0.29 0.345
+%d6 0/8 Axum ##city %%oldest cities in Africa; home of the ancient Aksumite Empire; location of the Ark of the covenant;
+%d8 5/7 Axum historical and archaeological sites, central Tigray (Tigray Region) ##archaeological site %%famous for its obelisks; capital of the Axumite kingdom; home to the Queen of Sheba
+
+24 Awash Lower Valley 0.2 0.429 0.315
+%d8 4/7 Awash Lower Valley ##archaeological site %%palaeontological and prehistoric sites
+
+25 Southern Ethiopian Safari 0.1 0.5 0.3
+%d7 0/8 Southern Ethiopian Safari ##region %%Omo River and Basin; brightly hued birds; psychedelic cultures
+
+26 Tiya pre-historical and archaeological sites 0.4 0.0 0.2
+%d8 7/7 Tiya pre-historical and archaeological sites ##archaeological site %%oldest hominid remains; earliest ape man;
+%d10 0/10 Tiya Stelae ##monument %%standing stones; remarkably preserved carvings of swords and people

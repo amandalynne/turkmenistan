@@ -1,0 +1,120 @@
+1  Big Tsingy Stone Forest  0.6  0.91  0.76
+%d11  0/8  The Big Tsingy Stone Forest  ##forest; park %% beyond impressive; very rough terrain; two parks; Big Tsingy (large park); Small Tsingy (small park)
+%d12  0/18  Tsingy de Bemahara National Park  ##national park  %% one of the most striking national parks on the planet; undisturbed forests; lakes; canyons; incredible limestone karst; vast forests of limestone pinnacles; landscape unlike any other
+%d13  1/11  Tsingy De Bemaraha Strict Nature Reserve ##nature  %% %% elusive bamboo lemur; perfect
+
+2  Ankarana National Park  0.2  0.36  0.56
+%d13  7/11  Ankarana National Park  ##national park %% captivating experience; tunneling through caves; bats; shiny stalagmites; crocodiles
+
+3  Beaches  0.6  0.46  0.53
+%d11  0/8  Beaches  ##beach %% tourist trails; haven't even been explored; luxury; authentic
+%d13 3/11  Madagascar beaches  ##beach  %% wondrous place; sunset retreat
+%d15  4/5  Beach stay & Snorkelling  ##beach; ocean  %% coast; beach with unspoilt white sand; turquoise sea; waters surrounding Madagascar; most beautiful corral reefs; great opportunities; snorkel; colourful fishes; sea turtles; Nosy Tanikely; Emerald Sea; best experiences; snorkelling tours; meal cooked right on the beach; local fishermen
+
+4  Ampijoroa  0.2  0.82  0.51
+%d13  2/11  Ampijoroa  ##nature  %% over 300 different species of birds; tranquil pastime; indigenous to Madagascar
+
+5  National Parks  0.2  0.8  0.5
+%d15  1/5  National Parks  ##national park  %% tracks; itineraries; different length; difficulties; easies hikes (2 to 3 hours total); trails which are well maintained conditions; Local guildes; knowledgeable; always happy; easiest parks; Andasibe; Ranomafana; Isaalo; Montagne d'Ambre
+
+5  Wildlife  0.4  0.6  0.5
+%d11  0/8  Wildlife  ##nature %% countless flora and fauna; not found anywhere in the world; 70 different species of lemurs; see through chameleons; eight plant families; five bird families; five primate families; live nowhere else on earth
+%d15  2/5  animals  ##nature  %% lucky enough; many dangerous animals; lemurs; snakes; chameleons; amazing experience; priceless pictures; souvenirs; many places; Andasibe, Nosy Komba
+   
+5  Capital of Antananrivo  0.6  0.4  0.5
+%d11  0/8  The Capital of Antananarivo (Tana)   ##city; city/town square %% capital of Madagascar; unique; market that winds up and down the staircase; Royal Hill of Ambohimanga; Marche Aristanale de La Digue; Lemurs Park
+%d12  0/18  Antananarivo  ##city  %% French flavour and ambiance; Madagascar's history-rich capital; quaint winding streets; vast markets; best explored on foot; steep climb; best views across all of Antananarivo; area around the Queen's Palace
+%d15  3/5  Cultural & Historical Day Tour of Antananarivo  ##city/town square  %% amazing biodiversity; unique landscapes; unicity of its culture; unique crossroad; Africa; Asia; history of Madagascar; rich; own traditions; vibrant capital of Antananarivo; market; history of the country; royal residences ( palace and summer citadel ); colourful city; very safe; usual precautions ( leave your gold necklace at home )
+   
+8  Zoma Market  0.2  0.64  0.42
+%d13  4/11  Zoma Market  ##market  %% high on your priority list; world's second largest shopping market; local handcrafts; souvenirs; cultural art
+
+9  Avenue of Baobabs  0.6  0.2  0.4
+%d11  0/8  Avenue of the Baobabs  ##nature %% unique; unique set trees; exceptional pictures at sunset
+%d12  0/18  Baobab Alley  ##nature  %% natural avenue; imposing Grandidier's baobabs; Madagascar's must-see sights; best visited around sunrise or sunset; splendid photo opportunity
+%d14  4/5  Allee des Baobabs  ##nature   %% avenue of Grandidiers baobabs; iconic image; sight to behold; gnarled branches; upside-down trees; 'roots of the sky'; just before sunset; red hue of the trees' bark; shadows; longest; perfect photo opportunity
+
+9  See lemurs  0.4  0.4  0.4
+%d13  11/11  See lemurs  ##nature  %% star attractions; wide-eyed primates; endemic; over 1,000 species; nocturnal; nighttime walk; night walk; Vakona Forest Lodge; chameleons; crocodiles; exotic birds; habituated lemurs; close encounter; opportunities for lemur spotting; Reserve Speciale d'Analamazaotra; Parc National de Ranomafana; Reserve d'Anja
+%d14  1/5  See lemurs  ##nature  %% star attractions; wide-eyed primates; endemic; over 1,000 species; nocturnal; nighttime walk; night walk; Vakona Forest Lodge; chameleons; crocodiles; exotic birds; habituated lemurs; close encounter; opportunities for lemur spotting; Reserve Speciale d'Analamazaotra; Parc National de Ranomafana; Reserve d'Anja
+
+9  Sainte-Marie   0.2  0.6  0.4
+%d14  2/5  Sainte-Marie  ##waterfront; nature  %% paradise; azure-blue waters; white-sand beaches; lush vegetation; best whale-watching; coral reefs; multicolored fish; treat; summer playground in Antarctica; spectacle; Princesse Bora Lodge & Spa; Insight Guides' Dreaming of Madagascar trip; heart of the action; whale research centre
+
+12  Lily Falls  0.2  0.55  0.38
+%d13  5/11  Lily Falls  ##waterfall  %% white water rafring; abundant adventure; Madagascar tours
+
+13  Diving  0.2  0.5  0.35
+%d11  0/8  Diving  ##ocean %% coastline; unique plants and animals; great diving opportunities; diving hotspots; good diving
+  
+13  Locals 0.2  0.5  0.35
+%d11  0/8  Interact With The Locals  ##other  %% unique; whole new level; diversity on their faces; nicest and welcoming people; extremely curious; willing to talk to you
+   
+13  Whale Watching 0.2  0.5  0.35
+%d11  0/8  Whale Watching  ##ocean; nature  %% humpback whales; best time to see the whales; between June to September; able to see them year round
+
+13  Queen's Palace  0.2  0.5  0.35
+%d12  0/18  Queen's Palace  ##castle; architecture  %% highest point; original wooden palace; Frenchman Jean Laborde; later clad in stone; tour of the compound; Madagascar's dramatic royal history
+
+13  Andasibe-Mantadia National Park  0.2  0.5  0.35
+%d12  0/18  Andasibe-Mantadia National Park  ##national park  %% close to the capital; most accessible rainforest reserve; one of the most rewarding; frogs, reptiles, and birds; indri, the largest of all living lemurs; haunting song (reminiscent of a whale song); carries for miles across the forest
+    
+13  Antsirabe  0.2  0.5  0.35
+%d12  0/18  Antsirabe  ##art  %% wonderfularts and crafts; pousse-pousse tour of artisinal workshops; skill of local craftsmen
+
+13  Sahambavy Estate  0.2  0.5  0.35
+%d12  0/18  Sahambavy Estate  ##other  %% producing green tea; black tea since 2004; more than 550 ronnes of tea every year; destined for Kenya; take around one hour; end with a tasting
+
+13  Ambalavao  0.2  0.5  0.35
+%d12  0/18  Ambalavao  ##memorial  %% macabre;revered bones of exhumed ancestors; spectacular crags of Ambondrome and Ifandana; Araimoro paper and silk weaving
+
+13  Spiny Forest  0.2  0.5  0.35
+%d12  0/18  Spiny Forest  ##forest; nature  %% unique to Madagascar; dry and inhospitable spiny forest; most curious and startling ecosystem; botanical wonders; perfectly adapted to this tough environment; strange waving fingers of octopus trees; otherworldly feel
+
+13  Ambohimanga  0.2  0.5  0.35
+%d12  0/18  Ambohimanga  ##castle  %% most sacred site in all Madagascar; original capital; UNESCO World Heritage Site; more than a dozen impressive stone gates; king's house; various elegant royal summerhouses
+
+13  Arboretum d'Antsokay  0.2  0.5  0.35
+%d12  0/18  Arboretum d'Antsokay  ##nature   %% botanical garden; 900 plant species; endemic to Madagascar's arid south; learn about the plants; rewarding; bungalows for those wishing to linger
+
+13  Nosy Be  0.2  0.5  0.35
+%d12  0/18  Nosy Be  ##nature  %% exotic perfumed lure of Nosy Be; surrounding islets of Nosy Komba; black lemurs; Nosy Sakatia; Nosy Tanikely; exceptional snorkelling; sweet-smelling plants; ylang-ylang; vanilla; lemongrass; patchouli
+
+13  Montagne d'Arbre National Park  0.2  0.5  0.35
+%d12  0/18  Montagnne d'Arbre National Park  ##nature  %% waterfalls; orchids; lemurs; national park; country's oldest; splendid montane rainforest; own microclimate; Sanford's lemurs; crowned lemurs; countless reptiles and birds
+
+13  Tsiribihina River mangroves  0.2  0.5  0.35
+%d12  0/18  Tsiribihina River mangroves  ##nature  %% tranquil Tsiribihina River; Tsingy de Bemaraha National Park; other less touristy rivers; Manambolo; Mangoky; Mahavavy; Betsiboka; Onilahy
+   
+13  Libanona Beach  0.2  0.5  0.35
+%d12  0/18  Libanona Beach  ##beach  %% waves that break on offshore coral reefs; little-known surf thrills; suitable for beginners; top riding spots; Lavanono; Anakao; far northeast of Madagascar; place for kitesurfing
+
+13  Mitsio Archipelago  0.2  0.5  0.35
+%d12  0/18  Mitsio Archipelago  ##ocean   %% Mitsio islands; fantastic beaches; glorious turguoise waters; worldd-class dive sites; deep-water discovery; boxfish; barracuda; rays; sea urchins; starfish; eels; other creatures of the reef; chartering a catamarn
+
+13  Anakao  0.2  0.5  0.35
+%d12  0/18  Anakao  ##ocean; beach  %% idyllic beaches; isolated southwestern Vezo fishing village; pirogue (dugout canoe) trips; nearvy mangroves and islands; world's southernmost breeding colony of red-tailed tropicbirds; a day trip to the salt lake
+
+13  Lake Itasy  0.2  0.5  0.35
+%d12  0/18  Lake Itasy  ##lake  %% lush, volcanic region of Ampefy; spectacular geysers and waterfalls; beautiful Itasy Lake; rolling hills; Chute de la Lily's cascades; unforgettable highlight; reverberating roar
+
+31 deep sea fishing trips  0.2  0.45  0.33
+%d13  6/11  deep sea fishing trips  ##nature  %% source of survival; looking to catch the big one
+
+32  Blue Waterfalls  0.2  0.4  0.3
+%d14  3/5  Blue Waterfalls  ##waterfall; nature  %% Isalo; most popular national park; strangely hypnotic rock formations; unique flora; compelling waterfalls; the best way; signed circuits; morning of hiking; scenic canyon trail; Cascade de Nymphes; black or blue natural pools; more adventurous; hour-long trek; palm-fringed pool; mini-waterfall; lemur or two
+
+33  snorkeling and scuba diving  0.2  0.27  0.24
+%d13  8/11  snorkeling and scuba diving  ##ocean  %% world's most pristine water; strangest creatures; never seen before
+
+34  Royal Hill  0.2  0.18  0.19
+%d13  9/11  Royal Hill  ##castle  %% very interesting; palace of past kinds; capital city; World Heritage Site (UNESCO)
+
+35  Moutain Andrigitra  0.2  0.09  0.145
+%d13  10/11  Mountain Andrigitra  ##nature; waterfall  %% magnificent natural waterfalls; epic landscape scenery; Grand Canyon of Arizona; biodiversity; ecotourism industry; high demand; adventurous; creative; cultural
+
+36  Canal des Pangalanes  0.2  0.0  0.1
+%d14  5/5  Canal des Pangalanes  ##lake; nature  %% long network; waterways; rivers; lakes; Mahavelona; Farafangana; eastern coast of Madagascar; traditional pirogue (canoe made from a single tree trunk); extraordinary flora; traditional villages; local life; tradditions; souvenir
+
+36  Cooking classes  0.2  0.0  0.1
+%d15  5/5  Cooking classes  ##school  %% exotic meal; very fun activity; healthy meals; Malagasy dishes; East african; Asian; French gastronomy; complicated; not; preparation of delightful dishes; many ingredients nor steps

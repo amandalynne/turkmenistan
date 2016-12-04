@@ -1,0 +1,96 @@
+1	Fiordland National Park		0.8	0.90	0.85		
+	%d11	0/10	Milford Sound	##nature	%%  Milford Discovery Centre and Underwater Observatory; only floating, underwater observatory in New Zealand								
+	%d12	1/10	Fiordland National Park	##national park	%% nominated World Heritage; New Zealand’s largest National Park ; the largest National Park in the world; steep mountains; waterfalls ; exotic rainforests								
+	%d13	1/10	Milford Sound	##national park	%% New Zealand's largest national park ; one of the largest in the world;deep fiords, steep mountains, raging waterfalls, and lush rain forests;the finest walk in the world;waterfalls in the park, and one of the highest in the world								
+	%d14	1/10	Fiordland National Park	##national park	%% home of bungee jumping and Jet boating; great ski fields;								
+													
+2	Queenstown		1	0.47	0.73		 
+	%d11	0/10	Queenstown	##city	%% adventure capital of New Zealand; world-class skiing;   world's highest cliff jump								
+	%d12	3/10	Queenstown	##city	%% home of bungee jumping and Jet boating; great ski fields;								
+	%d13	10/10	Queenstown	##city	%% infamous for its Hobbits;kayaking; white water rafting, jet boating ; skiing and bungee jumping								
+	%d14	3/10	Queenstown	##city	%%  home of bungee jumping; jet boating;parapenting and white water rafting;premier skiing destinations								
+	%d15	0/10	Queenstown	##city	%% pristine snowfields; bungee jumping ; Southern Hemisphere’s Ultimate Winter Party								
+													
+3	Rotorua		0.8	0.57	0.68		 
+	%d12	4/10	Rotorua	##region	%% geysers, steaming hot pools, mud pools ; lakes; Geothermal Reserves 								
+	%d13	5/10	Rotorua	##city	%% geothermal activity; best biking circuits ; sky diving ; zorbing								
+	%d14	4/10	Rotorua	##city	%% volcanic activity; one of the world's great geothermal areas;geysers, boiling pools, hot springs, boiling mud, volcanic terraces, fumeroles, and craters; native bush ideal for trekking								
+	%d15	0/10	Rotorua	##city	%%  boiling mud pools and squirting geysers ;hot pools								
+													
+4	Abel Tasman National Park		0.4	0.80	0.60		 
+	%d12	2/10	Abel Tasman National Park	##national park	 %% white sandy beaches with views across the clear pristine waters; sunniest climate ; the top coastal scenery in New Zealand 								
+	%d14	2/10	Abel Tasman National Park	##national park	%%    the best beaches in the country; covered in lush temperate rain forest and manuka, a type of tea tree								
+	%d15	0/10	Nelson	##region	 %%sea kayaking, rock climbing, white water rafting, mountain biking, sailing, horse trekking, four-wheel biking and skydiving 								
+													
+4	Bay of Islands		0.6	0.6	0.6								
+	%d11	0/10	Bay of Islands	##beach	%% scuba diving; home to Africa's tallest elephants; view dolphins and whales from the boat; swim with wild dolphins; seeing the Hole in the Rock								
+	%d12	5/10	Bay of Islands	##beach %% superb beaches ; secluded bays ; an abundance of marine life; swim through the dolphins; Hole in Rock									
+	%d13	2/10	Bay of Islands	##beach	%%   big-game fishing;  sailing, walks, dune riding, and dolphin discovery								
+	%d14	5/10	Bay of Islands	##beach	%% finest maritime park in New Zealand;abundance of marine life;historical heart of New Zealand								
+													
+6	Mount Cook		0.6	0.40	0.50		 
+	%d12	6/10	Mount Cook	##mountain	%% highest Mountain in New Zealand; alpine walks ;glaciers								
+	%d13	6/10	Mount Cook	##mountain	 %%  highest mountain in New Zealand ;  4WD safari, boating on the glacier lakes;								
+	%d14	6/10	Mount Cook	##mountain	%%  biggest peaks in all of Australasia are here including the highest mountain;alpine terrain is covered in colourful lupins ;many scenic walks and guided treks								
+													
+7	Tongariro National Park		0.6	0.37	0.48		 
+	%d12	8/10	Tongariro National Park	##national park	 %% superb volcanoes; the largest volcano and home to most of the ski-fields in the North Island								
+	%d13	3/10	Tongariro National Park	##national park	%%  World's 4th National Park;forests to lakes, waterfalls to volcanoes; Alpine Crossing								
+	%d14	8/10	Tongariro National Park	##national park	%% World Heritage Park;active volcanos;home to most of the ski fields in the North Island;one of the top 10 one day walks in the world								
+													
+8	Coromandel Peninsula		0.6	0.27	0.43		 
+	%d12	9/10	Coromandel	##coast	%% golden and white sandy beaches and misty rainforest; Hot water beach;  forests have the tallest fern trees in the world								
+	%d13	4/10	Coromandel Peninsula	##coast	%% forest parks and beaches;  yachting; scuba-diving; the hot water beaches								
+	%d14	9/10	Coromandel Peninsula	##coast	%% thermal beach ; lush temperate rain forest;tallest fern trees in the world								
+													
+9	Westland National Park		0.4	0.30	0.35		 
+	%d12	7/10	Westland National Park	##national park	%% diverse landscape, glaciers; pristine nature; abundant rainforest and is backed by steep cliffs and mountains.								
+	%d14	7/10	Westland National Park	##national park	 %% dominant glaciers; ancient Beech forest which are backed by steep cliffs and mountains;								
+													
+9	Wellington		0.4	0.30	0.35		 
+	%d13	7/10	Wellington	##city	%% 19th century architectural styles ; contemporary styles and Art Deco; 								
+	%d15	0/10	Wellington	##city	%% big on the arts and culture; Te Papa museum with big interactive displays								
+													
+9	Auckland		0.6	0.10	0.35		 
+	%d11	0/10	Auckland	##city	%%  Auckland Art Gallery is the largest art institution in New Zealand; Waitemata Harbour; host of multicultural bars and restaurants 								
+	%d13	9/10	Auckland	##city	%% World's largest Polynesian city ;  must visit place for history lovers; the Sky Tower New Zealand's tallest man-made structure;sky jump, sky walk, sky dive 								
+	%d15	0/10	Auckland	##city	 %%   tour the wineries; many volcanoes ;								
+													
+9	Waiheke Island		0.2	0.50	0.35		 
+	%d11	0/10	Waiheke Island	##region	%% home to a lot of vineyards; vibrant art community, beaches, forests, and olive groves								
+													
+9	White Island		0.2	0.50	0.35		 
+	%d11	0/10	White Island	##nature	%% the most active volcano in New Zealand; volcano's underwater vents								
+													
+9	Te Whakarewarewa Geothermal Valley		0.2	0.50	0.35		 
+	%d11	0/10	Te Whakarewarewa Geothermal Valley	##historic site	%% authentic "steambox" meal prepared using ancient geothermal cooking techniques;  active geysers; Mud pools								
+													
+9	Waitomo Glowworm Caves		0.2	0.50	0.35		 						
+	%d11	0/10	Waitomo Glowworm Caves	##nature	%% illuminated by thousands of glowworms;black-water rafting ; ancient cave decorations; awesome spiral entrance ; unique limestone formations								
+													
+9	Franz Josef Glacier		0.2	0.50	0.35		 						
+	%d11	0/10	Franz Josef Glacier	##glacier	%% ice climbing; Glacier Hot Pools								
+													
+9	Northland		0.2	0.50	0.35		 
+	%d15	0/10	Northland	##coast	 %% extensive unspoilt coastline; a spot of fishing; 								
+													
+9	Ruapehu		0.2	0.50	0.35		 
+	%d15	0/10	Ruapehu	##region	%% A must for the ski and snowboard; volcanic cones;								
+													
+9	Marlborough		0.2	0.50	0.35		 
+	%d15	0/10	Marlborough	##nature	%% revel in the dolphins, seals, tiny blue penguins, native bellbird, tui and other birdlife								
+													
+9	Canterbury		0.2	0.50	0.35		 
+	%d15	0/10	Canterbury	##region	 %%  home to the highest point in New Zealand; deep submarine trenches;colonial heritage well-preserved								
+													
+9	Southland		0.2	0.50	0.35		 
+	%d15	0/10	Southland	##region	%% Victorian and Edwardian buildings ; famous oysters;kiwi in its natural habitat								
+													
+9	Christchurch		0.4	0.20	0.30		 
+	%d11	0/10	Christchurch	##city	%% new buildings made out of old shipping containers;  conservatories; walking tracks; horticultural displays								
+	%d13	8/10	Christchurch	##city	%% largest city in South Island;  business-hub and New Zealand's third most populous city; gardens, wildlife reserves, museums, art gallery and Art Center; cinemas, and theaters								
+													
+23	Kaikoura		0.4	0.00	0.20		 
+	%d12	10/10	Kaikoura	##region	%% whale watching capital of New Zealand; majestic mountains which are snow capped ; 								
+	%d14	10/10	Kaikoura	##town	%%  rich habitat for marine mammals and seabirds; shark diving;  whales can be seen all year round								
+													

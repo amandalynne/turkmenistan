@@ -1,0 +1,93 @@
+1	Milford Sound	0.8 0.66 0.73
+	% d1	0/8	Milford Sound	##nature reserve	%%Dolphins; ancient clams; hundreds of waterfalls
+	% d2	2/11	Milford Sound	##nature reserve	%%spectacular Fiordland; jagged cliffs; cascading&#160;waterfalls; mysterious air; thousands of waterfalls; sunbathing seals; jagged rocks; The Sounds; raw beauty
+	% d4	1/6	Milford Sound	##nature reserve	%%Fiordland National Park; spectacular features; adventures; breathtaking coastal scenery; dark blue waters; dramatic peaks; Eighth Wonder of the World; magical attraction; formed by glaciers; rains a lot; enchanting waterfalls
+	% d5	8/12	Fiordland National Park	##national park	%%numerous fjords; famous fjords; striking beauty; walking trails; Whispering waterfalls; offshore islands; stretched lakes; undisturbed forests; high mountain peaks; gushing cascades; sea kayaking; flights for bird&#8217;s eye views; Milford Sound; Dusky Sound; Doubtful Sound
+
+2	Rotorua	0.6 0.60 0.60
+	% d2	3/11	Rotorua	##town; park	%%most unique sites in the world; volcanic plate; strong smell of sulphur; Wai-O-Tapu; geothermal wonderland; exploding geysers; brightly coloured lakes; hot springs; steaming craters; another world
+	% d4	4/6	Rotorua Lake	##lake	%%hot springs; geysers; reserves; parks; natural mud; hot water; steam eruptions; Wai-O-Tapu; beautiful and colorful appearance
+	% d5	3/12	Rotorua	##region	%%Dramatically red; lava lines; Geothermal wonders; red lava lines; geothermal region; dramatic topography; Pacific Ring of Fire; Steaming geysers; boiling mud pools; hissing thermal springs; volcanic craters; startling topography; minerals-rich water; sky diving; luging; trekking; mountain biking; Lady Knox Geyser; Champagne Pool; Trout Fishing
+
+2	Bay of Islands	0.4 0.79 0.60
+	% d4	2/6	Bay of Islands	##region	%%holiday destinations; picturesque region; 144 islands; secluded beaches; beautiful sandy beaches; marine life; penguins; dolphins; whales; big marlin; international sport fishermen; sailing yachts
+	% d5	1/12	Bay of Islands	##region	%%yachting and sailing haven; 144 islands; Kayak; hike; secluded coves; undisturbed forests; marine life; dolphins; whales; big marlin; penguins; popular fishing spot; Hole in the Rock; famous rock formation
+
+4	Queenstown	0.4 0.66 0.53
+	% d2	1/11	Queenstown	##town	%%stunningly beautiful town; everything Kiwi; landscape is unprecedented; adrenaline pumping capital; Bungy jumping; skydiving; mountainbiking; luging; undeniable beauty and thrills; best restaurants in New Zealand
+	% d5	7/12	Queenstown	##town	%%adventure capital; adventure sports; Bungee jumping; white-water rafting; jet boating; rock climbing; paragliding; hiking; downhill skiing; mountain biking; adrenaline-fueled sports; gold mining towns; landscapes of snow-clad peaks; Remarkables Range
+
+4	Tongariro National Park	0.4 0.67 0.53
+	% d4	3/6	Tongariro National Park	##national park	%%New Zealand&#8217;s first national park; extremes; diverse array of ecosystems; active volcanoes; tranquil lakes; untamed forests; desert-like plateaus; herb fields; Whakapapa Visitor centre; Taranaki Falls; lava line produced from volcanic eruptions
+	% d5	2/12	Tongariro National Park	##national park	%%oldest national parks; mineral rich turquoise water lakes; melodramatic sceneries; Towering volcanoes; untamed forests; arid plateaus; hot springs; herb fields; turquoise lakes; lush meadows; stunning beauty; natural wonders; Lake Taupo; Taranuki Falls; lava line of volcanic eruptions
+
+6	Coromandel Peninsula	0.4 0.57 0.48
+	% d2	4/11	Cathedral Cove	##beach	%%marine reserve; The Coromandel Peninsula; accessible by a 30 minute track; native bush; stunning cliff faces; gorgeous stretch of sand; cool water; relax on the beach
+	% d5	6/12	Coromandel Peninsula	##region	%%sublime world; surreal world away from the hustle; paradise for complacent people; beaches; golden sand; hiking; kayaking; sky diving; Thames; small city; gold mining history; Hot Water Beach; dig your own hot water pool
+
+7	Waitomo Glowworm Caves	0.4 0.5 0.45
+	% d1	0/8	Waitomo Glowworm Caves	##cave	%%cave lit with glowworms
+	% d3	0/5	Waitomo Glowworm Caves	##cave	%%population of glowworms; unique species of insect; boat tour
+
+8	Hobbiton	0.4 0.45 0.43
+	% d1	0/8	Hobbiton	##other	%%real life Hobbiton; sheep farm; The Hobbit film series
+	% d2	6/11	Hobbiton	##other	%%Lord of the Rings; The Shire; magical place; Middle Earth; tiny houses; sipping beer at The Green Dragon Inn; ultimate&#160;Lord of the Rings experience
+
+8	Napier	0.2 0.67 0.43
+	% d5	4/12	Napier	##town	%%Art Deco; Gourmet capital; Gourmet dining scenes; Art Deco architecture; Maori World; Spanish Mission style architecture; Art Deco design buildings; Maori motifs; gourmet restaurants; Unique procedures; unique recipes; Yearly Art Deco weekend; Gannet colony of Cape Kidnappers
+
+10	Fox and Franz Josef Glaciers	0.6 0.21 0.40
+	% d1	0/8	Fox Glacier	##glacier	%%ice caves; surrounded by rainforests
+	% d4	5/6	Franz Josef Glacier	##glacier	%%Westland National Park; most accessible glaciers; massive glacier; helicopter ride; remnant of the Ice Age; landscape; adventure
+	% d5	9/12	Fox and Franz Josef Glaciers	##glacier	%%World&#8217;s most accessible glaciers; best frozen sceneries; most accessible glacial rivers; frozen landscapes; ice caves; mountain peaks; ride a helicopter; amazing natural wonders; Guided hikes
+
+11	Auckland	0.2 0.58 0.39
+	% d5	5/12	Auckland	##city	%%Base of the Sky Tower; Black sand beaches; gold sand beaches; sparkling harbors; shimmering harbors; Manukau Harbor; Waitemata Harbor; Rainforests; wild hike trails; hidden coves; picturesque islands; mysterious volcanoes; perfect base for adventure lovers; Unusual black and gold beaches; amazing pictures and memories; Sky Tower; 328 meters high tower; stunning expanse; Orbit revolving restaurant
+
+12	Abel Tasman National Park	0.4 0.36 0.38
+	% d2	5/11	Abel Tasman	##national park	%%spectacular National Park; South Island; golden beaches; rich vegetation; bluest of water; kayak; various coves; dolphins and seals; hike; scenery is mesmerising
+	% d5	10/12	Abel Tasman National Park	##national park	%%hiker&#8217;s dream destination; Exotic bird sightings; weathered rock formations; hiker&#8217;s dream come true; Tasman Coast Trek; Clear beaches; sparkling water; Snorkel; hike; trek; camp; relax; rare birds; blue penguins; wekas; wood pigeons; oystercatchers; Split Apple Rock; gigantic granite boulder
+
+13	Castle Hill	0.2 0.5 0.35
+	% d1	0/8	Castle Hill	##nature	%%Spiritual center of the universe; Dalai Lama
+
+13	Electrum	0.2 0.5 0.35
+	% d1	0/8	Electrum	##art; architecture	%%world's largest Tesla coil
+
+13	Lake Tekapo	0.2 0.5 0.35
+	% d1	0/8	Lake Tekapo	##lake	%%perfect turquoise lake; glacier dust
+
+13	Te Waikoropupu Springs	0.2 0.5 0.35
+	% d1	0/8	Te Waikoropupu Springs	##river	%%clearest water anywhere in the world
+
+13	Sky Tower	0.2 0.5 0.35
+	% d3	0/5	Sky Tower	##tower	%%tallest structure in New Zealand; spectacular views; revolving restaurant; adrenaline attractions
+
+13	The Weta Cave	0.2 0.5 0.35
+	% d3	0/5	The Weta Cave	##other	%%extraordinary things; workshop; facilities for Hollywood movies; Avatar; Lord of the Rings; King Kong
+
+13	Moeraki Boulders	0.2 0.5 0.35
+	% d3	0/5	Moeraki Boulders	##beach	%%spherical rocks; high as a grown man; heavy as an elephant; stunning beach
+
+20	Waiheke Island	0.2 0.36 0.28
+	% d2	7/11	Waiheke Island	##island	%%palm trees; white sand beaches; stunning coast; tropical paradise; New Zealand's finest wine; vineyards
+
+21	Mount Maunganui	0.2 0.27 0.24
+	% d2	8/11	Mount Maunganui	##town	%%best beaches; cool seaside town; trendy cafes and restaurants; iconic views; spectacular views of the peninsula; turquoise water; white sands
+
+22	Wellington	0.4 0 0.2
+	% d2	11/11	Wellington	##city	%%quirky; arty; seaside capital; funky side streets; pop up restaurants; weekend markets; spectacular views; craggy coastline; Mt Victoria; scenic Oriental Parade; world class coffee
+	% d3	0/5	Wellington Botanic Gardens	##garden	%%beamy coniferous trees; meadow; rare flowers
+
+22	Kaikoura	0.4 0 0.2
+	% d4	6/6	Kaikoura	##town	%%South Island; seafood; dolphins; albatrosses; sperm whales; blue cod; fresh crayfish; wilderness walk; Kaikoura forest
+	% d5	12/12	Kaikoura	##town	%%whale watching tours; Tropical wildlife; best seafood; fresh crawfish; blue cod; mussels; tantalize your taste buds; humpbacks; sperm whales; fur seals; dolphins; albatross; extensive wildlife; stunning landscapes; coastal hikes
+
+24	Hokitika Gorge	0.2 0.18 0.19
+	% d2	9/11	Hokitika Gorge	##river; canyon	%%South Island; natural and unique cocktail; glacier water; plankton; vibrant blue; walking trails; strong currents
+
+25	Cape Palliser	0.2 0.09 0.15
+	% d2	10/11	Cape Palliser	##coast	%%infamous Rimatukas; spectacular coastline; seals; rugged, rocky beaches; never-ending stairs; red and white striped lighthouse
+
+26	Mount Cook National Park	0.2 0.08 0.14
+	% d5	11/12	Mount Cook National Park	##national park	%%longest glacier; Tasman; top mountaineering destination; Aoraki National Park; tallest mountain peak; longest glacier; Tasman glacier; legendary Edmund Hillary; heights of ginormos Mount Everest; top destination for mountaineers; pristine glaciers; serene beauty; Mount Cook Village; ski-touring; heli-skiing; hiking; stargazing; hunting

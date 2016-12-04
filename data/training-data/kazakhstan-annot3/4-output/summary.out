@@ -1,0 +1,127 @@
+1	Madeo	0.8	0.9	0.85
+  %d11 1/10	Medeo High-Mountain Skating Rink	##stadium %% ice skating in the mountains; highest in the world; exciting winter sport events
+  %d12 1/10	Medeu Skating Rink	##stadium	%% highest skating rink on earth; figure skate, speed skate, play hockey; 842 step staircase; worth it
+  %d14 0/10	Medeo	##stadium	%% most high-mountainous sport complex; mild climate; calm, pure mountain water; skating rink
+  %d15 0/15	Medeu	##stadium	%% athletic and recreation facility; highest ice skating rink
+
+2	Zenkov Cathedral	0.4	0.75	0.575
+  %d11 3/10	Zenkov Cathedral	##church	%% an architectural wonder; brightly coloured wooden building; intriguing art and furnishings
+  %d12 2/10	Zenkov Cathedral	##cathedral	%% century old; breathtaking beauty; interesting history; only wooden cathedrals in the world; built without using any nails
+
+3	Kolsai Lakes	0.6	0.7	0.65
+  %d11 2/10	Kolsai Lakes	##lake	%% snow-capped mountains; clear blue water; bright green vegetation; hiking trails
+  %d12 4/10	Kolsai Lakes	##lake	%% very popular; rare wildlife; serene atmosphere; awesome adventure
+  %d14 0/10	Kolsay Lakes	##lake	%% one of the most beautiful places; unique mountain watershed; amazing variety of rare plants and animals
+
+4	Khan Shatyr	0.6	0.6	0.6
+  %d11 6/10	Khan Shatyr Entertainment Centre	##other	%% 500 ft. high tent; unique construction; shopping and entertainment centre; internal park; boating river; mini golf; indoor pool and beach
+  %d13 1/5	Khan Shatyr	##other	%% gigantic tent; ultimate entertainment plaza; movie theatre; waterpark; indoor sand beach
+  %d15 0/15	Khan Shatyr	##other	%% Entertainment Center; Huge Transparent Tent
+
+5	City Tours	0.2	0.7	0.45
+  %d12 3/10	City Tours	##city	%% Almaty; awesome way to learn; unique looks at the city; interesting stories
+
+6	The Green Bazaar	0.2	0.6	0.4
+  %d11 4/10	The Green Bazaar	##market	%% Kazakh food and lifestyle; most famous market; plenty of fresh produce
+
+6	Duman Entertainment Center	0.2	0.6	0.4
+  %d13 2/5	Duman Entertainment Center	##aquarium	%% 2,000 sea creatures; 100 different species; shows with mermaids; feeding of the sharks
+
+8	The Central State Museum	0.2	0.5	0.35
+  %d11 5/10	The Central State Museum	##museum	%% largest in Central Asia; huge museum; pretty amazing; huge blue dome
+
+8	Bayaterek Tower	0.4	0.3	0.35
+  %d11 7/10	Bayaterek Tower	##tower	%% astounding building; Shaped like a tree holding an egg; 97 metres high; observation deck; view the entire city
+  %d15 0/15	Bayterek Tower	##tower	%% modern tower; golden egg; tree of life
+
+8	Panfilov Park	0.2	0.5	0.35
+  %d12 5/10	Panfilov Park	##park	%% welcoming spot; named after a group of brave Almaty soliders
+
+8	State National Natural Park "Altyn-Emel"	0.2	0.5	0.35
+  %d14 0/10	State National Natural Park "Altyn-Emel"	##national park	%% Ili River; Singing Sands; old tree; Stonehenge in the Kazakh Steppes
+
+8	Karlag (Karaganda Prison Camp)	0.2	0.5	0.35
+  %d14 0/10	Karlag (Karaganda Prison Camp)	##prison	%% mass political repressions; Soviet Union
+
+8	Kiin-Kerish	0.2	0.5	0.35
+  %d14 0/10	Kiin-Kerish	##cliff	%% multicoloured, mainly red clay; unearthly, Martian landscapes; very bright, freakish landscape; unique red, white and orange constructions; Flaring cliffs
+
+8	Beluha	0.2	0.5	0.35
+  %d14 0/10	Beluha	##mountain peak	%% natural monuments; highest peak
+
+8	Otyrar	0.2	0.5	0.35
+  %d14 0/10	Otyrar	##archaeological site	%% oasis; pearl of Archeology; archaeological research; monuments; World Cultural Heritage
+
+8	Underground mosque Becket	0.2	0.5	0.35
+  %d14 0/10	Underground mosque Becket	##mosque	%% Ustyurt plateau; steep cliffs; amazing building; underground mosque
+
+8	Ancient site of ancient settlement Saraishy	0.2	0.5	0.35
+  %d14 0/10	Ancient site of ancient settlement Saraishyk	##historic site	%% cradle of the Kazakh Horde; great heritage; antiquity
+
+8	Karakhan Mausoleum	0.2	0.5	0.35
+  %d14 0/10	Karakhan Mausoleum	##other	%% religious memorial complex; medieval Taraz
+
+8	Kaindy Lake	0.2	0.5	0.35
+  %d15 0/15	Kaindy Lake	##lake	%% Submerged trees; idyllic turquoise mountain lake
+
+8	Aral Sea	0.2	0.5	0.35
+  %d15 0/15	Aral Sea	##desert	%% Rusting ships; desert
+
+8	Baikonur Cosmodrome	0.2	0.5	0.35
+  %d15 0/15	Baikonur Cosmodrome	##other	%% oldest and largest space launch facility; secret missile testing site
+
+8	Palace of Peace and Reconciliation	0.2	0.5	0.35
+  %d15 0/15	Palace of Peace and Reconciliation	##building	%% Iconic pyramid; famed British architect
+
+8	Issyk Lake	0.2	0.5	0.35
+  %d15 0/15	Issyk Lake	##lake	%% lovely lake
+
+8	Cosmonaut Grove	0.2	0.5	0.35
+  %d15 0/15	Cosmonaut Grove	##garden	%% Avenue of trees; planted by cosmonauts
+
+8	Semipalatinsk Polygon	0.2	0.5	0.35
+  %d15 0/15	Semipalatinsk Polygon	##historic site	%% horrible legacies; Cold War; nuclear bombs
+
+8	Valley of Balls	0.2	0.5	0.35
+  %d15 0/15	Valley of Balls	##desert	%% Mysterious spherical rocks; semi-desert
+
+8	Soyuz Memorial	0.2	0.5	0.35
+  %d15 0/15	Soyuz 11 Memorial	##memorial	%% remains of a monument; crew of the Soyuz 11
+
+8	Beatles Statue of Almaty	0.2	0.5	0.35
+  %d15 0/15	Beatles Statue of Almaty	##art	%% Beatlemania
+
+8	Lisakovsk Pentagram	0.2	0.5	0.35
+  %d15 0/15	Lisakovsk Pentagram	##park	%% abandoned Soviet-era park; looks like a pentagram
+
+30	Kok-Tube Hil	0.4	0.25	0.325
+  %d12 7/10	Kok-Tube Hill	##viewpoint	%% fun-filled cable car ride; gaze at the mountains; shops, restaurants, a small zoo; you will never want to leave
+  %d13 4/5	Kok-Tube Hill	##viewpoint	%% cable-car; beautiful view of the mountains and vineyards; small zoo; children's playground
+
+31	Big Almaty Lake	0.2	0.4	0.3
+  %d12 6/10	Big Almaty Lake	##lake	%% Eliy National Park; popular destination; three gorgeous mountains; stunning, tranquil atmosphere; hike, picnic, take photographs
+
+31	Eight Lakes	0.2	0.4	0.3
+  %d13 3/5	Eight Lakes	##resort	%% serene lakes; large swimming pools; tennis, mini-golf, biking and fishing; beautiful, relaxing cottages
+
+33	Charyn Canyon	0.4	0.1	0.25
+  %d11 9/10	Charyn Canyon	##canyon	%% second largest in the world; orange rock formations
+  %d15 0/15	Charyn Canyon	##canyon	%% Kazakhstan's Grand Canyon; natural wonder
+
+34	Chimbulak Ski Resort	0.2	0.2	0.2
+  %d11 8/10	Chimbulak Ski Resort	##resort	%% Zailiyskiy Alatau Mountains; ski or hike down; range of slopes
+
+34	Almaty Central Park	0.2	0.2	0.2
+  %d12 8/10	Almaty Central Park	##park	%% one of the best attractions in the city; variety of activities; go for a nice walk, have a picnic, read a book
+
+36	Kazakh Museum of Folk Musical Instruments	0.2	0.1	0.15
+  %d12 9/10	Kazakh Museum of Folk Musical Instruments	##museum	%% rare and unique; folk instruments
+
+37	Bayanaul National Park	0.2	0	0.1
+  %d11 10/10	Bayanaul National Park	##national park	%% our fresh water lakes; first national park; swimming; fishing; rock climbing; mountain biking
+
+37	First President's Park	0.2	0	0.1
+  %d12 10/10	First President's Park	##park	%% breathtaking mountain views; perfectly planted flower beds
+
+37	The Arasan Baths	0.2	0	0.1
+  %d13 5/5	The Arasan Baths	##resort	%% best one in Central Asia; impeccable cleanliness; nice atmosphere; serenity and relaxation

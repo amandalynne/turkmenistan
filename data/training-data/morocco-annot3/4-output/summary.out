@@ -1,0 +1,65 @@
+1 Casablanca 0.0869565217 0.8 0.4434782608
+% d14 1/5 Casablanca ##city %% commercial heart of Morocco; largest city; well-connected hub; King Hassan II Mosque; the Old Medina; the largest mosque in Africa; minaret is the world’s tallest
+% d15 0/7 Casablanca ##city %% sour reputation; hassle-free; wide streets; gleaming new construction; best place to experience modern Morocco; medina lacks touts; shopkeepers ignore you; art galleries; restaurants; bars; Morocco’s biggest airport
+
+2 Meknes 0.1304347826 0.6 0.3652173913
+% d11 0/5 MEKNES ##city %% Bab Mansour; the Royal Stables; the Mausoleum of Moulay Ismail; Volubilis; Roman Ruins; Moulay Idriss; convoluted medina pathways; the best tajine
+% d13 0/5 MEKNES ##city %% imperial; intimate; manageable; rewarding; souks; carpet traders; basketmakers; silversmiths; sweet sellers; less hassle; the Medina; the Ville Impériale; ceremonial gateways; subterranean vaults; Sultan Moulay Ismail; mausoleum
+% d14 2/5 Meknes ##city %% lesser known imperial city; friendlier and less touristy than Fes; horse-drawn carriage; Meknes city gate; Place el hedim; magic tricks; cobra dances; gorgeous 200-year old riad
+
+3 Bahalil 0.0869565217 0.5 0.2934782608 
+% d13 0/5 BHALIL ##town %% intriguing little village; built on top of a network of caves; troglodyte dwellings; genuine Berber hospitality
+% d15 0/7 Bahalil ##town %% Less than 30km away from Fez; little village; picture-perfect; slow-paced; traditional; extremely friendly; troglodyte houses
+
+3 Erg Chigaga 0.0869565217 0.5 0.2934782608
+% d13 0/5 ERG CHIGAGA ##desert %% camels; pure isolation
+% d15 0/7 Erg Chigaga/Zagora ##desert %% Riding a camel; the Sahara; sand-swept trading post; Numerous outfitters; 4WD and camel expeditions; sky-scraper-high dunes; nomadic and Berber families; nearby villages; the Draa Valley; organic co-op Hart Chaou community garden project; ancient rock carvings of Timiderte; jewelers of Amerzou’s old Jewish Kasbah; pottery collective of holy village Tamegroute
+
+3 Rabat 0.0869565217 0.5 0.2934782608
+% d12 0/6 Rabat ##city %% minutes from Casablanca; Shop; hassle-free; pint-size medina; modern artisan goods; houndstooth blankets; quality leather bags and shoes; antiques; art galleries; women’s cooperatives; blue and white Kasbah; cliff tops; Mohammed V’s ostentatious marble mausoleum; Roman ruins of the Chellah; art deco cathedral; neighbouring Salé
+% d15 0/7 Rabat ##city %% capital of Morocco; combines modernity and traditions; Medina; shop; traditional Moroccan items; artisans at work; ancient ruins; ancient ruins; the garden of Chellah; filled with history
+
+6 AÏT BOUGUEMEZ 0.0434782609 0.5 0.2717391304
+% d13 0/5 AÏT BOUGUEMEZ ##region %% glorious; barren slopes; wonderfully remote; peaceful trails; mountainous day-hikes; Jebel M’Goun
+
+6 El Jadida 0.0434782609 0.5 0.2717391304
+% d12 0/6 El Jadida ##city %% French protectorate of Morocco; architecturally splendid; one-hour train ride from Casablanca; Unesco World Heritage site; stone ramparts; Portuguese fortress of Mazagan; a rewarding stopover en route to Oualidia
+
+6 Ifrane 0.0434782609 0.5 0.2717391304
+% d12 0/6 Ifrane ##town %% an hour and a half’s drive from Fez; Little Switzerland; Alpine-like village; pitched roof houses; pristine streets; created by the French; favourite of King Hassan II; cool mountain air; lake-swimming; wild mushrooms; hunting; flowers; winter sports scene; cross-country skiing
+
+6 Marrakesh 0.0434782609 0.5 0.2717391304
+% d12 0/6 Marrakesh ##city %% the Red City; lost its lustre; seething souks; the old medina; leather slippers; brightly woven carpets; beaten metal lanterns; cheap kaftans; Disneyfied
+
+6 Mirlift 0.0434782609 0.5 0.2717391304
+% d15 0/7 Mirleft ##town %% tiny; pebbly red earth; five undeveloped beaches; not a whole lot to do; sandstone arches
+
+6 Moulay Idriss 0.0434782609 0.5 0.2717391304
+% d15 0/7 Moulay Idriss ##town %% white buildings; against dark mountains; steep, narrow lanes; painted rock; one of Morocco’s holiest places; pious reputation; medina; surrounding green mountains; rural hikes; Roman ruins of Volubilis
+
+6 Oualidia 0.0434782609 0.5 0.2717391304
+% d12 0/6 Oualidia ##town %% saltwater lagoon; excellent seafood; two hours from Casablanca; white and blue cottages; lush gardens; sublimely tranquil; little to do; soak up the sun; powder-soft, white sand beaches; turquoise water; freshly shucked oysters, razor clams and sea urchins; barbecued fish picnic
+
+6 RIAD MONCEAU'S COOKING ACADEMY 0.0434782609 0.5 0.2717391304
+% d11 0/5 RIAD MONCEAU'S COOKING ACADEMY ##school %% Marrakesh; traditional Moroccan pastry; does not speak English; language barrier; course; make traditional Moroccan whiskey
+
+6 Scarabeo Camp 0.0434782609 0.5 0.2717391304
+% d12 0/6 Scarabeo Camp ##resort %% Agafay stone desert; 25 miles from Marrakesh; feels like a million miles away; lunar landscape of stone dunes; hike in winter or spring; professional astronomer; white canvas tents; impeccable Berber dishes; library; books and board games
+
+6 Tafraoute 0.0434782609 0.5 0.2717391304
+% d15 0/7 Tafraoute/Ameln Valley ##town; region %% rock formations; Carved into the hills; a trekker’s dream; infrequency of bus service; Anti-Atlas mountains; undeveloped wilderness; Berber and Chlueh tribe villages; Mountain biking; trekking expeditions; Jebel Lekst; Ait Mansour; rent a bike; prehistoric rock engravings; local hammam
+
+6 TAROUDANT 0.0434782609 0.5 0.2717391304
+% d13 0/5 TAROUDANT ##city %% fleetingly Morocco’s capital; Place Assarag; interesting souks; spices and jewellery; majestic ramparts; rent a bike
+
+17 Fes 0.0869565217 0.4 0.2434782609
+% d11 0/5 FES ##city %% spectacular; famed medina; intricate mosaics; old city; hike; Merenid Tombs; stunning view; minarets; call to prayer
+% d14 3/5 Fes ##city %% Morocco’s oldest imperial city; best-preserved and world’s largest urban area without motor vehicles; ancient walled city; like you’re thrown back in time; narrow cobbled streets; food stands; artisans at work; tanneries; ancient method of leather production
+
+18 ATLAS MOUNTAINS 0.0869565217 0.2 0.1434782609
+% d11 0/5 ATLAS MOUNTAINS ##mountain; forest; nature %% drive; more than worth it; rugged views; the largest mountain range in Africa; hike; cork forests
+% d14 4/5 Middle Atlas ##mountain; nature %% mountain range; grazing cattle; hot deserts; snowcapped mountains; oases of azure waters; dry, barren land; lush greenery; rocky desert
+
+19 The Sahara 0.0869565217 0 0.0434782608
+% d11 0/5 SAHARAN KASBAHS ##fort %% indigenous tribes; without the modern conveniences; tea and khobz
+% d14 5/5 The Sahara ##desert %% large seas of dunes; wind-blown sand; ever-changing landform; dunes of Erg Chebbi; a glimpse of Berber life; wild; Berber ski

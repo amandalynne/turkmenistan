@@ -1,0 +1,113 @@
+1 Machu Picchu 0.8 0.9 0.85
+%d6 1/10 Machu Picchu ##ruin %% lost city of the Incas; intricate design and breathtaking views
+%d7 1/10 Machu Picchu ##ruin %% New Seven Wonders of the World; Beautiful stone architecture; backdrop of cloud-forested&#160;mountains; deep valleys
+%d8 0/9 Machu Picchu ##archaeological site %%discovery in 1911; world's greatest architectural and archaeological monuments; city of stone
+%d10 0/10 Machu Picchu ##archaeological site %% incredible; breath taking; sunrise; climb Huanya Picchu
+
+2 Chan Chan 0.6 0.6 0.6
+%d6 2/10 Chan Chan ##archaeological site %% world&#8217;s largest adobe city; largest pre-Colombia city; plazas, streets, houses, gardens, temples and reservoirs
+%d7 6/10 Chan Chan ##archaeological site %% archaeological wonder; built circa&#160;1300&#160; largest Pre-Columbian city; largest adobe city; 10 walled citadels
+%d9 0/10 The old city of Chan Chan ##city %% incredibly ancient city; mostly reduced to ruins; Water drillings; bridges; food boxes
+
+2 Lake Titicaca 0.6 0.6 0.6
+%d7 4/10 Lake Titicaca ##lake %% world&#8217;s highest navigable lake; 3,812 metres; floating islands of Uros; traditional boats; reed boats
+%d8 0/9 Lake Titicaca ##lake %% largest lake; 3812 metres (12,500 feet) above sea level
+%d10 0/10 Lake Titicaca ##lake %% fascinating and mystical lake; largest in South America; plenty of mystery
+
+4 Inca Trail 0.4 0.75 0.575
+%d6 3/10 Inca Trail ##trail %% most famous trek in South America; all-challenging trail; fascinating places to explore; best preserved and most picturesque Inca ruins
+%d7 2/10 Inca Trail ##trail %% alternative trek to Machu Picchu; mud, sweat and unparalleled Andean vistas; classic
+
+5 Arequipa 0.6 0.5 0.55
+%d8 0/9 Arequipa ##city %% Peru's second largest city; gleaming white buildings; surrounded by three volcanoes
+%d9 0/10 The city of Arequipa ##city %% Beautiful mountain scenery; volcano El Misti; colonial architecture and heritage
+%d10 0/10 Arequipa ##city %%second biggest city; dominated by imposing volcanoes; eternal spring; charming destination; Historic Centre; Basilica Cathedral
+
+5 Cuzco 0.6 0.5 0.55
+%d8 0/9 Cuzco ##town %% capital of the Inca empire; ancient treasures; modern gems
+%d9 0/10 The city of Cuzco ##city %% charming city; Plaza de Armas; markets
+%d10 0/10 Cusco and the Sacred Valley ##city %% cobbled streets; rich in history; Cristo Blanco; interesting markets; beautiful Plaza de Armas
+
+7 Nazca Lines 0.6 0.4 0.5
+%d6 9/10 Nazca Lines ##historic site %% giant sketches; seen from the air; over 450 square kilometres; created by the Nazca Civilisation between 500BC and 500AD
+%d7 3/10 Nazca Lines ##historic site %% 300 giant geometric figures;  70 animal and plant drawings; 800 giant lines; enduring enigmas; huge winter and summer solstice lines
+%d8 0/9 Nazca Lines ##historic site %% great mysteries; 300 enormous geoglyphs; red desert rock; precise patterns
+
+8 Colca Canyon 0.4 0.5 0.45
+%d7 5/10 Colca Canyon ##canyon %% 3,270m (10,725ft) deep; pre-Incan stepped terrace; craggy mountains;  herds of llamas; traditionally dressed Andean peasants
+%d10 0/10 Colca Canyon ##canyon %% joy to behold; 4,160 metres deep; vibrant culture; extreme sports; Cruz del Condor viewpoint; astounding place; majestic Andean Condors
+
+9 Choquequirao 0.2 0.6 0.4
+%d6 4/10 Choquequirao ##ruin %% remote location; off the beaten track&#8217; late 15th century
+
+10 Casa de la Emancipacion 0.2 0.5 0.35
+%d6 5/10 Casa de la Emancipacion ##building %% gorgeous colonial city of Trujillo; the home of Peru&#8217;s first government; various art and cultural exhibits; cubic Cajabamba floor
+
+10 Iquitos 0.2 0.5 0.35
+%d8 0/9 Iquitos ##city %% largest city; banks of the Amazon river; perfect base
+
+10 Miraflores 0.2 0.5 0.35
+%d8 0/9 Miraflores ##city district %% tidy neighbourhood; capital city; urban beaches; flower-filled parks; upscale shopping and dining
+
+10 Puno 0.2 0.5 0.35
+%d8 0/9 Puno ##city %% Aymara civilization; agricultural and livestock region; llamas and alpacas; immense plateaus and plains; cultural centre
+
+10 Markets 0.2 0.5 0.35
+%d9 0/10 Markets ##market %% Lima; lively and chaotic market; Polvos Azueles; Indian artisans market; 
+
+10 Museo de la Inquisicion 0.2 0.5 0.35
+%d9 0/10 Museo de la Inquisicion ##museum %% Spanish Inquisition; prison cells; torture chambers; guided tours; special and horrible piece of history
+
+10 Museo de la Nacion 0.2 0.5 0.35
+%d9 0/10 Museo de la Nacion ##museum %% good exhibitions; artefacts and pictures; history of Peru
+
+10 The fishing town of Huanchaco 0.2 0.5 0.35
+%d9 0/10 The fishing town of Huanchaco ##town %% region's best beaches; somewhat polluted; fishermen's work
+
+10 Lake Yarinacocha 0.2 0.5 0.35
+%d9 0/10 Lake Yarinacocha ##lake %% beautiful little lake; rent a boat; a lot of different animals; dolphins
+
+10 Taquile Island 0.2 0.5 0.35
+%d9 0/10 Taquile Island ##island %% small, pleasant island; no roads; several Inca ruins and terraces; small restaurants
+
+10 Piura 0.2 0.5 0.35
+%d10 0/10 Piura ##city %% beautiful beaches; adventurous; fishing village
+
+10 Chachapoyas 0.2 0.5 0.35
+%d10 0/10 Chachapoyas ##region %% lush, verdant jungle; isolated region; world-class sites; Pre-Incan ruins of Kuelap; tallest free-standing waterfalls
+
+10 The Amazon 0.2 0.5 0.35
+%d10 0/10 The Amazon ##forest %% jungle; peaceful evenings; bullfogs; alligators; trekking through the rainforest; meeting tribes; listening to howler monkeys; filled with excitement
+
+10 Oxapampa 0.2 0.5 0.35
+%d10 0/10 Oxapampa ##town %%German village; middle of the 1800s; festival Selvamonos; food is great; people welcoming; perfect for camping and hiking
+
+10 Huacachina 0.2 0.5 0.35
+%d10 0/10 Huacachina ##town %%sand boarding; blue-green laguna; huge sand dunes; beautiful site; tourist town; dune buggy ride
+
+10 Cordillera Blance and Huaraz 0.4 0.3 0.35
+%d7 7/10 Cordillera Blance and Huaraz ##trail %% best hiking and mountaineering; region&#8217;s capital; tourist-friendly; vibrant atmosphere; ideal base
+%d9 0/10 The Huaraz area ##region %% remarkably beautiful; lots of mountains; good place to trek and climb; home of Peru's highest mountain
+
+26 Kuelap 0.2 0.4 0.3
+%d6 6/10  Kuelap ##fort %% 9th century; stronghold of the Chachapoyas people; impressive limestone defensive walls; 450 stone houses; original thatched roofs; intricate carvings
+
+27 Ollantaytambo ruins 0.2 0.3 0.25
+%d6 7/10 Ollantaytambo ruins ##ruins %% huge, steep terraces; spectacular Inca ruins; original Inca walls and street grid; authenticity and accessibility
+
+28 Chauchilla Cemetery 0.2 0.2 0.2
+%d6 8/10 Chauchilla Cemetery ##historic site %% ancient Nazca burial ground; dates back to 1000AD; mummified bodies; unusual and unique
+
+
+28 Madre de Dios 0.2 0.2 0.2
+%d7 8/10 Madre de Dios ##national park %% Peruvian jungle; untouched; forests; broad river; rich in flora and fauna
+
+28 Lima 0.4 0.0 0.2
+%d7 10/10 Lima ##city %% buzzing yet elegant capital; modern city; Lima Centro; beautiful architecture; interesting culture; modern neighbourhoods;
+%d8 0/9 Lima ##city %% capital; industrial and financial centre
+
+31 Cajamarca 0.2 0.1 0.15
+%d7 9/10 Cajamarca ##town %% stone architecture; dramatic mountain scenery; pleasant year-round&#160;climate; charming town
+
+32 Royal Sipan Tombs 0.2 0.0 0.1
+%d6 10/10 Royal Sipan Tombs ##museum %% mausoleum of the Lord of Sipan; fourth century AD; opulent display of gold, silver and jewels; skeletons

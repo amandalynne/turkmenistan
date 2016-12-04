@@ -1,0 +1,102 @@
+1  Ranomafana  0.6  0.77  0.69
+  %d6  2/5  Ranomafana  ##national park  %% Famous for its lemurs; spread over more than 41,000 hectares of land; rich in biodiversity; ample varieties of birds, lizards, etc. can be found
+  %d7  1/10  Ranomafana National Park  ##national park  %% The park is one of the country's most popular; the most scenic views with a number of streams splashing through the dense forest; also home to the golden bamboo lemur, an endangered animal
+  %d9  1/5  Ranomafana National Park   ##national park  %% one of the most interesting things to do in Madagascar; Golden bamboo lemur; home to a great variety of flora and fauna; incredible ecosystem; Luscious rainforest intercepted by rolling hills, open plains and rugged cliffs; a truly immersive experience; awarded UNESCO World Heritage status
+  
+  
+2  Royal Hill of Ambohimanga  0.6  0.75  0.68  
+  %d6  1/5  Royal Hill of Ambohimanga  ##historic site; archaeological site  %% the place of origin of Malagasy race; The Forbidden City; often missed by tourists; features a huge circular gate that requires the effort of forty men to roll
+  %d7  4/10  Royal Hill of Ambohimanga  ##historic site; archaeological site  %% a sacred spot to the Malagasy people and has been for 5 centuries; used to be the home of Madagascar royalty; A wall constructed with mortar made of lime and egg whites surrounds the village; the former home of the island's greatest monarch, King Andrianampoinimerina has walls of solid rosewood
+  %d10  1/7  Royal Hill of Ambohimanga  ##historic site; archaeological site  %% A UNESCO World Heritage Site; a royal city; burial sites; an ensemble of sacred places; peaceful atmosphere; lush green countryside
+
+
+3  Nosy Be  0.8  0.22  0.51
+  %d6  5/5  Nosy Be  ##island  %% one of the most popular resorts in the world; The mixed scent of lemongrass, mint herbs, vanilla and ylang is the characteristic feature of this place
+  %d7  7/10  Nosy Be  ##island  %% one of Madagascar's premiere tourist spots; a tranquil place with clear waters and amazing seafood restaurants; eat like the natives did in the good old days, have your seafood served on the sand
+  %d9  5/5  Scuba Diving at Nosy Be  ##island  %% a truly wonderful experience; a once in a lifetime experience to discover the crystal clear offshore waters and unrivalled marine life; the world's largest coral reef; beaches are ideal for swimming as they shelve gradually  
+  %d10  3/7  Explore the island of Nosy Be  ##island  %% Clear turquoise waters; famous black lemurs; marine reserves; a snorkeling experience like no other 
+
+
+4  Lemurs  0.4  0.59  0.5
+  %d8  1/10  Lemurs  ##nature  %% Madagascar has 103 distinct types of lemurs from the largest, Indri Indri, to the tiny mouse lemurs that can nestle in an egg cup; The first thing that seems to come to mind when one mentions Madagascar attractions
+  %d10  5/7  Lemur Island  ##nature  %% 101 species (including subspecies) of lemurs; the most threatened mammal group on Earth
+
+
+4  Masoala National Park  0.2  0.8  0.5   
+  %d7  2/10  Masoala National Park  ##national park; ocean  %% covers about 250 miles of rainforests; also has three marine parks; the world's largest nocturnal primate, the aye-aye; numerous kinds of birds and reptiles also reside within the depths of the forest
+
+
+4  Wildlife  0.2  0.8  0.5 
+  %d8  2/10  Unique wildlife  ##nature  %% Madagascar is home to 70% of the world's chameleon species, 240 of its reptile species are endemic, and they have a mere 150 species of frogs; the two foot long Parson's Chameleon, the largest of its kind; the giraffe-necked weevil; the golden mantilla frog
+
+
+7  Diving, snorkeling & swimming with turtles  0.2  0.7  0.45 
+  %d8  3/10  Diving, snorkeling & swimming with turtles  ##nature; ocean  %% an undiscovered destination for tourism; the coral reefs; Madagascar offers some world-class diving opportunities; see humpback whales from the dive boats; A special highlight is being able to swim with the turtles in some areas
+
+
+8  Tsingy De Bemaraha  0.6  0.27  0.44  
+  %d6  4/5  Tsingy De Bemaraha  ##national park; nature  %% UNESCO included Tsingy de Bemaraha into the list of World Heritage Sites; mangrove forests; unique karst limestone rock formation
+  %d7  8/10  Tsingy de Bemaraha Reserve  ##nature reserve  %% easily the country's largest natural reserve; a broad mangrove forest and 7 lemur species; most famous lemur in the area is the deckens sifaka with its creamy white fur and black face
+  %d9  3/5  Tsingy de Bemaraha  ##nature reserve  %%  Awarded UNESCO world heritage status; the Stone Forest; home to 11 lemur species; Deep inside the forest is the enormous  Manambola River Canyon; rock climbing; rafting on the river
+
+  
+9  Andasibe-Mantadia National Park  0.4  0.45  0.43 
+  %d7  3/10  Andasibe-Mantadia National Park  ##national park  %% this park has 11 lemur species; includes Madagascar's largest lemur, the indri; one of the easier parks to visit as it's located near Antanavario, Madagascar's capital city
+  %d9  4/5  Andasibe-Mantadia National Park  ##national park  %% Infused with enchanting forests, rare flowers, exotic wildlife and cascading waterfalls; Awarded world heritage status; a particular sanctuary for the lemur; Colorful, varied and full to the brim of wildlife,  Andasibe is without question one of the most special places  in Madagascar
+
+
+10  Isalo National Park  0.4  0.41  0.41
+  %d7  9/10  Isalo National Park  ##national park  %% notable for its varied terrain;  Grasslands, steep canyons and sandstone formations
+  %d10  2/7  Isalo National Park  ##national park  %% notable for its varied terrain; steep canyons and sandstone formations; dating back to the Jurassic era
+
+
+10  Avenue of Baobabs  0.4  0.41  0.41
+  %d7  6/10  Avenue of Baobabs  ##nature  %% a dirt road lined by baobab trees; one of the most visited places in the region; baobab trees are over 80 years old and used to be part of a dense tropical forest
+  %d10  4/7  Avenue of Baobabs  ##nature  %% majestic trees; spectacular and breathtaking; 7 distinct species of the curious trees
+
+
+12  Walking  0.2  0.6  0.4
+  %d8  4/10  Walking  ##nature  %% a number of other national parks and reserves which are best appreciated on foot;  visit local artisans making rope, weaving, pottery-making and farming; great mountain hiking; pristine areas of rainforest
+    
+    
+12  Nosy Iranja  0.2  0.6  0.4
+  %d9  2/5  Nosy Iranja  ##island  %%  surrounded by pristine blue waters and white powdered sands; feels like a million miles away from anywhere; luxury beach resort options, such as fishing, sailing, snorkelling and waterskiing; hawksbill turtles that visit the island to breed
+  
+
+14  Ifaty  0.2  0.5  0.35
+  %d7  5/10  Ifaty  ##town; ocean  %% two dusty fishing villages on the southwest coast; protected from the rough sea waves by a 60-mile coral reef; ideal for fishing, diving and snorkeling; boasts of a desert inland area with spiny forests of strangely-shaped baobab trees
+
+
+14  Cultural Interest  0.2  0.5  0.35
+  %d8  5/10  Cultural Interest  ##other  %% enjoy the natural interaction with the locals; a dug-out pirogue (canoe) trip to get to a wildlife reserve, or a boat transfer to get to an island lodge;  many different ethnic groups in Madagascar
+
+
+16  Birding  0.2  0.4  0.3 
+  %d8  6/10  Birding  ##nature  %% Madagascar one of Africa's top birding hotspots; nearly half of them, a staggering 109 species, are endemic; Special mention must be made of the giant coua, crested coua and the velvet asity whilst the vangas and the mesites are among the most celebrated of the endemics
+
+
+16  Ile Sainte Marie  0.4  0.2  0.3  
+  %d6  3/5  Ile Sainte Marie  ##island  %% used to be the capital of pirates like Thomas White, William Kidd; one of the top 5 attractions in Madagascar; Diving, fishing, surfing and whale watching are the famous aquatic activities
+  %d7  10/10  Ile Sainte Marie  ##island  %% several pirate shipwrecks are still visible in the shallow waters; still and clear waters of the bay make for an ideal snorkeling spot; if you visit during summer, there's a good chance of spotting migrating humpback whales
+  
+  
+18  Whale watching  0.4  0.05  0.23
+  %d8  9/10  Whale watching  ##nature; ocean  %% Humpback whales come close to the Madagascar coast from mid June through to October; During the annual migration, humpback whales can be seen breaching and blowing in the narrow canal that separates the island from the mainland
+  %d10  7/7  Whale watching  ##nature; ocean  %% Humpback whales; can be seen from every spot on the island
+
+
+19  Scenery  0.2  0.3  0.25
+  %d8  7/10  Scenery  ##nature  %% scenic diversity; a stunning wealth of natural beauty from dry spiny forests full of baobab trees in the south and west, to lush eastern rainforests, to wetland areas to high escarpments
+
+
+20  Beaches  0.2  0.2  0.2
+  %d8  8/10  Pristine beaches  ##beach  %% one of the most undiscovered secrets of the Indian Ocean; miles of unspoilt palm-lined beach, snorkeling and diving and some of the best seafood around;  Freshly caught seafood is a drawcard in its own right with oysters, crab and lobster all readily available
+              
+  
+21  Zoma Market  0.2  0.14  0.17
+  %d10  6/7  Zoma Market  ##market  %% in the centre of this vibrant city; some of the best products that the island has to offer; one of the largest markets in the world!
+
+
+22  Orchids  0.2  0.0  0.1
+  %d8  10/10  Orchids & other flora  ##nature  %% 80% of Madagascar's flora is endemic to the island; over 13,000 plant species including all of the world's eight baobab species (six of which are endemic to Madagascar); Of particular note are the orchid's 1000 species, over 75% endemic; impressive palm and fern species including the aptly named traveller's palm which provides a welcome source of water to weary travelers, huge bird nest ferns and ancient cycads
+  

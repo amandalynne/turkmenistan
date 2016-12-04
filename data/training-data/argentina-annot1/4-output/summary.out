@@ -1,0 +1,78 @@
+1 Iguazu Falls 0.8 0.7 0.75
+% d2 1/10 Iguazu Falls          ##waterfall %% new 7 wonders; 1.3 million liters per second; 275 individual waterfalls
+% d3 0/5 Iguazu Falls      ##waterfall %% Taller than Niagara falls; on border of Brazil, Paraguay, Argentina
+% d4 5/10 Iguazu Falls                  ##waterfall %% worlds most impressive falls
+% d5 0/5 Iguassu Falls                     ##waterfall %% Argentina's prime destination; complex system of waterfalls; 275 separate falls
+
+2 Bariloche 0.6 0.6 0.6
+% d2 4/10 Bariloche             ##town %% chocolate shops; Swiss-style architecture; beautiful lakes; snow capped mountains
+% d4 4/10 Bariloche                     ##region %% beautiful lake; green landscape; hiking; biking
+% d5 0/5 Bariloche                         ##nature %% mountain province; skiing; trekking; lakes; glacier ice; forests
+
+3 El Chaltén 0.2 0.9 0.55
+% d4 1/10 El Chaltén                    ##nature %% world famous mountains; glaciers; lakes
+
+4 Buenos Aires 0.6 0.4 0.5
+% d2 5/10 Buenos Aires          ##city %% capital city; largest city in Argentina; European architecture; gourmet cuisine; vivid nightlife
+% d3 0/5 Bueno Aires       ##city %% impressive boulevards; outdoor cafes; historical facades; cobblestone streets; art; history museums
+% d4 7/10 Buenos Aires                  ##city %% history; tango; nightlife; good food; impressive architecture; great streetart
+
+4 Perito Moreno 0.4 0.6 0.5
+% d2 2/10 Perito Moreno Glacier ##glacier %% huge chunks of ice; walk on the glacier
+% d4 6/10 El Calafate & Perito Moreno   ##glacier %% get up really close
+
+4 Ushuaia 0.4 0.6 0.5
+% d2 6/10 Ushuaia               ##city %% world's most southern city; edge of the continent; Antarctica cruises; winter sports; wildlife viewing
+% d4 2/10 Ushuaia & Tierra del Fuego    ##nature %% rough coast; antarctica expeditions
+
+7 Mount Fitz Roy 0.2 0.7 0.45
+% d2 3/10 Mount Fitz Roy        ##mountain %% popular for hiking; most technically challenging mountains
+
+7 Patagonia 0.4 0.5 0.45
+% d3 0/5 Patagonia         ##region %% isolated and beautiful; hiking; lakes; meadowlands
+% d5 0/5 Patagonia                         ##nature %% mountain range; Trekking; camping; every healthy greeneries; fishing
+
+7 Rosario 0.2 0.7 0.45
+% d4 3/10 Rosario                       ##city %% warm-hearted people; not so many tourists
+
+10 Andes Mountains 0.2 0.5 0.35
+% d3 0/5 Andes Mountains   ##region %% Glaciers defy laws of gravity; skiing; small rural villages
+
+10 Cabildo 0.2 0.5 0.35
+% d1 0/5 Cabildo                    ##museum %% Spanish government's base; colonial-era structure; commemorating May Revolution 
+
+10 Club Atletico 0.2 0.5 0.35
+% d1 0/5 Club Atletico              ##prison %% subterranean torture chambers; forensic archaeology work
+
+10 La Manzana de Las Luces 0.2 0.5 0.35
+% d1 0/5 La Manzana de Las Luces    ##city square %% intellectual hub of colonial-era Buenos Aires; one of Argentina's oldest churches; first independent Argentinean congress 
+
+10 Parque de la Memoria 0.2 0.5 0.35
+% d1 0/5 Parque de la Memoria       ##memorial %% testament to Argentina's desaparecidos; names of 9,000 of the disappeared
+
+10 Plaza de Mayo 0.2 0.5 0.35
+% d1 0/5 Plaza de Mayo              ##historic site %% site of initial 1810 uprising; prominent Buenos Aires landmarks; monument to General Manuel Belgrano
+
+10 Rio Correntoso and Lacar Lake 0.2 0.5 0.35
+% d5 0/5 Rio Correntoso and Lacar Lake     ##nature %% flora and fauna; family river cruises; water color varies; swimming; Fishermen
+
+17 Mendoza 0.6 0.05 0.325
+% d2 10/10 Mendoza              ##city %% wine; proximity of Aconcagua; hiking; horse riding; river rafting
+% d3 0/5 Mendoza           ##city %% wine country; colorful Inca Bridge; tons of plazas; western hemisphere's tallest peak
+% d4 9/10 Mendoza                       ##region %% red wine; hostels are great; swimming pools
+
+18 Mar del Plata 0.4 0.2 0.3
+% d2 8/10 Mar Del Plata         ##city %% country's top beach resort city; sandy beaches; lively culture
+% d5 0/5 Mar del Plata Beaches             ##beach %% brown sands; very tranquil; blue skies; cool waves
+
+19 Puerto Madryn 0.2 0.3 0.25
+% d2 7/10 Puerto Madryn         ##city %% gateway to Peninsula Valdes; beautiful beaches
+
+20 Salta 0.2 0.2 0.2
+% d4 8/10 Salta                         ##region %% multiple day hikes
+
+21 Cordoba 0.2 0.1 0.15
+% d2 9/10 Cordoba               ##city %% Argentina's second largest city; Spanish colonial buildings; Jesuit Block
+
+22 El Bolson 0.2 0.0 0.1
+% d4 10/10 El Bolson                    ##town %% Hippie-village

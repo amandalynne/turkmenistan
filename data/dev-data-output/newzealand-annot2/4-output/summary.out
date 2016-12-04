@@ -1,0 +1,106 @@
+1   Fiordland National Park 0.8 0.9 0.9
+    %d6 1/12 Fiordland National Park and Milford Sound ##national park %%World Heritage Site; famous fjords; gushing cascades; offshore islands; virgin rainforests; vast lakes; craggy mountain peaks
+    %d7 1/10 Milford Sound ##national park %%among the most famous tourist attractions in New Zealand; staggering coastal scenery; dramatic peaks; dark blue waters; numerous waterfalls
+    %d9 0/18 Fiordland National Park ##national park %%steep, densely forested mountains; most accessible; possibly most beautiful spot
+    %d10 0/6 Milford Sound ##nature %%forest-covered vertical cliffs; cascading waterfalls; bustling marine-life; pristine scenery
+
+2   Tongariro National Park 0.8 0.7 0.8
+    %d6 4/12 Lake Taupo and Tongariro National Park ##national park %%New Zealand's largest lake; dual World Heritage Site; spectacular volcanic features; Maori culture; One of the oldest national parks in the world; dramatic beauty; towering volcanoes; turquoise lakes; arid plateaus; alpine meadows; hot springs; Tongariro Alpine Crossing
+    %d7 3/10 Tongariro Alpine Crossing ##nature %%day-long hike; Blue and Emerald Lake; historic significance to the local Maori people
+    %d8 0/9 Tongariro National Park ##national park %%bedazzling scenes; Mt. Ngauruhoe
+    %d9 0/18 Tongariro National Park ##national park %%three volcanoes; Lake Taupo
+
+2   Fox and Franz Josef Glaciers 1 0.5 0.8
+    %d6 6/12 Fox and Franz Josef Glaciers ##glacier %%main tourist attractions in spectacular Westland Tai Poutini National Park; rivers of ice; contorted frozen landscape; ice caves; pinnacles at the foot of the glaciers; vast tongues of ice
+    %d7 5/10 Franz Josef Glacier ##glacier %%dazzling Ice Age remnant; major drawcards for tourists
+    %d8 0/9 Fox and Franz Josef glaciers ##glacier %%eye-popping; majestic scenery
+    %d9 0/18 Fox and Franz Josef glaciers ##glacier %%most notable; unique
+    %d10 0/6 Fox Glacier and Franz Josef Glacier ##glacier %%UNESCO World Heritage area; top attractions; some of the most convenient in the world to reach
+
+4   Bay of Islands 0.6 0.8 0.7
+    %d6 2/12 Bay of Islands ##nature %%Penguins; dolphins; whales; marlin; fertile waters; sport fishing; sea kayak along the coast; hike the many island trails; bask in secluded coves; tour Cape Brett; famous rock formation called Hole in the Rock; explore sub-tropical forests
+    %d7 2/10 Bay of Islands ##nature %% one of the most popular holiday destinations in New Zealand; picturesque area; 44 islands; many secluded bays; great sandy beaches; abundance of marine life; whales; penguins; dolphins; big marlin.
+    %d10 0/6 Bay of Islands ##nature %%swimming with dolphins
+
+5   Rotorua 0.6 0.6 0.6
+    %d6 5/12 Rotorua ##nature %%one of the most active geothermal regions in the world; boiling mud pools; hissing geysers; volcanic craters; steaming thermal springs; geothermal wonders; steaming mineral springs; rich Maori history and culture; sky-diving; luging; mountain biking; trout fishing
+    %d8 0/9 Rotorua ##nature %%steamy, geothermal spectacles; highly memorable; historic reserves; Maori culture; hot springs, bubbling mud; geysers
+    %d9 0/18 Rotorua ##nature %%smell of sulphur; volcanoes; geysers; hot springs
+
+6   Queenstown 0.2 0.8 0.5
+    %d6 3/12 Queenstown ##city %%adventure capital; top destinations for international visitors; bungee jumping; jet boating; white-water rafting; paragliding; rock climbing; mountain biking; downhill skiing; stunning alpine scenery; excellent network of hiking trails; first-class hotels; spas; restaurants; galleries; shops
+
+6   Abel Tasman National Park 0.6 0.3  0.5
+    %d6 7/12 Abel Tasman National Park and the Abel Tasman Coast Track ##national park %%Abel Tasman Coast Track; sparkling Tasman Bay; scenic 51-kilometer hike; one of the sunniest regions; snorkel in secluded coves; fur seals; dolphins; penguins; diverse range of birds; cool forests; panoramic views from the rugged coastal cliffs; Split Apple Rock
+    %d7 9/10 Abel Tasman National Park ##national park %%mountainous terrain; blue penguins; wekas; oyster catchers; wood pigeons; rare birds
+    %d8 0/9 Abel Tasman coastline ##national park %%revealing national parks; relaxing amble
+
+6   Mount Cook National Park 0.6 0.3 0.5
+    %d6 8/12 Aoraki / Mount Cook National Park ##national park %%heart of the Southern Alps; New Zealand's highest peaks; longest glacier; top destination for mountaineering; diversity of flora and fauna;
+    %d8 0/9 Aoraki/Mount Cook ##mountain %%high point;
+    %d9 0/18 Aoraki Mount Cook ##mountain peak %%country's highest peak
+
+6   Napier 0.6 0.3 0.5
+    %d6 9/12  Napier, Hawke's Bay ##city %%gourmet food; Art Deco architecture; Spanish Mission style; Marine Parade seafront promenade; Pania of the Reef;
+    %d7 7/10 Napier Art Deco ##city %%eye-catching art deco architecture
+    %d9 0/18 Napier ##city %%Art Deco CBD
+
+6   Wai-o-tapu 0.4 0.6 0.5
+    %d7 4/10 Wai-o-tapu ##park %%incredible destination; geothermal activity; volcanic landscapes; Lady Knox Geyser; show-stopping display; geothermal spas;
+    %d10 0/6 Wai-O-Tapu Thermal Park ##park %%most diverse and colourful geothermal wonderland; thundering geysers; bubbling mud pools; incredible silica terraces; a different world
+
+11  Kaikoura 0.6 0.2 0.4
+    %d6 12/12 Kaikoura ##town %%excellent coastal hikes; popular whale watching tours; fur seals; dolphins; wide variety of birds; graceful albatross; crayfish; mussels; seafood delights
+    %d7 6/10 Kaikoura ##town %%haven for seafood lovers; fur seals; dolphins; sperm whales; albatrosses; feast of fresh crayfish, mussels, blue cod; untamed and dramatic Kaikoura forest
+    %d8 0/9 Kaikoura ##town %%resident sperm whale; leviathan species; fur seals
+
+11  Otago Peninsula 0.2 0.5 0.4
+    %d9 0/18 Otago Peninsula ##nature %%enguins; seals; sea lions; albatross colony
+
+13  Royal Albatross Centre 0.2 0.5 0.4
+    %d8 0/9 Royal Albatross Centre ##nature %%one of the world's biggest seabirds
+
+13  Tekapo 0.2 0.5 0.4
+    %d8 0/9 Tekapo ##lake %%extraordinarily blue glacial lakes
+
+13  Pukaha 0.2 0.5 0.4
+    %d8 0/9 Pukaha Mount Bruce ##nature reserve %%rare kiwi; endearing tuatara
+
+13  Karangahake 0.2 0.5 0.4
+    %d8 0/9 Karangahake ##nature %%relic-strewn gorge
+
+13  Mackenzie Country 0.2 0.5 0.4
+    %d9 0/18 Mackenzie Country ##region %%snow-capped jagged peaks; turquoise lakes
+
+13  Mount Tarawera 0.2 0.5 0.4
+    %d9 0/18 Mount Tarawera ##mountain %%site of one of New Zealand's more famous eruptions
+
+13  White Island 0.2 0.5 0.4
+    %d9 0/18 White Island ##nature %%volcanic island; different world; smoke plume; green crater lake; pohutukawa trees
+
+13  Wellington 0.2 0.5 0.4
+    %d9 0/18 Wellington ##city %%nation's capital; more interesting architecture; fine Te Papa museum
+
+13  Nelson 0.2 0.5 0.4
+    %d9 0/18 Nelson ##city %%arts; crafts; pottery; craft brewing; great beaches
+
+13  Christchurch 0.2 0.5 0.4
+    %d9 0/18 Christchurch ##city %%English character; Christ Church Cathedral
+
+13  Tane Mahuta 0.2 0.5 0.4
+    %d10 0/6 Tane Mahuta ##nature %%largest of all Kauri Trees in New Zealand
+
+13  Punakaiki Pancake Rocks 0.2 0.5 0.4
+    %d10 0/6 Punakaiki Pancake Rocks ##nature %%masterpiece; giant stacks of pancake-shaped limestone; striking display
+
+25 Auckland 0.4 0.2 0.3
+    %d6 10/12 Auckland ##city %%two sparkling harbors; New Zealand's largest city; most populous Polynesian city in the world; Sky Tower; top-notch dining; vibrant arts scene; revamped waterfront district
+    %d9 0/18 Auckland ##city %%pleasant city; waterfront districts
+
+26  Sky Tower 0.4 0.08 0.2
+    %d7 8/10 Sky Tower ##tower %%observation and telecommunications tower; 328 meters; tallest free-standing structure in the Southern Hemisphere; iconic structure in Auckland
+    %d9 0/18 Sky Tower ##tower %%tallest free-standing building in the Southern Hemisphere
+
+26  Coromandel Peninsula 0.4 0.04 0.2
+    %d6 11/12 Coromandel Peninsula ##nature %%Craggy mountains; native forest; hiking; birding; golden beaches, sea kayak; sky dive; bubbling hot pools; Hot Water Beach
+    %d8 10/10 Coromandel Peninsula ##nature %%white and golden sand beaches; magnificent coastal scenery; Hot Water Beach

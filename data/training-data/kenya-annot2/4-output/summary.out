@@ -1,0 +1,113 @@
+1	Maasai Mara National Reserve	0.6	0.84	0.72
+	% d6	1/12	Maasai Mara National Reserve	##game reserve	%%world's most magnificent game reserves; Great Migration; throngs of hippos and crocodiles
+	% d7	1/5	Maasai Mara Game Reserve	##game reserve	%%home of the new Seventh Wonder of the World; most visited destination in the country; truly unforgettable journey into the natural world
+	% d8	2/10	Wildebeest Migration	##nature	%%captivating event; 1.5 million wildebeests and zebra migrate
+
+2	Wildlife Safari	0.2	0.9	0.55
+	% d8	1/10	Wildlife Safari	##nature	%%once in a lifetime experience
+
+3	Amboseli National Reserve	0.4	0.62	0.51
+	% d6	2/12	Amboseli National Reserve	##game reserve	%%Africa's highest peak; one of Kenya's most popular tourist parks; view large herds of elephants up close
+	% d7	3/5	Amboseli National Park	##national park	%%tranquil atmosphere; unobstructed view of the animals; view of Mount Kilimanjaro
+
+4	Lamu	0.4	0.55	0.48
+	% d6	6/12	Lamu	##historic site	%%oozes old world charm; dating back to the 12th century; white sand beaches
+	% d8	4/10	Cultural Travel on the Island Lamu	##history	%%fascinating history; one of the oldest inhabited cities in Kenya
+
+4	Tsavo National Park	0.2	0.75	0.48
+	% d6	3/12	Tsavo National Park	##national park	%%Kenya's largest park; rivers, waterfalls, savannah, volcanic hills; photo-worthy sightings of large elephant herds
+
+6	East African Coast	0.2	0.7	0.45
+	% d8	3/10	East African Coast	##beach	%%pristine stretches of white sand and swaying palms; laid back attitude
+
+7	Samburu, Buffalo Springs, and Shaba National Reserves	0.2	0.66	0.43
+	% d6	4/12	Samburu, Buffalo Springs, and Shaba National Reserves	##game reserve	%%made famous in the film "Born Free"; Sarara Singing Wells
+
+8	Mombasa	0.4	0.42	0.41
+	% d6	9/12	Mombasa	##city	%%multicultural tourist magnet; many different types of cuisine; Go-Kart, cinemas, sports
+	% d7	2/5	Mombasa	##city	%%great place to explore; historical sites; many beautiful beaches 
+
+9	Gedi Ruins	0.2	0.5	0.35
+	% d9	0/8	Gedi Ruins	##historic site	%%one of the top tourist attractions; Swahili town; well-informed and educated guide
+
+9	Karen Blixen Museum	0.2	0.5	0.35
+	% d9	0/8	Karen Blixen Museum	##museum	%%gained international fame with the release of the movie 'Out of Africa'; Guided tours; museum shop
+
+9	Nairobi National Museum	0.2	0.5	0.35
+	% d9	0/8	Nairobi National Museum	##museum	%%flagship museum; history, culture and art from Kenya and East Africa
+
+9	The David Sheldrick Wildlife Trust	0.2	0.5	0.35
+	% d9	0/8	The David Sheldrick Wildlife Trust	##nature	%%newborn fully milk dependent African Elephant orphans
+
+9	Giraffe Center	0.2	0.5	0.35
+	% d9	0/8	Giraffe Center	##nature	%%environmental education; feed the world's tallest animal
+
+9	Fort Jesus	0.2	0.5	0.35
+	% d9	0/8	Fort Jesus	##historic site	%%monumental piece of architecture; museum
+
+9	Forest Trails	0.2	0.5	0.35
+	% d9	0/8	Forest Trails	##nature	%%unique ecological restore quarry; educational guided tours
+
+9	Elsamere Conservation Center	0.2	0.5	0.35
+	% d9	0/8	Elsamere Conservation Center	##museum	%%former home of naturalist and painter Joy Adamson; sumptuous tea on the lawns of the beautiflly peaceful lakeside setting
+
+9	Chaka Ranch Leisure Park	0.2	0.5	0.35
+	% d10	0/9	Chaka Ranch Leisure Park	##park	%%exciting new adrenaline-filled getaway; stunning view of Mount Kenya; buggy car and quad bike racing
+
+9	Aberdare National Park and The Treetops	0.2	0.5	0.35
+	% d10	0/9	Aberdare National Park and The Treetops	##hotel	%%closest possible views of wild game; historic site; compact and cozy
+
+9	Dedan Kimathi Wildlife Conservancy	0.2	0.5	0.35
+	% d10	0/9	Dedan Kimathi Wildlife Conservancy	##other	%%indigenous forest and a host of wild animals species; eco-lodge and conference centre; nature trails; horse trekking
+
+9	Ngare Ndare Forest	0.2	0.5	0.35
+	% d10	0/9	Ngare Ndare Forest	##forest	%%only indigenous forest in Kenya with an expanding canopy cover; ancient African Olive and Red Cedar trees; first canopy walkway in the African continent
+
+9	Borana Ranch &amp; Safari Lodge	0.2	0.5	0.35
+	% d10	0/9	Borana Ranch &amp; Safari Lodge	##hotel	%%panoramic views; eight romantic and unique cottages; guests can watch the elephants; sample fresh produce from the ranch
+
+9	Tafaria Castle &amp; Country Lodge	0.2	0.5	0.35
+	% d10	0/9	Tafaria Castle &amp; Country Lodge	##hotel	%%overlooks the Laikipia plains and Kenya's rooftop, the Mt Kenya; The lodge's architectural style is completely medieval; pool bar serving snacks and drinks all day; horse riding, bird watching, nature walks, buggy car racing, fishing and swimming
+
+9	Savage Wilderness Safari	0.2	0.5	0.35
+	% d10	0/9	Savage Wilderness Safari	##nature	%%only white water rafting operator in Kenya; other adventure sports; experienced staff and modern equipment
+
+9	Thika Greens golf city	0.2	0.5	0.35
+	% d10	0/9	Thika Greens golf city	##resort	%%18-hole championship gold course; private-members' clubhouse; five and three star hotels
+
+9	Kenya school of adventure and leadership	0.2	0.5	0.35
+	% d10	0/9	Kenya school of adventure and leadership	##other	%%public outdoor training centre; high impact experiential-based training solutions
+
+26	Mount Kenya National Park	0.6	0.19	0.4
+	% d6	11/12	Mount Kenya National Park	##mountain peak	%%country's namesake highest mountain; rare sight of equatorial snow; diversity of flora and fauna
+	% d7	5/5	Mount Kenya	##mountain	%%by far the tallest mountain in Kenya; worhty challenge to all avid climbers; unusual and rare species
+	% d8	5/10	Mount Kenya	##mountain	%%a more challenging climb; breathtaking scenery
+
+27	Lake Nakuru National Park	0.2	0.58	0.39
+	% d6	5/12	Lake Nakuru National Park	##national park	%%huge flocks of pink flamingoes; more than 450 species of birds; largest euphorbia candelabrum forest in Africa
+
+28	Nairobi	0.4	0.22	0.33
+	% d6	8/12	Nairobi	##city	%%famous historic sites; excellent wildlife-related attractions; botanic gardens
+	% d8	9/10	Nairobi	##city	%%largest city in Kenya; historical museums; African tribal exhibitions
+
+29	Lake Naivasha	0.2	0.42	0.31
+	% d6	7/12	Lake Naivasha	##lake	%%a haven for birders; relatively affordable; excellent climbing opportunities
+
+30	Hell's Gate National Park	0.4	0.2	0.3
+	% d6	12/12	Hell's Gate National Park	##national park	%%allows camping; excellent climbing and hiking opportunities; singing, dancing, and jewelry-making demonstrations
+	% d8	6/10	Hell's Gate	##national park	%%cycling and foot walking are permitted; jagged rock formations
+
+31	River Raft the Tana River	0.2	0.3	0.25
+	% d8	7/10	River Raft the Tana River	##nature	%%whitewater rafting and kayaking; bird viewing
+
+32	Lake Victoria	0.2	0.2	0.2
+	% d8	8/10	Lake Victoria	##lake	%%serene sunset views; pleasant town; hiking trails
+
+32	The Great Rift Valley	0.2	0.2	0.2
+	% d7	4/5	The Great Rift Valley	##nature	%%spectacular geological wonder; 12 volcanoes and 7 lakes; largest permanent desert lake in the world
+
+34	Malindi	0.2	0.17	0.19
+	% d6	10/12	Malindi	##beaches	%%beach resort popular with European visitors; dive the coral reefs; historic town
+
+35	Eat Nyama Choma	0.2	0	0.1
+	% d8	10/10	Eat Nyama Choma	##other	%%roasted meat on the grill; authentically prepared at roadside butcheries

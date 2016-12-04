@@ -1,0 +1,89 @@
+1   Masai Mara  0.4   0.9  0.65
+%d12   1/10    Masai Mara  ##nature reserve    %% wildlife spectacle; migration of over a million wildebeest from a hot-air balloon
+%d11   1/10   Masai Mara National Reserve ##nature reserve    %% popular game park; zebra and wildebeest
+
+2   Lake Nakuru 0.4   0.7 0.55
+%d12   3/10   Lake Nakuru National Park   ##national park; lake %% huge flocks of flamingos; birds; white rhino; warthog; giraffe; hippo; ostrich;  lion
+%d11   3/10   Lake Nakuru ##lake  %% flamingos; greatest bird spectacle on earth
+
+3   Amboseli National Park  0.4  0.65  0.525    
+%d12   5/10   Amboseli National Park  ##national park %% breathtaking views of Mount Kilimanjaro; elephant; hippo; cheetah; leopard
+%d11   2/10   Amboseli National Park  ##national park %% best place in Africa to get close to free-ranging elephants; opportunities to meet the Maasai people; spectacular views of Mount Kilimanjaro
+
+3   Lamu    0.4   0.65   0.525
+%d12   2/10    Lamu    ##town  %% one of Kenya's oldest towns; donkeys and the sound of the ocean waves; Banana House; houses for rent
+%d11   5/10   Lamu Island ##island    %% unspoiled and untouched by the mass tourism ; charm and character; few motorized vehicles; donkeys
+
+5   Mount Kenya   0.6   0.433  0.516
+%d13   0/5   Mount Kenya ##mountain  %% Mount Kilimanjaro; best views of the great mountain
+%d12   4/10   Mount Kenya ##mountain  %% Africa's second highest peak
+%d11   8/10   Mount Kenya ##mountain  %% highest mountain in Kenya
+
+6   Tsavo National Park 0.4   0.4 0.4
+%d12   8/10   Tsavo National Parks    ##national park %% vast; wild; elephants bathe among the hippos and the crocs
+%d11   4/10   Tsavo National Park ##national park %% largest national park in Kenya; spectacular scenery; rolling volcanic landscape; open savannah
+
+7   African Safari    0.2   0.5   0.35
+%d13   0/5   African Safari  ##nature; game reserve  %%wildebeest; great migration
+
+7   Beaches 0.2   0.5   0.35
+%d14   0/9   Beaches ##beach %% sumptuous sandy beaches; beautiful coastline; Indian Ocean; Colobus and Vervet monkeys
+
+7   Elephant Orphanage  0.2   0.5   0.35
+%d14   0/9   Elephant Orphanage  ##nature    %% baby elephants
+
+7   Giraffe Manor   0.2   0.5   0.35
+%d14   0/9   Giraffe Manor   ##nature    %% giraffes; native forest land; variety of birds and animals; warthogs
+
+7   Great Rift Valley   0.2   0.5   0.35
+%d13   0/5   Great Rift Valley   ##nature    %%most unique things to see; hot springs; geysers; geological phenoma
+
+7  Mombasa 0.2   0.5   0.35
+%d13   0/5   Mombasa ##beach %%Miami Beach of Kenya; great coral reefs; diving and snorkeling
+
+7  Nairobi Arboretum   0.2   0.5   0.35
+%d14   0/9 Nairobi Arboretum   ##nature    %% welcome splash of green; escape the hustle and bustle; perfect picnic site; native trees
+
+7  Nairobi Mamba Village   0.2   0.5   0.35
+%d14   0/9   Nairobi Mamba Village   ##nature    %% Crocodile Farm; ostriches; long-legged birds; traditional craft items
+
+7  Nairobi Zoo 0.2   0.5   0.35
+%d14   0/9   Nairobi Zoo ##zoo   %% popular family attraction; exotic animals; Vervet monkey; giraffes; lions; crocodiles
+
+7  National Parks  0.2   0.5   0.35
+%d13   0/5   National Parks  ##national park; nature reserve %%Watching Wildebeest Crossing the Road; see exotic animals; lions; cheetahs; monkeys
+
+7  Panari Sky Centre   0.2   0.5   0.35
+%d14   0/9   Panari Sky Centre   ##other %% largest ice rink in Africa; chilly break
+
+7  Snake Park  0.2   0.5   0.35
+%d14   0/9   Snake Park  ##nature    %% native reptiles; cobras; puff adders; pythons; alligators; terrapins; tortoises
+
+7  Uhuru Park  0.2   0.5   0.35
+%d14   0/9   Uhuru Park  ##park  %% country's best-known green spaces; boat trip on the lake
+
+20   Nairobi National Park   0.4   0.25   0.325
+%d15   0/2   Nairobi National Park   ##national park %% local wildlife; grazing hippo; ostrich; lion roaming the plains
+%d11   10/10  Nairobi National Park   ##national park %% large and varied wildlife; Migrating wildebeest and zebra; rhinoceros sanctuaries
+
+21   Hell's Gate National Park   0.2  0.4 0.3  
+%d11   6/10   Hell's Gate National Park ##national park   %% narrow break in the cliffs; tributary of a prehistoric lake; dramatic scenery; lions, leopards, and cheetahs
+
+21   Lake Turkana   0.2   0.4   0.3
+%d12   6/10   Lake Turkana    ##lake  %% lunar landscape; largest permanent desert lake in the world; Nile crocodiles; early hominid remains
+
+23   Samburu   0.4   0.15   0.275
+%d12   10/10 Samburu, Shaba and Buffalo   ##nature reserve    %% elephant; giraffe; leopard; zebra; blue-legged ostriches; Camel safaris
+%d11   7/10  Samburu National Reserve    ##nature reserve  %% peaceful; wildlife; forest and grassland; lion, cheetah and leopard; elephants, buffalo and hippos; Nile crocodile
+
+24   African Heritage house    0.2   0.5   0.264
+%d15   0/2   African Heritage house  ##art   %% traditional African housing
+
+25  Lewa Wildlife Conservancy 0.2 0.3   0.25
+%d12   7/10   Lewa Wildlife Conservancy   ##nature reserve    %% private reserve; black rhino; sitatunga; Grevy's zebra
+
+26  Malindi and Watamu  0.2   0.1   0.15
+%d12   9/10   Malindi and Watamu  ##town  %% beaches; great for snorkeling; free from fishing
+
+26  Malina  0.2   0.1   0.15
+%d11   9/10   Malina  ##coast %% extensive coral reefs; beautiful beaches; water sports

@@ -1,0 +1,116 @@
+1	Reykjavik	0.6	0.9375	0.76875
+%d1	1/16	Reykjavik	##ocean	%% whale watching happens year round; trips run day and night; Tour operators say there's an 80-95% chance of seeing these magnificent creatures; surfacing often happens right near the boats
+%d3	0/4	Reykjavik	##town	%% The largest city in Iceland; parties last for hours into the night; great museums and arts district; an opportunity to sample whale and to indulge in some disgusting sea creatures
+%d4	0/8	Reykjavik	##park %% Step off the pavements and explore paradise; Taking a break from culture and civilization is a must for residents
+%d4	0/8	Reykjavik	##festival	%% a hotbed of activity with a remarkable number of annual festivals all year round
+%d4	0/8	Reykjavik	##other	%% an impressive number of quality restaurants, staffed with award winning chefs; We recommend visitors try out the Icelandic cuisine; be sure to try out the fabulous Icelandic coffee, beer, hotdog and pizza too! 	
+%d4	0/8	Reykjavik	##museum	%% Reykjavik has an array of museums and galleries open year-round; displays of national historic treasures; exhibiting contemporary work by local artists; impressive literary heritage
+%d4	0/8	Reykjavik	##other 	%% see if you have enough stamina to stay up as long as a local; pubs, clubs and lots of live venues to suit a multitude of different party moods!
+%d4	0/8	Reykjavik	##shopping mall	%% famous brands, unique Icelandic design; quirky Icelandic bargains in popular retro/second-hand shops
+%d4	0/8	Reykjavik	##other	%% some of the city's best facilities promoting health and wellbeing
+%d4	0/8	Reykjavik	##other	%% take a dip in one of Reykjavik's many thermal pools and spas
+
+2	Blue Lagoon	0.4	0.875	0.6375
+%d1	2/16	Blue Lagoon	##nature	%% this most iconic of geothermal spas should be at the top of any visitor's must-see list; The water from the underground hot springs reaches 37-39 degrees Celsius and is said to be highly beneficial for both health and skin; there's a shop selling skincare products, a range of spa treatments, and places to eat and drink
+%d3	0/4	The Blue Lagoon	##lake	%% a pricey attraction but worth every single penny; bathe in a massive heated pool thats heated naturally; get massaged by a powerful waterfall; clenase your face with the mineral rich silica mud
+
+3	The Northern Lights	0.4	0.75	0.575
+%d1	4/16	The Northern Lights	##nature	%% among the most popular visitor attractions in Iceland; the Northern Lights can be seen in most places throughout Iceland from around late September until the beginning of April
+%d3	0/4	The Northern Lights	##nature	%% There is nothing in the world like it, definitely a must see in your lifetime; This is an one of the Iceland tourist attractions that cannot be missed.
+
+4	Borgarfjor	0.2	0.9	0.55
+%d2	1/10	Borgarfjor	##nature	%% a hiking paradise; the water is crystal clear and the rocks seem to sink into the earth; There are many interesting tracks, up mountains and by the see
+
+5	Geysers	0.2	0.8125	0.50625
+%d1	3/16	Spectacular Geysers	##nature	%% Strokkur Geysir (after which all geysers are named) is the most popular fountain geyser in the country and famed throughout the world; Boiling mud pits and around 100 other smaller exploding geysers are waiting to be explored here; Every few minutes, Strokkur shoots water 30 meters into the air; A memorable experience is digging up Geysir or "hot spring" bread; visitors can also help a chef boil eggs in a hot spring to accompany the bread
+
+6	Vopnafjor	0.2	0.8	0.5
+%d2	2/10	Vopnafjor	##waterfront	%% there is nothing more fun than to take a midnight swim; which is an excellent swimming pool set in magnificent landscape where you can enjoy nature and the area in peace from everything
+
+7	Papey	0.2	0.7	0.45
+%d2	3/10	Papey	##other	%% the island of puffins; you can see puffins close-up; visit the smallest wooden church in Iceland
+
+8	Seydisfjordur	0.4	0.4875	0.44375	
+%d2	5/10	Seydisfjordur	##art	%% visiting artists from all over the world; The Skaftafell Cultural Centre; 
+%d2	6/10	Seydisfjorður	##town	%% is known for its pleasant weather and tranquillity; A stay at the guesthouse is a haven of tranquility and the local shellfish with a good glass of white wine at Brekkan restaurant
+%d1	7/16	Skaftafell Ice Cave	##national park	%% a land of glaciers and magnificent ice caves; attract adventurers from across the globe; he best time to visit Skaftafell Ice Cave is during winter; Group visits to all areas can be arranged off-season
+
+9	Landmannalaugar	0.2	0.6875	0.44375
+%d1	5/16	Landmannalaugar	National Park	##national park	%% one of Iceland's most popular tourist destinations; Hiking and horse riding are popular activities here; You can visit from June to late September; Expect raw nature, rugged scenery, and utterly spectacular views
+
+10	Dettifoss	0.2	0.4375	0.41875
+%d1	9/16	Dettifoss Waterfall	##waterfall	%% Plunging 45 meters and with a width of 100 meters, it's said to be the most powerful waterfall in Europe; 
+
+11	Maelifell	0.2	0.625	0.4125
+%d1	6/16	Maelifell Volcano Glacier Park	##glacier	%% for safety reasons can only be visited during summer; he park is full of volcanoes, hot springs, and other remarkable sites; A popular and thrilling way to explore is by snowmobile
+
+12	Lagarflj	0.2	0.6	0.4
+%d2	4/10	Lagarflj	##lake	%% A drive up to the dam, the biggest one in Europe, takes about an hour and a half; the Icelandic forest; natural hot spring; waterfall is the second tallest waterfall at 120m; red strata patterns on the cliff
+
+13	Grundarfj	0.4	0.375	0.3875
+%d1	10/16	Grundarfj	##town	%% a charming fishing village; The town lies in a picturesque fjord, surrounded by mountains, with Mt. Kirkjufell looming as a striking landmark; Eyrbyggja Heritage Centre holds exhibitions on Grundarfj
+%d5	0/11	Kirkjufell Mountain	##mountain	%% The most photographed mountain in Iceland; this mountain with its needle sharp point is like something out of Middle Earth; a guide is recommended to ensure you get the full experience.
+
+14	Glaciers	0.2	0.5	0.35
+%d3	0/4	Glaciers	##glacier	%% you can walk on glaciers, see glacier pools, climb underneath glaciers; Many tour operators even take you to the retreating glaciers around Iceland as well
+
+15	Hraunfossar Waterfalls	0.2	0.5	0.35
+%d5	0/11	Hraunfossar Waterfalls	##waterfall	%% Stretching over 900 metres, the Hraunfossar waterfalls are a collection of cascades and streams; he water sometimes appears milky white whilst other times it emerges as bright turquoise; 
+
+16	Breiðafjörður	0.2	0.5	0.35
+%d5	0/11	Breiðafjörður	##mountain	%% A shallow bay of about 50km and surrounded by mountains including the volcano; diverse wildlife, flora and fauna and spectacular walking trails; breeding puffin colonies and is well worth a visit
+
+17	Deildartunguhver	0.2	0.5	0.35
+%d5	0/11	Deildartunguhver hot spring	##other	%% The hot springs are too hot to bathe in; but the hot water is used by towns in its immediate radius;
+
+18	Whale Watching	0.2	0.5	0.35
+%d5	0/11	Whale Watching	##viewpoint	%% home to around twenty whale species; encounter dolphins and combine the trip with some bird-watching including rare puffin colonies
+
+19	The Old Fish Packing House	0.2	0.5	0.35
+%d5	0/11	The Old Fish Packing House	##town	%% Built in 1918 as a packing house for local fish products; This is a great spot for trying some tasty catch of the day 
+	
+20	Húsafell	0.2	0.5	0.35
+%d5	0/11	Húsafell Bistro	##other	%% an artistic and cosy bistro serving various different Icelandic delicacies; The restaurant is open every day during the season but double check the opening times before you go as it varies during the week
+%d5	0/11	Húsafell Hotel	##resort	%% A luxury hotel, with modern furnishing and geothermal baths set in a landscape of lava caves; a golf course nearby in case you fancy playing a few holes; The restaurant of the hotel has an incredible view across the surrounding landscape and is the perfect place if you are looking to celebrate a special occasion. 
+
+21	Café Kjós	0.2	0.5	0.35
+%d5	0/11	Café Kjós	##other	%% Icelandic Fish Soup; light meals with a beautiful view over Lake Medalfellsvatn
+
+22	Hotel Búðir	0.2	0.5	0.35
+%d5	0/11	Hotel Búðir	##resort	%% this hotel is like something out of an oil painting; A beautiful white Scandinavian style building set against a backdrop of wild and rugged landscape. access all the delights and wonders of the Snæfellsjökull National Park
+
+23	Hraunsnef Country Hotel	0.2	0.5	0.35
+%d5	0/11	Hraunsnef Country Hotel	##resort	%% A beautiful, family run hotel set on a working farm on a hilltop; ecorated with traditional Icelandic textiles on the beds and each room is fitted with its own luxury bathroom
+
+24	Askja	0.2	0.5	0.35
+%d1	8/16 	Askja Caldera	##national park	%% taken a dip in a live volcano; A word of warning, the banks can be very slippery, particularly in wet weather
+
+25	Faskrúdsfjorður	0.2	0.4	0.3
+%d2	8/10	Faskrúdsfjorður	##town	%%The town is famous for its French heritage; It is worthwhile to visit the French Museum and learn more about these historical connections; The village road signs are also in French.
+
+26 	Hallgr	0.2	0.3125	0.25625
+%d1	11/16	Hallgr	##church	%% It's the tallest and most recognizable building in the country; A climb to the top of the 73-meter-high tower is particularly rewarding; At the front of the church is a statue of Icelander Leifur Eiriksson
+
+27	Nordfjordur	0.2	0.3	0.25
+%d2	7/10	Nordfjordur	##town	%% is known for a florid music scene; blues, rock and jazz club; During the summer the music town boasts of a concert a day
+
+28	Gullfoss	0.2	0.25	0.225
+%d1	12/16	Gullfoss Waterfall	##waterfall	%% Gullfoss encompasses two cascades, the upper one drops 11 meters, while the lower one cascades about 21 meters; A word of warning: there are no rails or barriers, just a spine-tingling spectacle to enjoy amidst surroundings as nature intended
+
+29	Mount Esja	0.2	0.1875	0.19375
+%d1	13/16	Mount Esja	##mountain	%% The mountain is 914 meters high and very popular with hikers; Even for the inexperienced climber it's a relatively easy hike; Be sure to sign the guest book at the top.
+
+30	Akureyri	0.2	0.125	0.1625
+%d1	14/16	Akureyri	##town	%% Despite the town's isolation, cultural life and entertainment flourish here, and a wide range of shops offer brand-name products; The skiing area is the best in the country; Points of interest include the Akureyri Museum and impressive Aviation Museum at Akureyri Airport. 
+
+31	Stodvarfjorður	0.2	0.1	0.15
+%d2	9/10	Stodvarfjorður	##nature	%% The area is renowned for its natural beauty; Many rare and peculiar types of stones and minerals can be found in the surrounding mountains; Nature lovers will enjoy contemplating the beautiful waterfalls of the river
+
+32	Lake Myvatn	0.2	0.0625	0.13125
+%d1	15/16	Lake Myvatn	##nature reserve	%%  lake district famous for its wealth of bird life, rich fauna, and large shallow body of water; Bubbling clay pits, sulphuric fumes, and lava formations all form part of this unique landscape; The area is also a bird-watcher's paradise;
+
+33	The Pearl Observatory	0.2	0.0	0.1
+%d1	16/16	The Pearl Observatory	##other	%% one of Reykjavik's landmark buildings; The observatory affords stunning views over the city; a revolving restaurant as well as gourmet and souvenir shops; The observation deck is a real treat
+
+34	Breiddalsvík	0.2	0.0	0.1
+%d2	10/10	Breiddalsvík	##beach	%% great seascapes and black sand beaches; surrounded by majestic, alpine mountains rising on both sides; famous for salmon-fishing

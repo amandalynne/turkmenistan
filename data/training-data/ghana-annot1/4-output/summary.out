@@ -1,0 +1,92 @@
+1	Cape Coast Castle  0.4	0.8	0.6
+  % d2	2/10	Cape Coast Castle	##historic site; museum	%% built for the slave-trade; one of the most impressive of Ghana&#8217;s old forts; excellent museum;  history of Ghana; slave-trade; local culture
+  % d3	2/10	Cape Coast Castle	##historic site; museum	%% historical wonder; slave quarters; dungeons; grand governor&#8217;s bedroom; museum
+
+2	Kejetia Market  0.2	0.9	0.55
+  % d3	1/10	Kejetia Market	##market	%% one of the largest markets in West Africa; over 11,000 stalls; Ashanti sandals; glass beads; food stuffs; shoes; jewelry
+  
+3	The ancient city of Begro	0.2	0.8	0.5
+  % d5	1/5	The ancient city of Begro	##historic site	%% one of the most historical Ghana tourist attractions; ancient city; artifacts and findings are on display
+  
+3	Bonwire, Ashanti region	0.2	0.8	0.5
+  % d4	1/5	Bonwire, Ashanti region	##art	%% famous for the production (weaving) of Kente; very prestigious royal cloth; beautiful, multicolored patterns of bright colors and exquisite shapes
+
+5	Accra  0.4	0.5	0.45
+  % d2	1/10	Accra, Ghana's Capital	##city; museum; historic site; prison; beach; memorial; art	%% sprawling city; modern buildings; shanty towns; occasional castle; lively markets; The National Museum; wonderful displays about Ghana&#8217;s culture and history; Makola Market; colorful; bustling; James Fort; one of the monuments of&#160; the Europeans and slavery; houses a number of prisoners; Christianborg castle; Government House; nice beaches; The Arts Center; great place to shop for handicrafts; Kwame Nkrumah Mausoleum; last resting place of the first President of Ghana; museum is subterranean; Kokrobite Beach; excellent Academy of African Music and Art; Busua Beach; one of Ghana&#8217;s best beaches
+  % d3	9/10	Accra	##city	%% capital city; National Museum; Independence Square; Centre for National Culture
+  
+5	Boabeng Fiema Monkey Sanctuary	0.4	0.5	0.45
+  % d1	0/7	Boabeng Fiema Monkey Sanctuary	##nature reserve	%% popular stopover for visitors to the nearby Mole National Park; around 200 black-and-white Colobus monkey; some 500 Mona monkeys; monkey cemetery 
+  % d3	5/10	Boabeng-Fiema Monkey Sanctuary	##nature reserve	%%small community-protected forest; Mona monkey; black and white colobus monkey; sacred
+  
+5	Elmina and St George's Castle	0.2	0.7	0.45
+  % d2	3/10	Elmina and St George's Castle	##town; historic site; museum	%% picturesque fishing town along Ghana&#8217;s coast; one of Ghana&#8217;s biggest attractions; small museum; guided tours; stark beauty of the white-washed Castle walls
+  
+5	Kakum National Park	0.5	0.4	0.45
+  % d2	4/10	Kakum National Park	##national park	%% dense tropical rain forest; over 40 species of larger mammals; bird life is fantastic; over 250 species; Canopy Walkway; unique viewing perspective of the wildlife; unique plants of the forest; trained guides; basic campsite
+  % d3	3/10	Kakum National Park	##national park	%% wildlife; canopy walkway suspended approximately 100 feet above the ground; colobus monkey; over 300 species of birds; endangered forest elephants; approximately 600 butterfly species
+  % d5	5/5	Kakum National Park	##national park	%% one of the most popular of the Ghana tourist attractions for African nature lovers; natural beauty; undisturbed virgin rain forest; indigenous plant life; walking tours; excursions  
+  
+5	Paga Crocodile Pond	0.6	0.3	0.45
+  % d1	0/7	Paga Crocodile Pond	##nature reserve	%% oldest reptile resident of the pond is thought to be over 85 years old; Paga crocodiles are remarkably comfortable in human company; see and touch them at extremely close quarters
+  % d4	2/5	CROCODILE POND,Paga	##nature reserve	%% sacred crocodile sanctuary; crocodiles found in Paga are very friendly; have a peaceful coexistence with humans
+  % d2	10/10	Paga Crocodile Pond	##nature reserve; historic site	%% sacred crocodile sanctuary; Paga crocodiles are friendly
+
+10	The Bui National Park	0.2	0.6	0.4
+  % d5	2/5	The Bui National Park	##national park	%% largest hippopotamus population; guided tours; prime photo opportunities of hippos; attraction that should not be missed  
+  
+10	The Kumasi Voodoo Experience	0.2	0.6	0.4
+  % d3	4/10	The Kumasi Voodoo Experience	##other	%%exciting tour; unique experience; voodoo dance; costumed dancers; ritualistic chant; voodoo shrine
+  
+12	Aburi Botanical Gardens	0.2	0.5	0.35
+  % d1	0/7	Aburi Botanical Gardens	##garden	%% good selection of exotic plants; seasonal flowers; trees; excellent views across the Accra coastal plain; Native butterflies; colourful African birds; charming gardens
+  
+12	Bojo Beach  0.2	0.5	0.35
+  % d1	0/7	Bojo Beach	##beach	%% leading family attraction; wonderful place to come and relax; traditional thatched restaurant; white sandy beachfront
+
+12	Labadi Beach	0.2	0.5	0.35
+  % d1	0/7	Labadi Beach	##beach	%% very popular with both locals and tourists
+
+12	Lake Volta	0.2	0.5	0.35
+  % d2	5/10	Lake Volta (Volta Lake)	##lake	%% largest man-made lake in the world; passenger boat; 24 hours one way; rewarding for the adventurous traveler
+  
+12	Makola Market	0.2	0.5	0.35
+  % d1	0/7	Makola Market	##market	%% maze of umbrella-covered stalls; every visitor to Ghana should experience at least once; basic items needed for daily life
+
+12	Nzulezu Stilted Village	0.4	0.3	0.35
+  % d2	8/10	Nzulezu	##town	%% village built on stilts; unique little fishing community; can only reach it by renting a canoe
+  % d3	6/10	Nzulezu Stilted Village	##town	%% unique place to visit during the rainy season; unique village; Amansuri wetlands; seated on stilts; rich in birds; other wildlife
+  
+12	Pikworo Slave Camp	0.2	0.5	0.35
+  % d1	0/7	Pikworo Slave Camp	##historic site	%% where most slaves who were captured; Evidence of daily life
+  
+19	Fishing villages	0.2	0.4	0.3
+  % d5	3/5	Fishing villages	##town %% one of the most interesting Ghana tourist attractions; traditional market towns; coastline of the region; busy lives of traditional fishermen and women  
+  
+19	Kumasi	0.2	0.4	0.3
+  % d2	6/10	Kumasi	##city; art; market; museum	%% second largest city; famous artisans; bustling Kejetia Market is worth visiting; Kente cloth is good value; Manhyia Palace Museum; meet the current Ashanti king; Okomfo Anokye Sword Site; Lake Bosomtwe; Kumasi Market and Fort.; Obuasi Gold Mine; Bonwire( the Kente City) 
+
+19	Mole National Park	0.4	0.2	0.3
+  % d3	8/10	Mole National Park	##national park	%% one of the well-equipped and largest game reserves; potted hyenas; lions; elephants; and antelopes  
+  % d2	9/10	Mole National Park	##national park	%% largest wildlife park; buffalo; roam antelope; elephants; warthogs; hyenas; leopard; lions; more than 250 species of birds  
+  
+19	TAKORADI PORT	0.2	0.4	0.3
+  % d4	3/5	TAKORADI PORT	##historic site	%% first port to be built in Ghana; handles both imports and exports; served as the main port for passenger vessels traveling along the West Africa &#8211; Europe route; undoubtedly &#160;a great place to visit
+  
+23	Ghanian Festivals	0.2	0.3	0.25
+  % d3	7/10	Ghanaian Festivals	##festival	%% Ghana culture; drumming; dancing; feasting
+
+23	Kintampo Falls  0.2	0.3	0.25
+  % d2	7/10	Kintampo Falls	##waterfall	%% panoramic scene; superbly display the beauty of nature; shaped in a beautiful staircase; superb falls; great scenery
+  
+23	The beaches	0.2	0.2	0.2
+  % d5	4/5	The beaches	##beach	%% fringed with palm trees; rich in landscape; Elmina beach; Gomoa Fetteh beach; popular Ghana tourist attractions; frequented by picnickers and tourists alike  
+  
+23	LIGHTHOUSE, Jamestown- Accra	0.2	0.2	0.2
+  % d4	4/5	LIGHTHOUSE, Jamestown- Accra	##viewpoint	%% colonial-era lighthouse; panoramic view from the top; simply breath-taking; very close to tourist attractions
+
+27	Busua	0.2	0.0	0.1
+  % d3	10/10	Busua	##town	%% coastal village; beach adventures; popular surfing scene; great seafood restaurant; isolated and rustic resorts  
+  
+27	OSTRICH FARM, Efutu Mampong	0.2	0.0	0.1
+  % d4	5/5	OSTRICH FARM, Efutu Mampong	##nature reserve	%% Probably Ghana&#8217;s only and most effective Ostrich Farm; some of the world&#8217;s largest living birds; generally very interesting and adventurous; touch them; feed them leaves; hold an ostrich egg   

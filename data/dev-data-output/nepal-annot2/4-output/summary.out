@@ -1,0 +1,186 @@
+1	Kathmandu	0.800000	0.861538	0.830769
+
+		%d1	1/13	Kathmandu	##city	%% capital and largest city; gateway to most of Nepal
+
+		%d2	0/10	Kathmandu  ##city   %% capital and largest municipality; administrative status
+
+		%d3	1/5	Kathmandu	##city	%% largest city and capital; situated in a valley; famous for many Buddhist temples; 17th century; Durbar Square; contains a marvelous royal palace; many temples built in traditional pagoda style
+
+		%d4	0/11	Kathmandu Durbar Square		   ##city district	%% one of the eight Cultural World Heritage site; cluster of ancient temples, palaces and courtyards; date back to the 12th century; urban focal point
+
+2	Bhaktapur	0.600000	0.700000	0.650000
+
+		%d4	0/11	Bhaktapur Durbar Square		   ##city district	%% built primarily in the 16th and 17th centuries; contains a royal palace; temples built in he traditional Newar, pagoda style; The golden gate, entrance to the Durbar Square is a delight to the eyes; UNESCO listed World heritage site
+
+		%d5	4/15	Durbar Square			## city district  %% tourist heart of Kathmandu; suprised by the sheer number of temples; Hanuman Dhoka; Taleju Temple; Kumari Bahal
+
+		%d5	5/15	Bhaktapur			##city	%% small town 10 kilometres from Kathmandu; famous for its many varied temples; impressive five-storey Nyatapola temple; tallest temple in Nepal; timeless air; exquisite architecture; No cars are allowed
+
+3	Annapurna	0.800000	0.400000	0.600000
+
+		%d2	0/10	Annapurna Circuit      ##other %% trek within the Annapurna mountain range; length of the route varies
+
+		%d3	5/5	Annapurna	##nature reserve   %% nature conservation area; favorite track route of professional climbers; series of peaks; always covered with snow; exudes a grandeur
+
+		%d4	0/11	Annapurna Range	##nature reserve   %% Starting point to the most astonishing treks; Annapurna Base Camp; called the 'Range of the Gods'; blissful site; natural amphitheater; several peaks above 7000 meters; experience is indeed thrilling
+
+		%d5	3/15	Annapurna region		##nature reserve  %% accessed from tranquil Pokhara; famous for the Annapurna range; sacred Fish Tail mountain; 10-day Annapurna Sanctuary trek; region's most popular activity; glacial plateau; Annapurna base camp (4130 metres) is the highest point; providing stunning 360 degrees views of the Annapurna range; Rum Doodle bar in the Thamel region
+
+4	Boudhanath Stupa	0.200000	0.933333	0.566667
+
+		%d5	1/15	Boudhanath Stupa	## temple	%% holiest and most recognisable sites in Kathmandu; UNESCO world heritage status; largest temple in Nepal; religious centre of Nepal's Tibetan/Buddhist community; surrounded by around 50 monasteries
+
+5	Everest Region	0.200000	0.866667	0.533333
+
+		%d5	2/15	Everest Region	##mountain	%% accessed by a nerve-racking 30 minute flight; two days to the main town in the Everest region, Namche Bazaar; Everest base camp; observe Everest climbers; khumbu icefalls; Hillary Step; recently reopend to climbers and trekkers; Himalaya range
+
+6	Asan Tole	0.200000	0.846154	0.523077
+
+		%d1	2/13	Asan Tole	##market   %% popular bustling market
+
+7	Pashupatinath Temple	0.400000	0.600000	0.500000
+
+		%d4	0/11	Pashupatinath Temple	 ##temple  %% magnificent temple; north-east of Kathmandu; situated amidt many other tmples on the right bank of the river Bagmati; Dedicated to Hindu Lord Shiva; attract thousands of visitors from within and outside the country every year; near the golf course and airport; one of the abodes of Lord Shiva
+
+		%d5	6/15	Pashupatinath Temple		##temple   %% Nepal's most importat Hindu temple; pagoda style of architecture; stands on the banks of the Bagmati river; distinctive gilded rooftop
+
+8	Seto Machhendranath	0.200000	0.769231	0.484615
+
+		%d1	3/13	Seto Machhendranath	   ##temple   %% temple; sacred to Hindus and Buddhists
+
+9	Maju Deval	0.200000	0.692308	0.446154
+
+		%d1	4/13	Maju Deval		   ##temple    %% shiva temple; offers great views; popular meeting place
+
+10	Chitwan National Park	0.400000	0.466667	0.433333
+
+		%d4	0/11	Royal Chitwan National Park	   ##national park	  %% long been one of the country's treasures; natural wonders; subtropical lowlands; country's first national park; UNESCO declared RCNP a World Heritage Site
+
+		%d5	8/15	Chitwan National Park		##national park	      %% established in 1973; nature reserve of jungle, forest and marshland; awarded world heritage status; replaced a hunting reserve; excellent chance of spotting one-horned rhinos; elephant treks
+
+11	Pokhara	0.600000	0.235897	0.417949
+
+		%d1	9/13	Pokhara	##city	%% end point for the Annapurna Circuit Trek; spectacular setting; lots of trails to follow; World Peace Pagaoda; International Mountain Museum
+
+		%d3	3/5	Pokhara		##city		   %% Neighboring city of Kathmandu; popular attractions; third largest city in Nepal; gateway to the basceamp Anapura ascent; foot of the Himalayas; trekking tour; 25 days of travel; famous for its three stunning lake; views of the snowy mountains
+
+		%d5	15/15	Pokhara	  ##city  %% west of Kathmandu; stunningly beautiful; refreshingly tranquil traveller's paradise; built around the Phewa Tal; excellent restauraunts and bars; built around the Phewa Tal, Nepal's second largest lake
+
+12	Skydive Everest	0.200000	0.615385	0.407692
+
+		%d1	5/13	Skydive Everest		   ##other     %% elite expedition; high-altitude skydiving; treks to Everest Base Camp
+
+13	Nagarkot	0.200000	0.600000	0.400000
+
+		%d3	2/5	Nagarkot	##viewpoint	   %% popular tourist spot; located 32 km east of Kathmandu; altitde of 2175 masl.; Panorama of the main peak; clearly seen from Nagarkot
+
+14	Patan	0.400000	0.392308	0.396154
+
+		%d1	8/13	Patan	##city	%% known by art lovers; dozens of temples and monuments; Palace of the Malla Kings; Patan Durbar Square; Tibetan Refuge Camp; Traditional carpets
+
+		%d5	9/15	Patan	##city	 %% south of Kathmandu; seperated from the capital by the Bagmati river; second largest town n the Kathmandu valley; has an ancient history; greater concentration of temples per square metere than either Kathmandu or Bhaktapur
+
+15	Bakhtapur	0.200000	0.538462	0.369231
+
+		%d1	6/13	Bakhtapur		   ##city      %% traffic free; UNESCO Heritage town; cultural and crafts traditions; one of three sacred cities in the Kathmandu Valley
+
+16	Narayanhiti Palace Museum	0.200000	0.533333	0.366667
+
+		%d5	7/15	Narayanhiti Palace Museum	##museum   %% primary residence of Nepal's monarchy for over a century until 2008; designed by American architect; style of a contemporary pagoda; showcases the belongings of former royalty; chintzy decor; extensive grounds are open to visitors
+
+17	World's Highest Gig	0.200000	0.461538	0.330769
+
+		%d1	7/13	World's Highest Gig	   ##festival  %% Music4children; Mera Peak; raise enough funds to support an orphanage;
+
+18	Namche Bazaar	0.400000	0.230769	0.315385
+
+		%d1	10/13	Namche Bazaar ##city   %% Last stop before Everest Base Camp; busy working tourist town; Sherpa life;
+
+		%d2	0/10	Namche Bazaar	       ##city	  %% village; Village Development Committee (Namche) in Solukhumbu District
+
+19	Kopan Monastery	0.200000	0.333333	0.266667
+
+		%d5	10/15	Kopan Monastery	 ##other  %% 2-hour hike from the Thamel; gated community of Buddhist monks; grounds include an enormous Bodhi tree; beware of the monkeys
+
+20	Royal Botanical Gardens	0.200000	0.266667	0.233333
+
+		%d5	11/15	Royal Botanical Gardens	  ##garden  %% south of Kathmadu; hold over 500 species of plant in 82 hectares; Highlights include the decorative Coronation Pond, visitor centre, greenhouses; collections of rhododendrons; Spring and autumn are the peak flowering seasons
+
+21	Mount Everest	0.400000	0.000000	0.200000
+
+		%d2	0/10	Mount Everest	##mountain	%% Earth's highest mountain; located in the Mahalangur section of the Himalayas; peak is 8,848 metres (29,029 ft)
+
+		%d4	0/11	Mount Everest	##mountain	%% world's highest peak; called Sagarmatha; located in the Khumbu region; upper catchments area of the Dudha Koshi and Bhote Koshi rivers; composed of the rugged terrain and gorges of the high Himalayas
+
+22	Swayambhunath Stupa	0.200000	0.200000	0.200000
+
+		%d5	12/15	Swayambhunath Stupa	  ##temple  %% aka the Monkey Temple; west of Kathmandu; second in importance only to the Boudhanath Stupa; contains a stupa, temples, shrines, Tibetan monastery, museum and lbrary;  monkeys live to the north-west of the complex
+
+22	Lumbini	0.200000	0.200000	0.200000
+
+		%d3	4/5	Lumbini		##city		   %% pilgrimige tourist site; birthplace of Siddharta Guatama or Buddha; small town in southwestern plains; ruins of the old city can still be seen; park has been restored; remains of many ancient Stupas and monasteries; large stone pillars
+
+24	Lukla	0.200000	0.153846	0.176923
+
+		%d1	11/13	Lukla  ##city %% poular stop; visitors to the Himalayas; lodges and shops; two days from Namche Bazaar; daily scheduled flights
+
+25	Langtang National Park	0.200000	0.133333	0.166667
+
+		%d5	13/15	Langtang National Park	  ##national park   %% established in 1976; first Himalayan national park; contains climatic zones ranging from the sub-tropical to the alpine; pilgrimage site for the Janai Purnima (Sacred Thread) festival
+
+26	Syangboche	0.200000	0.076923	0.138462
+
+		%d1	12/13	Syangboche    ##other	%% closest airstrip to Mt Everest; not licensed for commercial flights; few facilities available; delivery of emergency needs to base camp
+
+27	Garden of Dreams	0.200000	0.066667	0.133333
+
+		%d5	14/15	Garden of Dreams  ##garden	     %% stone's throw away from the centre of Thamel; lush lawns, sunken flower gardens
+
+28	Bodhnath Stupa	0.200000	0.000000	0.100000
+
+		%d4	0/11	Bodhnath Stupa	 ##temple	   %% bastion of Tibetan culture; heart of the Kathmandu valley; centers of Tibetan Buddhism; largest stupa in Nepal; built in the 14th century; looks like a giant Mandala, or diagram of the Buddhist cosmos
+
+28	Changunarayan Temple	0.200000	0.000000	0.100000
+
+		%d4	0/11	Changunarayan Temple   ##temple	   %% impressive double roofed temple; most ancient Vishnu temple in the Kathmandu valley; built around the 4th century; pagoda-style temple; located in a beautiful peaceful location; UNESCO listed World Heritage site
+
+28	Golden Gate	0.200000	0.000000	0.100000
+
+		%d4	0/11	Golden Gate	 ##monument	   %% Nepal's pride; embellished with precious stones; great religious ands historical importance; architecture and unsurpassable beauty
+
+28	Annapurna Conservation Area	0.200000	0.000000	0.100000
+
+		%d2	0/10	Annapurna Conservation Area    ##nature reserve		 %% Nepal's largest protected area; in the Annapurna range
+
+28	Hanuman Dhoka	0.200000	0.000000	0.100000
+
+		%d4	0/11	Hanuman Dhoka	 ##building	   %% former Royal Palace; Several complexes; takeing up about five acres; Hanuman's statue, dressed in a red cloak, placed outside the darbar, is an object of devotion
+
+28	Gokyo Lakes Recreation Area	0.200000	0.000000	0.100000
+
+		%d2	0/10	Gokyo Lakes Recreation Area    ##lake	%% oligotrophic lakes; in Sagarmatha National Park; altitude of 4,700m
+
+28	Syambunath	0.200000	0.000000	0.100000
+
+		%d4	0/11	Syambunath	 ##temple	   %% monkey temple; substantially unchanged since the 14th century; appreciation of the stupa
+
+28	Manang	0.200000	0.000000	0.100000
+
+		%d2	0/10	Manang ##city	       %% town in the Manag Distrcit; population of 391 people
+
+28	Sagarmatha National Park	0.200000	0.000000	0.100000
+
+		%d2	0/10	Sagarmatha National Park	##national park	   %% protected area in the Himalayas; containing southern half of Mount Everest
+
+28	Phakding	0.200000	0.000000	0.100000
+
+		%d1	13/13	Phakding      ##city	%% Sagarmatha National Park; welcome lunch stop; 16th century Sherpa monastery; Comfortable guest houses
+
+28	Annapurna Base Camp	0.200000	0.000000	0.100000
+
+		%d2	0/10	Annapurna Base Camp    ##glacier %% situated at 4130m; lateral moraine of the Annapurna Glacier
+
+28	Ama Dablam Peaks	0.200000	0.000000	0.100000
+
+		%d2	0/10	Ama Dablam Peaks       ##mountain peak %% mountain in the Himalaya range; eastern Nepal; peak is 6,812 metres (22,349 ft)
+

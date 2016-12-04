@@ -1,0 +1,92 @@
+1 Gorkhi-Terelj National Park 0.2 0.8 0.5
+%d11 1/10 Gorkhi-Terelj National Park ##national park %%a deservedly popular destination; Turtle Rock
+%d12 3/10 Terelj National Park ##national park %%The biggest protected area in the country; natural beauty; adventure sport activities and great scenic spots; perfect tourist destination indeed
+%d15 0/3 Terelj National Park ##national park %%a main valley with tourist ger camps; locals here who offer camels and horses for rent; the park is largely undeveloped and difficult to navigate; Khagiin Khar Lake; a 20-metre deep glacial lake; Yestii Hot Water Springs; a natural hot spring; a Buddhist monastery within the park; famous formations like the Old Man Reading a Book and Turtle Rock; also famous for itswildlife
+
+2 Gun-Galuut Nature Reserve 0.067 0.8 0.43 
+%d11 2/10 Gun-Galuut Nature Reserve ##nature reserve %%state combined from diversity of ecosystem; The harmonized complex of high mountains, steppes, rivers, lakes and wetlands as well; Gun-Galuut vast steppe; imposing mountains; a home land of rare creatures; a paradise of birds; the longest river of Mongolia
+
+3 Khorgo Terkhiin Tsagaan Nuur National Park 0.13 0.4 0.27
+%d11 3/10 Khorgo-Terkhiin Tsagaan Nuur National Park ##national park %%spectacular mountain scenery; endangered species of fauna and flora; beautiful Terkhiin Tsagaan Nuur lakes; a great number of animals and birds; one of the best natural tourist attractions
+%d12 9/10 Khorgo Terkhiin Tsagaan Nuur National Park ##national park %%extinct volcanoes the Terhiin Tsagaan lake; The unique geology of the Khorgo Volcano; remains in your memory for ever; exotic birds flock 
+
+4 Chuluut River 0.067 0.6 0.34
+%d11 4/10 Chuluut River ##river %%a tributary of the Ideriin gol; frozen from November to April
+
+5 Lake Huvsgul 0.13 0.65 0.39
+%d12 2/10 Khuvsgul lake ##lake %%Dark Blue Pearl; a sight worth seeing with lush greenery surrounding it
+%d11 5/10 Lake Huvsgul ##lake %%Dark blue pearl; one of the country's largest lakes; one of the most spectacular areas of the country; the 14th largest freshwater lake in the world by volume 
+
+6 Altai Tavan Bogd National Park 0.13 0.4 0.27
+%d11 6/10 Altai Tavan Bogd National Park ##national park %%snow capped mountains; glacial valleys; forests and beautiful lakes and rivers; a majestic setting; fishing, hiking canoeing, camping and horseback and camel riding; recreational activities; rich in archaeological sites
+%d15 0/3 Altai Tavanbogd National Park ##national park %%famous Mongolia trekking destination; Mongolia's highest mountain, Khuiten Uul; home for many species of alpine animal; Tavan Bogd; sacred to local Kazakhs, Tuvans, and Mongolians
+
+7 Bayanzag 0.067 0.3 0.18
+%d11 7/10 Bayanzag ##cliff %%bottom of Ancient Sea; a lot of Paleontological findings; Flaming Cliffs; dinosaur fossils
+
+8 Khongor Sand Dunes 0.067 0.2 0.13
+%d11 8/10 Khongor Sand Dunes ##desert %%singing sands; largest accumulation of sand in the Gobi Gurvan Saikhan National Park; The spectacular dunes; the impressive colors
+
+9 Yoliin Am Valley 0.067 0.1 0.084
+%d11 9/10 Yoliin Am Valley ##nature %%a particular beauty with narrow paths; buzzards and eagles wheel and glide; streams of water rushing under your feet
+
+10 Dornod Mongolia Steppe 0.067 0 0.034
+%d11 10/10 Dornod Mongolia Steppe ##nature %%the base of a multi-million dollar environmental protection project; one of the world's last undisturbed grasslands; Dornod Mongol; one of the last great plain ecosystems on earth; seas of feather grass steppe; 70% of Mongolia's white-tailed gazelle; Degee Nomrog; An unpopulated area; rare species of moose, cranes, otter and bears; Ecologically distinct; Mongol Daguur; hill steppe and wetland; part of a one-million hectare international reserve; linking the Siberian taiga with the Inner Asian steppe
+
+11 Gobi desert 0.2 0.9 0.55
+%d12 1/10 Gobi desert ##desert %%One of the most unusual desert landscapes in the world; spectacular singing dunes; rocky outcrops; the home of the last two-humped camels in the world; ancient sea floor and the site of several remarkable paleontological finds; The first ever full dinosaur skeleton
+%d13 0/4 Gobi Desert ##desert %%a diverse and harsh landscape of sand dunes, rock formations, ice-filled canyons and fertile green oases; Days are hot; nights are cold; no trip to Mongolia would be complete without a visit to the Gobi; tall granite pinnacles and canyons for hiking and climbing; offer a glimpse into the everyday lives of Mongolia's people; camel riding and horseback-riding tours
+%d14 0/12 Gobi Desert ##desert %%one of few places on Earth with a truly ancient culture and history; landlocked position; a harsh environment that sways between scorching sun and icy cold; the incredible hospitality of the cattle herders that dwell there
+
+12 Altai five bogd 0.067 0.6 0.34
+%d12 4/10 Altai five bogd ##mountain peak %%five sacred peaks; highest ones in Mongolia; a glacier spanning 23 square kilometers; home to many archeological sites; UNESCO World Heritage site
+
+13 Karakorum-Erdenezuu 0.13 0.5 0.32
+%d12 5/10 Karakorum-Erdenezuu ##temple %%the oldest surviving Buddhist monastery in Mongolia; adjacent to Karakorum, the ancient city
+%d14 0/12 Karakorum ##ruin %%an ancient town; relics of bygone splendour and the museum and monastery
+
+14 Orkhon valley 0.13 0.4 0.27
+%d12 6/10 Orkhon valley ##nature %%UNESCO World Heritage site; writings from the 8th century; ancient capital city; spell binding spectacle for you
+%14 0/12 Orkhon Valley ##nature %%a picture-perfect UNESCO World Heritage site with a pastureland landscape; dipped in bright green then dusted with rapeseed yellow; home to a series of important archaeological monuments; the gushing Ulaan Tsutgalan waterfall, which stands proudly at 10 metres wide and 24 metres high
+
+15 Khustai National Park 0.067 0.3 0.18
+%d12 7/10 Khustai National Park ##national park %%Named for the birch trees that grow in the vicinity; the perfect place to get a glimpse of the steppes ecosystem; red deer, white tailed gazelles and Roe deer; quite a few historical monuments here such as the Ongot's man monuments, temple ruins and Hunnu's rectangular tombs.
+
+16 Ulaanbaatar 0.2 0.2 0.2
+%d12 8/10 Ulaanbaatar city ##city %%The capital city; ancient culture; modern day trends; The ruins of monasteries; glass encased skyscrapers; covered Narantul Market
+%d13 0/4 Ulaanbaatar ##city %%the political and economical center of the country and the starting point for excursions into the countryside; public museum that exhibits Kahn's personal belongings, numerous works of Buddhist art and ancient statues; a robe made from the skins of 80 foxes; a ger lined with the skins of 150 snow leopards; The Gandan Khiid monastery; home to more than 600 monks and one of Ulaanbaatar's biggest tourist attractions; Midjid Janraisig Sum temple; hundreds of images of Ayush; a large, hollow gold statue
+%d14 0/12 Ulaan Baatar ##city %%odd monastic pocket of serenity; a chaotic city of rapid expansion; an exciting, quite bohemian vibe
+
+17 Tsagaan suwarga 0.067 0 0.034
+%d12 10/10 Tsagaan suwarga ##nature %%White Stupa; towering structure; limestone bedrock; a truly awe inspiring sight; splendid views of the desert floor
+
+18 Karakoram 0.067 0.5 0.28
+%d13 0/4 Karakoram ##ruin %%the capital city; Destroyed by Manchurian hordes; home to a snow-capped mountain range; excellent opportunities for horseback riding and mountain treks; The Erdenezuu monastery; one of the oldest Buddhist monasteries in Mongolia; 108 stupas; the round-shaped spiritual monuments that represent the Buddha's body and mind. Three temples enclosed in a walled compound; The main temple, the Zuu of Buddha; statues of Buddha as a child; two stone rocks in the shape of turtles
+
+19 Bogd Khan National Park 0.067 0.5 0.28
+%d13 0/4 Bogd Khan National Park ##national park %%more than 300 plant species, sacred mountains with rock carvings, wild animals, birds and a deer farm; Manzushir Khid; a valley with streams and pine and birch forests dotted with granite boulders; ideal for hiking and horseback riding; a drive to the monastery, a horseback ride to visit a nomad family to learn about their way of life and a hike to the highest point on Bogd Khan Mountain
+
+20 Bulgan 0.067 0.5 0.28
+%d14 0/12 Bulgan ##town %%well worth standalone consideration if only for its beautiful scenery; emerald green rolling hills punctuated by open-air camps; the Khalkh and Buriat ethnic groups
+
+21 Dadal 0.067 0.5 0.28
+%d14 0/12 Dadal ##town %%Widely assumed to be the birthplace of Genghis Khan himself; pretty upmarket by Mongol standards; a verdant area of rivers, forests, lakes and log huts as opposed to traditional gers; great for hiking; spot of fishing
+
+22 Gobi Gurvan Saikhan National Park 0.067 0.5 0.28
+%d14 0/12 Gobi Gurvan Saikhan National Park ##national park %%Wonderfully otherworldly; gritty grey rock instead of glorious burned orange sand; known for its majestic sand dunes, ice canyons and plants; natural curiosities that can only exist in such extreme condi
+
+23 Ikh Nart Nature Reserve 0.067 0.5 0.28
+%d14 0/12 Ikh Nart Nature Reserve ##nature reserve %%Home of foxes, gazelles and migrating birds; a bit of historical bang; the Cymbur Prayer Ovoo, an ancient Buddhist prayer site to offer tea or money; large Tibetan script scribed into rock outcrops
+
+24 Khentii 0.13 0.5 0.32
+%d14 0/12 Khentii ##nature %%a place to channel your inner Genghis and explore the historical grasslands; The heavily-forested Khentii Mountain Range;thick and lush
+%d15 0/3 Khan Khentii Mountain National Park ##national park %%a Strictly Protected Area and wildlife preservation site; Mining and hunting are strictly prohibited, and tourism is tightly controlled; the birthplace of Genghis Khan
+
+25 Selenge 0.067 0.5 0.28
+%d14 0/12 Selenge ##nature %%fertile tendrils; an abundant landscape of wheat fields and apple orchards; The Amarbayasgalant Khiid; an impressive 18th century monastery with a complex of nine temples
+
+26 Tarvagatai Nuruu National Park 0.067 0.5 0.28
+%d14 0/12 Tarvagatai Nuruu National Park ##national park %%expansive steppe, forested valleys, mountains, lakes and deserts; a genuine wilderness experience; home to huge amounts of plants and wildlife as well as natural hot springs
+
+27 Terkhiin Tsagaan Nuur 0.067 0.5 0.28
+%d14 0/12 Terkhiin Tsagaan Nuur ##lake %%Known as the White Lake; freshwater lake; a smaller and less developed alternative to its increasingly polluted counterpart at Khovsgol National Park; A designated Wetland of International Importance

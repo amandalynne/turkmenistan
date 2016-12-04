@@ -1,0 +1,86 @@
+1	Iguazu Falls	0.8 0.9 0.85
+	% d11	1/10	Iguazu Falls            ##nature; waterfall             %% Devil's Throat; largest and most majestic waterfalls in the world; surrounding jungles; observation decks
+	% d12	0/9	Iguazu Falls    ##waterfall             %% New Seven Wonders of Nature; one of the most beautiful waterfalls in the world
+	% d13	0/18	Iguazu Falls    ##waterfall             %% natural landmark; imposing size and beauty
+	% d15	1/10	Iguazu Falls ##waterfront             %% huge waterfalls; spectacular  sights; accessible walkways and viewing platforms; Devil's Throat
+2	Perito Moreno Glacier	1.0 0.63 0.815
+	% d11	2/10	Perito Moreno Glacier   ##glacier; national park        %% Los Glaciares National Park; boat tours
+	% d12	0/9	Perito Moreno Glacier   ##glacier               %% one of the world's biggest glaciers
+	% d13	7/10	Perito  ##glacier               %% amazing glaciers
+	% d14	0/18	Perito Moreno Glacier   ##glacier               %% generous number of viewing platforms and walking trails
+	% d15	2/10	Perito Moreno Glacier   ##glacier               %% ice trekking
+3	Buenos Aires	0.8 0.8 0.8
+	% d12	0/9	Buenos Aires    ##city          %% capital city of Argentina; offering a plethora of museums, an incredible nightlife, historic architecture, and a bustling and developing port area
+	% d13	1/10	Buenos Aires    ##city          %% city that never really sleeps; learning and watching tango dance
+	% d14	0/18	Buenos Aires    ##city          %% famous capital of Buenos Aires; oustanding dining opportunities
+	% d15	3/10	Buenos Aires: The City of Barrios       ##city          %% one of South America's most attractive cities; delightful museums and art galleries
+4	Bariloche	1.0 0.57 0.785
+	% d11	3/10	Bariloche               ##city          %% water sports; trekking; climbing; Andean Lakes area; Swiss-like atmosphere; chocolate shops
+	% d12	0/9	Bariloche       ##town          %% surrounded by the Andes Mountains; opportunities for day hikes and mountain climbing; kayaking
+	% d13	2/10	Bariloche       ##region        %% mountainous region in western Argentina; skiing; trekking; chocolate shops
+	% d14	0/18	Bariloche       ##city          %% picturesque landscapes; delicious chocolate; well known destination for skiing; perfect for practicing water sports
+	% d15	8/10	Bariloche and Argentina's Lake District ##city, region          %% stunning views; diverse natural beauty
+5	Cordoba	0.4 0.9 0.65
+	% d13	1/10	Cordoba         ##city          %% second largest city in Argentina; oldest universities in the country
+	% d14	0/18	Cordoba         ##city          %% fine selection of Spanish colonial buildings
+6	Ushuaia	0.6 0.6 0.6
+	% d12	0/9	Ushuaia         ##city          %% southernmost-city in the world; site of a prison during the early 1900's
+	% d14	0/18	Ushuaia         ##city          %% southernmost city in the world; used to be a penal colony; numerous restaurants, casinos and fine hotels
+	% d15	4/10	Ushuaia: The End of the World   ##city          %% world's southernmost city; unique landscape of mountains, sea, glaciers, and woods; former military prison
+7	Puerto Madryn	0.4 0.5 0.45
+	% d12	0/9	Puerto Madryn   ##waterfront            %% prime location for whale watching and penguin watching; home to sea elephants, orcas, and southern right whales
+	% d15	5/10	Puerto Madryn and the Valdés Peninsua  ##waterfront            %% deep-water port; rugged coastline; water sports; windsurfing; UNESCO World Heritage Site; diverse wildlife
+8	Monte Fitz Roy	0.6 0.3 0.45
+	% d11	8/10	Monte Fitz Roy          ##mountain              %% Andes; granite mountain; extreme beauty
+	% d13	6/10	Mount Fitz Roy  ##mountain              %% beautiful mountain; famous among trekkers
+	% d14	0/18	Mount Fitz Roy  ##mountain              %% unusual shape; very popular destination for hiking enthusiasts
+9	Valdes Peninsula	0.4 0.5 0.45
+	% d11	5/10	 Valdes Peninsula        ##waterfront            %% excellent place to see a phenomenal variety of marine mammals; penguins, sea lions, seals and orcas; varied geography
+	% d14	0/18	Valdes Peninsula        ##nature; waterfront    %% home of animals such as seas lions, elephant seals and even lovely penguins; stunning sights of orcas and whales
+10	Caminito	0.2 0.6 0.4
+	% d11	4/10	Caminito                ##city district         %% one of the most photographed parts of Buenos Aires; colorful houses, shops and quirky statues
+11	Andes	0.2 0.6 0.4
+	% d13	4/10	Andes Mountain  ##mountain      %% skiing; climbing
+12	Mendoza Wine Country	0.5 0.27 0.385
+	% d11	9/10	Mendoza Wine Regions	##other	%% eastern foothills of the Andes; rafting, skiing and other adventures
+	% d12	0/9	Mendoza Wine Country    ##other         %% home to more than 1,200 wineries
+	% d13 4/10	Mendoza         ##region        %% horseback riding; hiking; rafting; cultural activities
+	% d14	0/18	Mendoza         ##other         %% features some of the highest vineyards in the world; skiing; rafting
+	% d15	9/10	Mendoza         ##city          %% best ski slopes and popular resorts; whitewater rafting and trail riding; camping
+13	Patagonia	0.2 0.5 0.35
+	% d14	0/18	Patagonia       ##nature; region                %% Perito Moreno glacier; the Argentine Lake District; Ushuaia
+14	Quebrada de Humahuaca	0.2 0.5 0.35
+	% d14	0/18	Quebrada de Humahuaca   ##nature                %% spectacular rock formations; multicolored hills
+15	Mar Del Plata	0.4 0.3 0.35
+	% d14	0/18	Mar Del Plata   ##city; resort; waterfront              %% lively beach resort city; best-maintained and cleanest beaches in the country
+	% d15	7/10	Mar del Plata   ##waterfront            %% beautiful beaches; modern cruise ship port; windswept dunes; dramatic cliffs
+16	Mundo Marino	0.2 0.5 0.35
+	% d14	0/18	Mundo Marino    ##aquarium              %% largest aquarium in Argentina
+17	Galileo Galilei Planetarium	0.2 0.5 0.35
+	% d14	0/18	Galileo Galilei Planetarium     ##gallery               %% planetarium
+18	Calchaqui Valley	0.2 0.5 0.35
+	% d14	0/18	Calchaquí Valley       ##region                %% natural beauty; mounttain deserts; lush subtropical forests
+19	Pacific Gallery	0.2 0.5 0.35
+	% d14	0/18	Pacific Gallery ##shopping mall         %% amazing frescos
+20	Tierra del Fuego National Park	0.2 0.4 0.3
+	% d15	6/10	Tierra del Fuego National Park  ##national park         %% oldest coastal national park; dramatic scenery; tall waterfalls, dense forests, and mountains; rich diversity of wildlife
+21	El Chalten	0.6 0 0.3
+	% d12	0/9	El Chalten      ##town          %% incredible hiking opportunities; spectacular views
+	% d13	10/10	El Chalten      ##town          %% paradise for nature lovers; beautiful landscape of Patagonia
+	% d14	0/18	El Chaltén      ##town          %% picturesque sceneries
+22	Ischigualasto Provincial Park	0.2 0.5 0.35
+	% d14	0/18	Ischigualasto Provincial Park   ##national park         %% UNESCO World Heritage Site; spectacular rock formations and cliffs
+23	Beagle Channel	0.2 0.4 0.3
+	% d11	6/10	Beagle Channel          ##waterfront            %% strait in the Tierra del Fuego Archipelago; boat trip; sea-lion colony
+24	Northwest Argentina: Salta & Jujuy	0.4 0.1 0.25
+	% d12	0/9	Northwest Argentina: Salta & Jujuy	##nature		%% famous salt flats; picturesque red rock formations; incredible natural landscapes, archaeological sites, and culture opportunities
+	% d13	9/10	Northwest Argentina: Salta & Jujuy      ##region                %% salt plains; stunning red rock formations
+25	Staying on an Estancia	0.2 0.3 0.25
+	% d11	7/10	Staying on an Estancia  ##other         %% rural estates; country day; horse ride; barbecue; hammock siesta
+26	The Salinas Grandes	0.2 0.2 0.2
+	% d13	8/10	The Salinas Grandes     ##region                %% salt desert; important natural resource for sodium and potassium mining
+27	Historic Cordoba Cathedral	0.2 0 0.1
+	% d15	10/10	Historic Cordoba Cathedral     ##church                %% UNESCO World Heritage Site; Baroque and Neoclassical styles; Roman Catholic church; ornate interior with 20th-century frescoes and murals
+28	Ibera Wetlands	0.2 0 0.1
+	% d11	10/10	Ibera Wetlands	##nature	%% second-largest wetlands in the world; can be explored by foot, on horseback or by kayak
+

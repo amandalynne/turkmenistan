@@ -1,0 +1,109 @@
+1	Machu Picchu	0.8  0.9 0.85
+%d1	1/10	Machu Picchu	##ruin	%%300 meters above the Urubamba River; steep, lush, and often cloud-shrouded mountains; Inca City; ruins; Lost City of the Incas;
+%d2	1/10	Machu Picchu	##ruins	%%ancient sites; Lost City of the Incas; invisible from the Urubamba Valley; completely self-contained
+%d3	0/11	Machu Picchu	##ruin	%%lost city of the Incas; incredible canon ridge and mountains
+%d4	0/15	Machu Piccu	##ruins	%%legendary &#8220;lost city of the Incas&#8221;; most-visited tourist attractions; best historical sites; high up in the Andes; regularly obscured by cloud cover; Aqueducts, granite and limestone temples; beautifully preserved
+
+2	Inca Trail	0.8 0.8 0.8
+%d1	2/10	The Inca Trail	##trail	%%four-day hike; terminates at Machu Piccu; demanding
+%d2	2/10	Inca Trail	##trail	%%42 km (26 miles) through the Andes Mountains; connect the small town of Aguas Caliente and Machu Picchu; goes through cloud forests, jungles and Inca ruins; high-altitude trek
+%d3	0/11	Inca Trail	##trail	%%ends at the famed Machu Picchu
+%d4	0/15	Inca Trail	##trail	%%Getting to Machu Picchu; multi-day hike; see the mountains, jungles, and follow the route of the Incas
+
+3	Colca Canyon	0.8 0.67 0.74
+%d1	5/10	Colca Canyon	##canyon	%%twice as deep as the Grand Canyon; second deepest after nearby Cotahuasi Canyon; depth of 3,400 meters; result of a seismic fault between two volcanoes
+%d2	3/10	Colca Canyon	##canyon	%%4,160 meters (13,650 feet); twice as deep as the Grand Canyon; walls are less steep; Andean condors
+%d4	0/15	Colca Canyon	##canyon	%%deepest canyon in the world; twice as deep as the Grand Canyon; spot Andean condors; habitable
+%d5	2/10	Colca Canyon 	##canyon	%%spectacular scenery; twice as deep as the Grand Canyon; home of the rare Andean Condor
+
+4	Nazca Lines	1.0 0.43 0.72
+%d1	6/10	Nazca Lines	##art	%%unusual sight; huge images on the desert floor; so large that it requires an aerial view to be appreciated; geometrical shapes; as long as 10 kilometers
+%d2	7/10	Nazca Lines	##art	%%located between the towns of Nazca and Palpa; Created between 200 BC and 700 AD; figures range from simple lines to stylized spiders, monkeys, fish, llamas, lizards and human figures
+%d3	0/11	Nazca Lines	##art	%%can be seen by taking a small prop plane; ancient; can barely be seen from the plane
+%d4	0/15	Nasca Lines	##art	%%series of ancient geoglyphs; dominate the San Jos&#233; desert; Nasca Valley; over 10,000 lines and 300 different plant and animal figures depicted
+%d5	4/10	Nazca Lines	##art	%%Located in the Nazca Desert plains; series of ancient geoglyphs; from wildlife to geometric designs.&#160;;
+
+5	Cusco	0.6 0.7 0.65
+%d1	3/10	Cusco's Architectural Treasures	##architecture	%%Walking through the streets of Cusco; like wandering through a museum; UNESCO World Heritage Site; Inca ruins; lovely old colonial buildings
+%d3	0/11	Cuzco	##city	%%historic city; Plaza de Armas; great nightlife; trail walking nearby
+%d4	0/15	Cuzco	##city	%%colonial city; sits on Inca-built stone foundations; popular with trail walkers, history lovers, and party-goers; colorful festivals; archaeological capital of the Americas
+
+5	Amazon Rainforest	0.4	0.9	0.65
+%d5	1/10	Amazon Rainforest	##nature reserve	%%second largest amount of Amazon Rainforest after Brazil; covers 60% of the country
+%d3	0/11	The Amazon at Iquitos	##nature reserve	%%largest city in the rain forest of Peru; only accessible via boat or plane
+
+7	Huacachina	0.8 0.25 0.53
+%d2	10/10	Huacachina	##town	%%Located near Ica; tiny oasis town; surrounding a small natural lake; surrounded by towering sand dunes
+%d3	0/11	Desert Oasis at Huacachina	##town	%%desert oasis; 
+%d4	0/15	Huacachina	##town	%%desert oasis; very affordable; sandboarding and sandbuggies around the dunes; idyllic town; lagoon surrounded by palm trees
+%d5	5/10	Huacachina	##town	%%located just outside the city of Ica;The&#160;desert village ; built around a small natural lake; towering sand dunes surrounding it
+
+8	Uros Islands	0.4 0.6 0.5
+%d2	5/10	Uros Islands	##island	%%Made of dried totora reeds; artificial islands; Reeds are added to the top of the islands constantly; the ground is always soft and springy
+%d4	0/15	Islas Flotantes de los Uros	##island	%%Floating Islands; handmade islands in Lake Titicaca; home to the indigenous Uros people; extremely touristy; exploited; not for everyone
+%d5	3/10	Floating Islands	##island	%%home to the Uros tribe; made entirely of reeds
+
+8	Lake Titicaca	0.4 0.6 0.5
+%d1	4/10	Lake Titicaca	##lake	%%sparkling blue water; surrounded by rolling hills and traditional small villages; mix of beautiful scenery and culture; 3,820 meters above sea level; highest navigable lake in the world
+%d4	0/15	Lake Titicaca	##lake	%%most famous bodies of water; covers over 3,000 square miles; sits at 12,500 feet above sea level; the world&#8217;s largest high altitude lake.&#160;The;  colonial architecture; bustling markets
+
+10	The Sacred Valley	0.4 0.3 0.35
+%d1	7/10	The Sacred Valley	##ruins	%%fertile valley; Inca ruins; peaceful area; Pisac Ruins, the Sunday Market in Pisac; ruins and fortress; circular terracing; salt mines
+%d5	7/10	Sacred Valley of the Incas ##archeological site	%%along the Urubamba River; ruins; archaeological sites; remarkable landscapes; lush agriculture
+
+10	Plaza de Armas	0.4 0.3 0.35
+%d1	10/10	Plaza de Armas	##city/town square	%%most pleasant places; heart of the city's historic district; UNESCO World Heritage Site; mid 18th century; cathedral; Government Palace;  Archbishop's Palace; Casa del Oidor; historic Iglesia de La Merced
+%d2	4/10	Plaza de Armas	##city/town square	%%heart of Cuzco; carefully landscaped with plenty of benches and walls for sitting; popular outdoor lunch destination; Located in the city center
+
+10	Lima	0.6 0.1 0.35
+%d3	0/11	Lima	##city	%%world class cuisine; trendy Miraflores district; nightlife; restaurants; shopping; most impressive colonial city centers in the world
+%d4	0/15	Lima	##city	%%Peru&#8217;s capital city; colonial beauty;  hottest parties
+%d5	9/10	Lima	##city	%%largest metropolitan&#160;city; bad reputation for safety; extremely rich in history and culture
+
+10	Arequipa &amp; Colca Canyon	0.2 0.5 0.35
+%d3	0/11	Arequipa &amp; Colca Canyon	##town; canyon	%%second largest city; access point to the Colca Canyon; twice as deep as the Grand Canyon; great hiking; beautiful colonial city; Santa Catalina Monastery
+
+10	Lake Titicaca &amp; Uros Islands	0.2 0.5 0.35
+%d3	0/11	Lake Titicaca &amp; Uros Islands	##lake; island	%%largest lake with the highest altitude; weekend market at Puno; boat ride; folk festival
+
+10	Chan Chan	0.2 0.5 0.35
+%d3	0/11	Chan Chan	##city	%%largest Pre-Columbian city in South America; contains several walled citadels; architecture and history; off the beaten track
+
+10	Mancora Beach	0.2 0.5 0.35
+%d4	0/15	Mancora Beach	##beach	%% Seafood; watersports; horse riding and relaxation; finest beaches in South America; year-round sunshine; huge waves; surfing Mecca
+
+10	Batan Grande	0.2 0.5 0.35
+%d4	0/15	Batan Grande	##archaeological site	%%archaeological site comprised of 50 pyramids and tombs; date back to between 100-1000 AD; impressive pre-Columbian artifacts
+
+10	Paracas	0.2 0.5 0.35
+%d4	0/15	Paracas	##town	%%is in the south of Peru; called the &#8220;Poor Man&#8217;s Galapagos&#8221; impressive wildlife
+
+10	White City	0.2 0.5 0.35
+%d4	0/15	White City	##city	%%historical centre that was constructed primarily from volcanic ash from the nearby volcanoes; Santa Catalina Monastery; frozen Inca mummy
+
+10	Huarez	0.2 0.5 0.35
+%d4	0/15	Huaraz	##town	%%mountains here are stunning; fantastic multi-day trek options
+
+21	Mancora	0.4 0.25 0.33
+%d2	9/10	Mancora	##town	%%small town; featuring Peru’s best sandy beach; stretching for several kilometers along the Pacific; consistently good waves; popular surfing destination; raucous nightlife
+%d5	6/10	Mancora	##town	%%pristine beaches; great surf; chilled out atmosphere
+
+22	Santa Catalina Monastery	0.2 0.4 0.3
+%d2	6/10	Santa Catalina Monastery	##church	%%Founded on October 2, 1580; in Arequipa; covers a walled area of 20,000 square meters with walls, streets, walkways, stairways and small squares; Mudéjar style; characterized by the vividly painted walls
+
+22	Ballestas Islands	0.4 0.2 0.3
+%d3	0/11	Paracas &amp; Islas Ballestas	##island; wildlife	%%close to Huacachina; wildlife; Galapagos of Peru
+%d5	8/10	Ballestas Islands	##island; wildlife	%%accessible from the beach town of Paracas; Galapagos Islands  of Peru; home to many rare birds; best wildlife experience in Peru
+
+22	Iquitos	0.4 0.2 0.3
+%d2	8/10	Iquitos	##city	%%better adventure holiday destination  than its Brazilian counterpart; wildlife; Starting point to an Amazon boat tour; world’s largest city that cannot be reached by road
+%d4	0/15	Iquitos	##city	%%Accessible only by boat or plane; jungle-locked; largest city within the Peruvian rainforest; at the mouth of the Amazon
+
+25	Arequipa's Historical City Center	0.2 0.2 0.2
+%d1	8/10	Arequipa's Historical City Center	##city district	%%at more than 2,300 meters; Peru's most beautiful city; snow-capped mountains; UNESCO World Heritage Site; old architecture constructed of sillar stone; white city
+
+26	Puerto Maldonado and the Amazon	0.2 0.1 0.15
+%d1	9/10	Puerto Maldonado and the Amazon	##city; nature preserve	%%key jumping-off point for tours of the Amazon; hot humid jungle; unique wildlife
+
+27	Cordillera Blanca	0.2 0.0 0.1
+%d5	10/10	Cordillera Blanca	##trail	%%gateway to the Cordillera Blanca; magnificent snowcapped peaks and glaciers; best place in South America for trekking and mountain climbing expeditions
