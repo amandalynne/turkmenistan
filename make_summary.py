@@ -6,7 +6,7 @@ from collections import defaultdict
 from operator import itemgetter
 
 """
-Produces a summary.out file
+Produces a summary.out file from d*.out files.
 Currently doesn't take arguments, but will take a directory of files.
 """
 
