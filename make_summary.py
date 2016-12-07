@@ -39,7 +39,7 @@ class Attraction:
         return (score_m + score_r) / 2
 
     def print_summary(self):
-        print "  %{0} {1} {2} {3} {4}".format(self.doc, self.rank, self.name, self.cats, self.desc)
+        print("  %{0} {1} {2} {3} {4}".format(self.doc, self.rank, self.name, self.cats, self.desc))
 
 ATTRACTION_LIST = []
 ATTRACTION_DICT = defaultdict(list)
@@ -55,7 +55,7 @@ def process_file(filename):
             name = match.group(2)
             cats = match.group(3)
             desc = match.group(4)
-            doc = filename[:2]
+            doc = filename[-6:-4]
             ATTRACTION_LIST.append(Attraction(name, rank, cats, desc, doc)) 
            
 def find_overlaps():
@@ -68,8 +68,10 @@ def find_overlaps():
 def score_R(attr):
     avg = 0
     for instance in ATTRACTION_DICT[attr]:
-        rank = float(instance.rank[0])
-        total = float(instance.rank[-1])
+        pattern = r'(\d+)/(\d+)'
+        rank_match = re.match(pattern, instance.rank)
+        rank = float(rank_match.group(1))
+        total = float(rank_match.group(2)) 
         if rank == 0:
             avg += 0 
         else:
@@ -83,7 +85,7 @@ def score_R(attr):
  
 def score():
     scored = []
-    for attr in ATTRACTION_DICT.keys():
+    for attr in list(ATTRACTION_DICT.keys()):
         if len(ATTRACTION_DICT[attr]) == 1:
             score_m = float(1)/5
         else:
@@ -103,15 +105,18 @@ def print_summary():
         avg_score = str(scores[3])
         top_line = "{0} {1} {2} {3} {4}".format(i+1, attr, score_m, score_r, avg_score)
         if i+1 > 1:
-            print "\n{0}".format(top_line)
+            print("\n{0}".format(top_line))
         else:
-            print top_line
+            print(top_line)
         for a in ATTRACTION_DICT[attr]:
             a.print_summary()          
 
 if __name__ == "__main__":
-    for filename in os.listdir(os.curdir):
-        if filename.startswith('d'):
-            process_file(filename)
+    # JUST TESTING ON GHANA FOR NOW
+    # LMAO THIS IS SO BAD
+    # WILL BETTER-IFY LATER
+    for filename in os.listdir("data/training-data/ghana-annot1/4-output"):
+        if filename.startswith("d"):
+            process_file("data/training-data/ghana-annot1/4-output/"+filename)
     find_overlaps()
     print_summary()
