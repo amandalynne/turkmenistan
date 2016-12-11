@@ -1,30 +1,14 @@
+#!/usr/bin/python2.7
 """
-attractions.py
+fonsi.py
 -----------
-This script is generates the attraction category for a given data structure.
+This script is generates the attraction category for a given cateogry.
 """
-####################
-####Libraries#####
 import sys
 import pandas as pd
 import numpy as np
 import nltk
 
-####################
-
-def docs_and_entities_to_attractions(docs, entities):
-	ret = {}
-
-	names_and_instances = docs_and_entities_to_instances(docs, entities)
-	for name in names_and_instances:
-		ret[name] = {}
-		ret[name]['category'] = instances_to_category(names_and_instances[name])
-		ret[name]['instances'] = names_and_instances[name]
-
-	return ret
-
-####################
-##Global Variables##
 category_list = ["amusement park", "aquarium",
         "archaeological site", "architecture", "art", "beach",
 	"bridge", "building","canyon", "casino", "castle",
@@ -39,7 +23,6 @@ category_list = ["amusement park", "aquarium",
 	"school", "shopping mall", "show", "stadium", "temple",
 	"theatre", "tower", "town", "trail", "waterfront",
 	"waterfall", "viewpoint", "zoo"];
-####################
 
 def initialize_dataframe(tokens,columns):
     '''
@@ -48,12 +31,14 @@ def initialize_dataframe(tokens,columns):
     data = np.zeros(len(tokens), len(columns))
     return pd.DataFrame(data, index=tokens, columns=category_list)
 
+def main(args):
+    df = pd.DataFrame(index=tokens, columns=category_list)
+    print category_list
 
-def docs_and_entities_to_instances(docs, entities):
-	return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
-
-def instances_to_category(instances):
-	df = pd.DataFrame(index=tokens, columns=category_list)
-	return 'other'
-
-####################
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description="This script is generates the"
+						 "attraction category for a"
+						 "given cateogry.")
+    argv = parser.parse_args()
+    sys.exit(main(args=argv))
