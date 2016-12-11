@@ -7,16 +7,15 @@ This script is generates the attraction category for a given cateogry.
 import sys
 import pandas as pd
 import numpy as np
-import nltk
 
-category_list = ["amusement park", "aquarium",
+category_list = ["amusement park", "aquarium", 
         "archaeological site", "architecture", "art", "beach",
 	"bridge", "building","canyon", "casino", "castle",
 	"cave", "ceremony", "church", "city", "city district",
 	"city/town square", "cliff", "coast", "desert", "fair",
 	"festival", "forest", "fort", "fountain", "game reserve",
 	"gallery", "garden", "glacier", "hotel", "historic site",
-	"island", "lake", "market", "memorial", "monument",
+	"island", "lake", "market", "memorial", "monument", 
 	"mosque", "mountain", "mountain peak", "museum", "nature",
 	"nature reserve", "national park", "ocean", "palace",
 	"park", "prison", "region", "resort", "river", "ruin",
@@ -37,8 +36,6 @@ def main(args):
 
 if __name__ == '__main__':
     import argparse
-    parser = argparse.ArgumentParser(description="This script is generates the"
-						 "attraction category for a"
-						 "given cateogry.")
+    parser = argparse.ArgumentParser(description="This script is generates the attraction category for a given cateogry.")
     argv = parser.parse_args()
     sys.exit(main(args=argv))
