@@ -66,7 +66,12 @@ def docs_and_entities_to_instances(docs, entities):
 	return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
 
 def instances_to_category(instances):
-	#df = pd.DataFrame(index=tokens, columns=category_list)
+	tcd = token_list_generator(entities)
+	tokens = type_generator(tcd)
+	df = pd.DataFrame(index=tokens, columns=category_list)
+	for category,words in tcd.iteritems():
+		for w in words:
+			df[category][w] += 1.0
 	return 'other'
 
 ####################

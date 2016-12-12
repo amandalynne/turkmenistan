@@ -31,9 +31,9 @@ def train_step(input_dir, model_dir):
 	#docs = dirname_to_docs('../annot2/3-txt')
 	#docs = dirname_to_docs(input_dir)
 
-        process_summaries(input_dir)	
-        #####	STEP 2 : ner.py				#####
-        entities = docs_to_named_entities(docs)
+    process_summaries(input_dir)
+    #####	STEP 2 : ner.py				#####
+    entities = docs_to_named_entities(docs)
 
 	#####	STEP 3 : attractions.py		#####
 	attractions = docs_and_entities_to_attractions(docs,entities)
@@ -47,4 +47,3 @@ if __name__ == "__main__":
 	main()
 
 ####################
-
