@@ -24,8 +24,10 @@ def process_summaries(input_dir):
             ret[subdirname] = {}
             summary_file = os.path.join(input_dir,subdirname,'4-output', 'summary.out')
             if os.path.isfile(summary_file):
-                with open(summary_file) as inf:
+                print(summary_file)
+                with open(summary_file, encoding='latin-1') as inf:
                     for line in inf.readlines():
+                        print(line)
                         pattern = r'^\s*\%+\s*(\w+\d+)\s+(\d+)/(\d+)\s+([^#]+)\s+##([^%]+)\s+%%(.*)$'
                         match = re.match(pattern, line)
                         if match:
