@@ -45,15 +45,15 @@ def process_summaries(input_dir):
 def train_step(input_dir, model_dir):
 
     #####	STEP 1 : preproc.py			#####
-    docs = dirname_to_docs(input_dir)
+    #docs = dirname_to_docs(input_dir)
 
     ####        STEP 2 : Process summaries
     entities = process_summaries(input_dir)
 
     ####        STEP 3 : attractions.py
-    attractions = docs_and_entities_to_attractions(docs,entities)
+    #attractions = docs_and_entities_to_attractions(docs,entities)
 
-    attractions = add_descriptions_to_attractions(docs,attractions)
+    #attractions = add_descriptions_to_attractions(docs,attractions)
 
 ####################
 
