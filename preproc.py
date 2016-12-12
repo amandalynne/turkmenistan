@@ -5,6 +5,68 @@ import urllib.request, os, sys, re
 from operator import itemgetter
 from contextlib import contextmanager
 
+import nltk
+#from nltk.corpus import wordnet as wn
+
+####################
+
+grammar = r"""
+	NP:
+		{<NN.*>+}
+	JP:
+		{<RB.*>*<JJ.*>}
+	NP:
+		{<DT|PRP\$|CD|JP|VB[N]>+<NP>}
+	NP:
+		{(<NP><,>)*<NP><,>?<CC><NP>}
+	NP:
+		{<RB.*>*<VB[GN]><RB.*>*<NP>}
+	PP:
+		{<IN|TO|RP><NP>}
+	PP:
+		{<RB.*>*<IN><RB|EX>}
+	VP:
+		{<MD>?<RB.*>*<VB[DPZ]?>+<RB.*>*<VB.*>*<EX>?<RB.*>*<IN|TO|RP>?}
+	VP:
+		{(<VP><,>)*<VP><,>?<CC><VP>}
+	NP:
+		{<RB.*>*<TO><RB.*>*<VB.*><RB.*>*<VB[GN]>*<RB.*>*}
+	NP:
+		{<RB.*>*<VB[GN]><RB.*>*}
+	NP:
+		{<NP><PP>}
+	RV:
+		{<WP|WDT|IN><VP>}
+	NX:
+		{<PRP|DT>}
+	REL:
+		{<RV><NP|NX>}
+	NP:
+		{<NP|NX><REL>}
+	PRED:
+		{<VP><PP>*<NP|NX|JP>*<PP>*}
+	PROP:
+		{<NP|NX><PRED>}
+	REL:
+		{<WP|WDT|WRB|IN><PROP>}
+	NP:
+		{<NP|NX><REL>}
+	QUES:
+		{<W.*><MD|VP>*<PRED|PROP><\.>*}
+	QUES:
+		{^<PRED|PROP><.*>*<\.>*}
+	IMP:
+		{<PRED>}
+	VOC:
+		{<,>?<NP><,>?}
+	PHR:
+		{<CC>*<PROP|IMP|QUES|VOC>}
+	PHR:
+		{(<PHR><,>)*<PHR><,>?<CC><PHR>}
+	SENT:
+		{^<PHR><.>*}
+"""
+
 ####################
 
 def float_str(num):
@@ -23,12 +85,14 @@ def dirname_to_docs(dirname):
 	ret = {}
 	for subdirname in os.listdir(dirname): #{country}-annot{n}
 		if os.path.isdir(os.path.join(dirname,subdirname)):
-			country = subdirname.split('-')[0]
+			#country = subdirname.split('-')[0]
+			ret[subdirname] = {}
 			for filename in os.listdir(os.path.join(dirname,subdirname,'3-txt')):
 				if os.path.isfile(os.path.join(dirname,subdirname,'3-txt',filename)):
 					doc = filename.split('.')[0]
 					#ret[subdirname+'_'+filename.split('.')[0]] = filename_to_doc(os.path.join(dirname,subdirname,'3-txt',filename))
-					ret['_'.join([country,doc])] = filename_to_doc(os.path.join(dirname,subdirname,'3-txt',filename))
+					#ret['_'.join([country,doc])] = filename_to_doc(os.path.join(dirname,subdirname,'3-txt',filename))
+					ret[subdirname][filename.split('.')[0]] = filename_to_doc(os.path.join(dirname,subdirname,'3-txt',filename))
 
 #	for filename in os.listdir(dirname):
 #		if os.path.isfile(os.path.join(dirname,filename)):
@@ -45,7 +109,16 @@ def filename_to_doc(filename):
 
 def line_to_sentences(line):
 	#sentences = list(filter(None, [sent.strip().split() for sent in re.split('(\.|\!|\?)',line)]))
-	return list(filter(None, [sent.strip().split() for sent in re.split('\.|\!|\?',line)]))
+	#return list(filter(None, [sent.strip().split() for sent in re.split('\.|\!|\?',line)]))
+	ret = []
+	for sent in re.split('\.|\!|\?',line):
+		if len(sent.strip()):
+			toks = nltk.tokenize.word_tokenize(sent.strip())
+			postoks = nltk.pos_tag(toks)
+			chunker = nltk.RegexpParser(grammar)
+			tree = chunker.parse(postoks)
+			ret.append({'tok':toks, 'pos':postoks, 'tree':tree})
+	return ret
 
 ####################
 
@@ -57,19 +130,26 @@ def writeopen(outputfilename=None):
 	finally:
 		if outputfile is not sys.stdout: outputfile.close()
 
-def print_docs_to_filename(docs, filename):
+def print_docs_to_filename(annots, filename):
 	try:
 		with writeopen(filename) as outputfile:
 			print('{', file=outputfile)
-			for doc in docs:
-				print(('\t'*1)+'"'+doc+'" :', file=outputfile)
-				print(('\t'*2)+'[', file=outputfile)
-				for line in docs[doc]:
-					print(('\t'*3)+'[', file=outputfile)
-					for sent in line:
-						print(('\t'*4), sent, file=outputfile)
-					print(('\t'*3)+']', file=outputfile)
-				print(('\t'*2)+']', file=outputfile)
+			for annot in annots:
+				print(('\t'*1)+'"'+annot+'" :', file=outputfile)
+				print(('\t'*2)+'{', file=outputfile)
+				for doc in annots[annot]:
+					print(('\t'*3)+'"'+doc+'" :', file=outputfile)
+					print(('\t'*4)+'[', file=outputfile)
+					for line in annots[annot][doc]:
+						print(('\t'*5)+'[', file=outputfile)
+						for sent in line:
+							#print(('\t'*6), sent, '!!!', file=outputfile)
+							print(('\t'*6), '"tok" :', sent['tok'], file=outputfile)
+							print(('\t'*6), '"pos" :' , sent['pos'], file=outputfile)
+							print(('\t'*6), '"tree" :', ' '.join(str(sent['tree']).split()), file=outputfile)
+						print(('\t'*5)+']', file=outputfile)
+					print(('\t'*4)+']', file=outputfile)
+				print(('\t'*2)+'}', file=outputfile)
 			print('}', file=outputfile)
 	except Exception as err:
 		print(err)
