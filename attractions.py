@@ -11,19 +11,6 @@ import numpy as np
 import nltk
 
 ####################
-
-def docs_and_entities_to_attractions(docs, entities):
-	ret = {}
-
-	names_and_instances = docs_and_entities_to_instances(docs, entities)
-	for name in names_and_instances:
-		ret[name] = {}
-		ret[name]['category'] = instances_to_category(names_and_instances[name])
-		ret[name]['instances'] = names_and_instances[name]
-
-	return ret
-
-####################
 ##Global Variables##
 category_list = ["amusement park", "aquarium",
         "archaeological site", "architecture", "art", "beach",
@@ -41,6 +28,21 @@ category_list = ["amusement park", "aquarium",
 	"waterfall", "viewpoint", "zoo"];
 ####################
 
+def docs_and_entities_to_attractions(docs, entities):
+	training(entities)
+	return entities
+	#ret = {}
+
+	#names_and_instances = docs_and_entities_to_instances(docs, entities)
+	#for name in names_and_instances:
+	#	ret[name] = {}
+	#	ret[name]['category'] = instances_to_category(names_and_instances[name])
+	#	ret[name]['instances'] = names_and_instances[name]
+
+	#return ret
+
+#####################
+
 def initialize_dataframe(tokens,columns):
     '''
     This function initializes the output dataframe.
@@ -53,29 +55,36 @@ def token_list_generator(entities):
 	for annot in entities:
 		for entity in annot:
 			for description in entity:
-				for string in description:
+				for doc in description:
 					if string[1] in token_category:
-						token_category[string[1]] = token_category[string[1]] + string[0].split(" ")
+						token_category[string[1]] = token_category[string[1]] + string[0].split("; ")
 					else:
-						token_category[string[1]] = string[0].split(" ")
+						token_category[string[1]] = string[0].split("; ")
 	return token_category
 
 def type_generator(tcd):
 	return set([item for sublist in l for item in tcd.values()])
 
-def docs_and_entities_to_instances(docs, entities):
-	return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
-
-def instances_to_category(instances):
-	tcd = token_list_generator(entities)
-	tokens = type_generator(tcd)
-	df = pd.DataFrame(index=tokens, columns=category_list)
+def df_filler(df,tcd):
 	for category,words in tcd.iteritems():
 		for w in words:
 			df[category][w] += 1.0
-	for c in tcd.keys():
-		df[c].divide(df[c].sum())
-	df.to_csv('./model-dir/attractions.model', sep='\t', encoding='utf-8')
+	return df
+
+def count_to_probabilty(df,tcd_keys):
+	for c in tcd_keys:
+		df[c].divide(len(tcd_keys))
+	return df
+
+#def docs_and_entities_to_instances(docs, entities):
+	#return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
+
+def training(entities):
+	tcd = token_list_generator(entities)
+	tokens = type_generator(tcd)
+	tcd_keys = tcd.keys()
+	df = count_to_probabilty(df_filler(pd.DataFrame(index=tokens, columns=category_list),tcd),tcd_keys)
+	df.to_csv('./model-dir/attractions.model', sep='\t')
 	return 'other'
 
 ####################
