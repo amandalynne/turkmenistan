@@ -48,12 +48,25 @@ def initialize_dataframe(tokens,columns):
     data = np.zeros(len(tokens), len(columns))
     return pd.DataFrame(data, index=tokens, columns=category_list)
 
+def token_list_generator(entities):
+	token_category = dict()
+	for entity in entities:
+		for description in entity:
+			for string in description:
+				if string[1] in token_category:
+					token_category[string[1]] = token_category[string[1]] + string[0].split(" ")
+				else:
+					token_category[string[1]] = string[0].split(" ")
+	return token_category
+
+def type_generator(tcd):
+	return set([item for sublist in l for item in tcd.values()])
 
 def docs_and_entities_to_instances(docs, entities):
 	return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
 
 def instances_to_category(instances):
-	df = pd.DataFrame(index=tokens, columns=category_list)
+	#df = pd.DataFrame(index=tokens, columns=category_list)
 	return 'other'
 
 ####################
