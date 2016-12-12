@@ -75,7 +75,7 @@ def instances_to_category(instances):
 			df[category][w] += 1.0
 	for c in tcd.keys():
 		df[c].divide(df[c].sum())
-	df.to_csv('~/attractions.model', sep='\t', encoding='utf-8')
+	df.to_csv('./model-dir/attractions.model', sep='\t', encoding='utf-8')
 	return 'other'
 
 ####################
