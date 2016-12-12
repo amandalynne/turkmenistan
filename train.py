@@ -45,17 +45,13 @@ def process_summaries(input_dir):
 def train_step(input_dir, model_dir):
 
     #####	STEP 1 : preproc.py			#####
-    #docs = dirname_to_docs('../annot2/3-txt')
-    #docs = dirname_to_docs(input_dir)
+    docs = dirname_to_docs(input_dir)
 
-    process_summaries(input_dir)
-    ####
-    entities = docs_to_named_entities(docs)
+    ####        STEP 2 : Process summaries
+    entities = process_summaries(input_dir)
 
-    #####	STEP 3 : attractions.py		#####
     attractions = docs_and_entities_to_attractions(docs,entities)
 
-    #####	STEP 4 : descriptions.py	#####
     attractions = add_descriptions_to_attractions(docs,attractions)
 
 ####################
