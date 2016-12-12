@@ -9,9 +9,9 @@ from descriptions import *
 ####################
 
 def main():
-	if len(sys.argv) != 3: print('USAGE: python3 train.py {TRAIN_DIR} {MODEL_DIR}')
-	else:
-		training = train_step(sys.argv[1], sys.argv[2])
+    if len(sys.argv) != 3: print('USAGE: python3 train.py {TRAIN_DIR} {MODEL_DIR}')
+    else:
+        training = train_step(sys.argv[1], sys.argv[2])
 
 
 
@@ -38,13 +38,13 @@ def process_summaries(input_dir):
                             ret[subdirname][attraction]['desc'] = {}
                             ret[subdirname][attraction]['desc'][document] =\
                                 (description, category)
-        print(ret['argentina-annot1'])
-        return ret
-                            
+    print(ret['argentina-annot1'])
+    return ret
+
 
 def train_step(input_dir, model_dir):
 
-    #####	STEP 1 : preproc.py			#####
+    #####    STEP 1 : preproc.py            #####
     #docs = dirname_to_docs(input_dir)
 
     ####        STEP 2 : Process summaries
@@ -58,6 +58,6 @@ def train_step(input_dir, model_dir):
 ####################
 
 if __name__ == "__main__":
-	main()
+    main()
 
 ####################
