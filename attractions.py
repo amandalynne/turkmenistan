@@ -50,13 +50,14 @@ def initialize_dataframe(tokens,columns):
 
 def token_list_generator(entities):
 	token_category = dict()
-	for entity in entities:
-		for description in entity:
-			for string in description:
-				if string[1] in token_category:
-					token_category[string[1]] = token_category[string[1]] + string[0].split(" ")
-				else:
-					token_category[string[1]] = string[0].split(" ")
+	for annot in entities:
+		for entity in annot:
+			for description in entity:
+				for string in description:
+					if string[1] in token_category:
+						token_category[string[1]] = token_category[string[1]] + string[0].split(" ")
+					else:
+						token_category[string[1]] = string[0].split(" ")
 	return token_category
 
 def type_generator(tcd):
@@ -72,6 +73,9 @@ def instances_to_category(instances):
 	for category,words in tcd.iteritems():
 		for w in words:
 			df[category][w] += 1.0
+	for c in tcd.keys():
+		df[c].divide(df[c].sum())
+	df.to_csv('~/attractions.model', sep='\t', encoding='utf-8')
 	return 'other'
 
 ####################
