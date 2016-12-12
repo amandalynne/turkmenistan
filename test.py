@@ -16,13 +16,12 @@ def main():
 
 ####################
 
-
 # TODO: docs aren't separated by country... we probs want them to be?
 def test_step(test_dir,model_dir,output_dir):
 
 	#####	STEP 1 : preproc.py			#####
 	#docs = dirname_to_docs('../annot2/3-txt')
-	docs = dirname_to_docs(dirname)
+	docs = dirname_to_docs(test_dir)
 	print_docs_to_filename(docs,'')
 
 	#####	STEP 2 : ner.py				#####
