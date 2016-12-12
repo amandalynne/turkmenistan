@@ -18,7 +18,7 @@ def process_summaries(input_dir):
     """Create training data structure from summary.out files"""
     ret = {}
     for subdirname in os.listdir(input_dir): #{country}-annot{n}
-        if os.path.isdir(os.path.join(dirname,subdirname)):
+        if os.path.isdir(os.path.join(input_dir,subdirname)):
             ret[subdirname] = {}
             summary_file = os.path.join(input_dir,subdirname,'4-output', 'summary.out')
             if os.path.isfile(summary_file):
@@ -35,11 +35,11 @@ def train_step(input_dir, model_dir):
     #####	STEP 2 : ner.py				#####
     entities = docs_to_named_entities(docs)
 
-	#####	STEP 3 : attractions.py		#####
-	attractions = docs_and_entities_to_attractions(docs,entities)
+    #####	STEP 3 : attractions.py		#####
+    attractions = docs_and_entities_to_attractions(docs,entities)
 
-	#####	STEP 4 : descriptions.py	#####
-	attractions = add_descriptions_to_attractions(docs,attractions)
+    #####	STEP 4 : descriptions.py	#####
+    attractions = add_descriptions_to_attractions(docs,attractions)
 
 ####################
 
