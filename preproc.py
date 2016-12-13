@@ -90,15 +90,6 @@ def remove_html(s):
 	s = re.sub(r'(\s*\\[rn]\s*)+','\n\n',s)
 	return s
 
-def all_phrases_with_label(tree, label):
-	ret = []
-	for subtree in tree.subtrees(filter = lambda t: t.label()==label):
-		#print(' '.join([leaf[0] for leaf in subtree.leaves()]))
-		s = ' '.join([leaf[0] for leaf in subtree.leaves()])
-		if not any([(s is not thing and s in thing) for thing in ret]):
-			ret.append(s)
-	print(ret)
-
 ####################
 
 def dirname_to_docs(dirname):
@@ -134,7 +125,7 @@ def line_to_sentences(line):
 	ret = []
 	#for sent in re.split('\.|\!|\?',line):
 	for sent in nltk.tokenize.sent_tokenize(line.strip()):
-		cleansent = remove_html(sent.strip())
+		cleansent = remove_html(sent.strip()).strip()
 		if len(cleansent):
 			toks = nltk.tokenize.word_tokenize(cleansent)
 			postoks = nltk.pos_tag(toks)
@@ -171,7 +162,6 @@ def print_docs_to_filename(annots, filename):
 							print(('\t'*7), '"tok" :', sent['tok'], file=outputfile)
 							print(('\t'*7), '"pos" :' , sent['pos'], file=outputfile)
 							print(('\t'*7), '"tree" :', ' '.join(str(sent['tree']).split()), file=outputfile)
-							all_phrases_with_label(sent['tree'],'NP')
 							print(('\t'*6)+'}', file=outputfile)
 						print(('\t'*5)+']', file=outputfile)
 					print(('\t'*4)+']', file=outputfile)
