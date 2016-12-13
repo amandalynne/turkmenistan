@@ -1,0 +1,11 @@
+Luke Willson
+LING 570
+HW5
+
+Q4:
+
+a) I looked first for common words between the master list and the "title", then looked for common words in the description. When that resulted in a few matches, I tended to pick the one that was most generic (e.g. nature). The most difficult challenge was the near-matches (e.g. waterfall vs waterfalls, lagoon!=lake, but would fall under lagoon) that a program could not pick up by plain direct matching
+
+b) I captured the first (or sometimes second) sentence, which usually contained a good fragment that covered many bases. For some articles, I simply took whole sentence pieces and used those. 
+
+c) It took me 3 hours to create the d*.out files, and I was unable to finish the summary.out file by the due date. Before that time, I had spend at least 2 hours on it, mainly making sure I covered everything and got the scores right. I will upload my summary.out as soon as I am finished.

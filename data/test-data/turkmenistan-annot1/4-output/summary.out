@@ -1,96 +1,109 @@
-1 Merv 0.4 0.5 0.45
+1 The Gates of Hell 0.2 0.888888888889 0.544444444444
+  %d2 1/9 The Gates of Hell ##other %% Fiery crater that has been burning since 1971
+
+2 Kow Ata Underground Lake 0.2 0.777777777778 0.488888888889
+  %d2 2/9 Kow Ata Underground Lake ##lake %% swimming spot; home to largest known colony of bats in Central Asia
+
+3 Arch of Neutrality 0.4 0.555555555556 0.477777777778
+  %d5 0/12 Arch of Neutrality ##monument %% revolving golden statue of late President Niyazov
+  %d2 8/9 Arch of Neutrality ##monument %% A dictator's gold statue
+
+4 Merv 0.4 0.5 0.45
   %d5 0/12 Merv ##city %% brick-built mausolea; Mausoleum of Sultan Sanjar
   %d3 0/4 Merv ##city %% on the ancient Silk Road; site of relics and ruins
 
-2 Chuli Valley 0.2 0.5 0.35
+5 Nokhur Cemetery 0.2 0.666666666667 0.433333333333
+  %d2 3/9 Nokhur Cemetery ##memorial %% Cemetery with goat-horn bedecked gravestones
+
+6 Wedding Palace 0.2 0.555555555556 0.377777777778
+  %d2 4/9 Wedding Palace ##palace %% surreal disco ball building
+
+7 Chuli Valley 0.2 0.5 0.35
   %d5 0/12 Chuli Valley ##resort %% natural splendour; picturesque gorge; hike and climb
 
-3 National Park of Independence 0.2 0.5 0.35
+8 National Park of Independence 0.2 0.5 0.35
   %d1 0/7 National Park of Independence ##national park %% main tourist sight
 
-4 Palace of Turkmenbashi 0.2 0.5 0.35
+9 Palace of Turkmenbashi 0.2 0.5 0.35
   %d5 0/12 Palace of Turkmenbashi ##palace %% white marble
 
-5 Gulistan 0.2 0.5 0.35
+10 Gulistan 0.2 0.5 0.35
   %d4 0/6 Gulistan ##market %% Russian bazaar; Turkmen food; naan bread; laghman noodles; souvenirs
 
-6 Monument of Neutrality 0.2 0.5 0.35
+11 Monument of Neutrality 0.2 0.5 0.35
   %d1 0/7 Monument of Neutrality ##monument %% erected in the centre of Ashkhabad
 
-7 Silk Road 0.2 0.5 0.35
-  %d5 0/12 Silk Road ##historical site %% ancient trading route; Tolkuchka Market
-
-8 Ruhy mosque 0.2 0.5 0.35
+12 Ruhy mosque 0.2 0.5 0.35
   %d1 0/7 Ruhy mosque ##mosque %% handmade Turkmen praying mats; eight-sided carpet; biggest mosque in Central Asia
 
-9 Caspian Sea 0.2 0.5 0.35
+13 Caspian Sea 0.2 0.5 0.35
   %d5 0/12 Caspian Sea ##beach %% panoramic mountainside views; swimming; Museum of Regional History
 
-10 Najmeddin Kubra Mausoleum 0.2 0.5 0.35
+14 Najmeddin Kubra Mausoleum 0.2 0.5 0.35
   %d1 0/7 Najmeddin Kubra Mausoleum ##building %% holiest spot in Kunya-Urgench; tomb; healing properties
 
-11 Independence Park 0.2 0.5 0.35
+15 Independence Park 0.2 0.5 0.35
   %d4 0/6 Independence Park ##park %% massive Ruhnama monument
 
-12 Kow Ata 0.2 0.5 0.35
-  %d2 0/4 Kow Ata ##lake %% underground sulphur lake; mineral rich; medicinal waters
+16 Silk Road 0.2 0.5 0.35
+  %d5 0/12 Silk Road ##historic site %% ancient trading route; Tolkuchka Market
 
-13 Monument to Neutrality 0.2 0.5 0.35
-  %d4 0/6 Monument to Neutrality ##monument %% offers visitors 360-degree views of the city
+17 Dashgouz 0.2 0.5 0.35
+  %d5 0/12 Dashgouz ##city %% ruins of Konye-Urgench; Kutlug Timur Minaret; mausoleums
 
-14 Darvaza 0.2 0.5 0.35
-  %d2 0/4 Darvaza ##other %% large crater filled with fire; gates of Hell
-
-15 Darvaza Crater 0.2 0.5 0.35
-  %d4 0/6 Darvaza Crater ##other %% deep hole; roaring flames; door to hell
-
-16 Bakharden 0.2 0.5 0.35
-  %d5 0/12 Bakharden ##region %% underground mineral lake
-
-17 Anau 0.2 0.5 0.35
+18 Anau 0.2 0.5 0.35
   %d5 0/12 Anau ##town %% famous mosque; mosaic tiles; dragons; fortress watchtowers
 
-18 Kow-Ata 0.2 0.5 0.35
+19 Kow-Ata 0.2 0.5 0.35
   %d1 0/7 Kow-Ata ##lake; cave %% underground lake; father of caves
 
-19 Kugitang Nature Reserve 0.2 0.5 0.35
+20 Kugitang Nature Reserve 0.2 0.5 0.35
   %d5 0/12 Kugitang Nature Reserve ##nature reserve %% dinosaur footprints
 
-20 Arch of Neutrality 0.2 0.5 0.35
-  %d5 0/12 Arch of Neutrality ##monument %% revolving golden statue of late President Niyazov
-
-21 Alem Entertainment Center 0.2 0.5 0.35
-  %d4 0/6 Alem Entertainment Center ##other %% world's largest covered Ferris wheel; imported Italian white marble
-
-22 Ashgabat 0.2 0.5 0.35
-  %d3 0/4 Ashgabat ##city %% capital city; collection of museums; carpet factory
-
-23 Parthian Fortress of Nisa 0.2 0.5 0.35
-  %d3 0/4 Parthian Fortress of Nisa ##archaeological site %%important archaeological sites
-
-24 Jeitun 0.2 0.5 0.35
-  %d2 0/4 Jeitun ##archaeological site %% Mesolithic settlement on a sand dune
-
-25 Seyit Jemaletdin Mosque 0.2 0.5 0.35
-  %d1 0/7 Seyit Jemaletdin Mosque ##mosque %% Timurids-era
-
-26 Mary Museum 0.2 0.5 0.35
-  %d3 0/4 Mary Museum ##museum %% Bronze Age treasures
-
-27 Geokdepe 0.2 0.5 0.35
-  %d1 0/7 Geokdepe ##mosque; historic site %% fortress ruins;
-
-28 Hippodrome 0.2 0.5 0.35
+21 Hippodrome 0.2 0.5 0.35
   %d5 0/12 Hippodrome ##other %% horse races; Turkmenbashi Stud Farm; Akhal-Teke horses
 
-29 Karakum 0.2 0.5 0.35
-  %d2 0/4 Karakum ##desert %% brutal desert wasteland
+22 Alem Entertainment Center 0.2 0.5 0.35
+  %d4 0/6 Alem Entertainment Center ##other %% world's largest covered Ferris wheel; imported Italian white marble
+
+23 Ashgabat 0.2 0.5 0.35
+  %d3 0/4 Ashgabat ##city %% capital city; collection of museums; carpet factory
+
+24 Mary Museum 0.2 0.5 0.35
+  %d3 0/4 Mary Museum ##museum %% Bronze Age treasures
+
+25 Darvaza Crater 0.2 0.5 0.35
+  %d4 0/6 Darvaza Crater ##other %% deep hole; roaring flames; door to hell
+
+26 Seyit Jemaletdin Mosque 0.2 0.5 0.35
+  %d1 0/7 Seyit Jemaletdin Mosque ##mosque %% Timurids-era
+
+27 Parthian Fortress of Nisa 0.2 0.5 0.35
+  %d3 0/4 Parthian Fortress of Nisa ##archaeological site %%important archaeological sites
+
+28 Geokdepe 0.2 0.5 0.35
+  %d1 0/7 Geokdepe ##mosque; historic site %% fortress ruins;
+
+29 Bakharden 0.2 0.5 0.35
+  %d5 0/12 Bakharden ##region %% underground mineral lake
 
 30 Ertugrul Ghazi Mosque 0.2 0.5 0.35
   %d4 0/6 Ertugrul Ghazi Mosque ##mosque %% exact replica of Istanbul's Blue Mosque; exquisite carvings; hand-woven Kilim rugs
 
-31 Dashgouz 0.2 0.5 0.35
-  %d5 0/12 Dashgouz ##city %% ruins of Konye-Urgench; Kutlug Timur Minaret; mausoleums
+31 Monument to Neutrality 0.2 0.5 0.35
+  %d4 0/6 Monument to Neutrality ##monument %% offers visitors 360-degree views of the city
 
 32 Old Nisa 0.2 0.5 0.35
-  %d5 0/12 Old Nisa ##fortress %% UNESCO-listed; Parthian kings
+  %d5 0/12 Old Nisa ##historic site %% UNESCO-listed; Parthian kings
+
+33 Walk of Health 0.2 0.444444444444 0.322222222222
+  %d2 5/9 Walk of Health ##trail %% mountain path along city
+
+34 Independence Mounument of Turkmenistan 0.2 0.333333333333 0.266666666667
+  %d2 6/9 Independence Mounument of Turkmenistan ##monument %% memorial to a controversial independence
+
+35 Giant Ruhnama 0.2 0.222222222222 0.211111111111
+  %d2 7/9 Giant Ruhnama ##monument %% Monument to a bizarre book
+
+36 Turkmenbashi's Land of Fairy Tales 0.2 0.0 0.1
+  %d2 9/9 Turkmenbashi's Land of Fairy Tales ##amusement park %% Turkmen version of Disneyland

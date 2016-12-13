@@ -1,0 +1,137 @@
+1 Itaipu dam 0.6 0.9 0.75
+%d1 0/10    The Itaipú Dam (Paraguay)  ##river; architecture   %%world's biggest hydro-electrical project ever; an impressive construction
+%d2 2/20   Represa Hidroelectrica Itaipu Binacional    ##architecture  %%Simply great; An amazing feat of engineering 
+%d5 0/8   Itaipu Dam  ##river; architecture   %%South America’s second longest river after the Amazon; largest hydro-electric plant in the world
+
+2 Jesuit Missions 0.4 0.65 0.525
+%d2 7/20   Ruinas jesuiticas de Jesus de Tavarangue    ##ruins     %%An intersting bit of history; Beautiful ruins and stunning scene
+%d4 0/10   Jesuit Missions ##ruins; church     %%Many of the original churches and missions, built by local Guarani people, still stand today
+
+3 Costanera de la Ciudad de Encarnacion 0.2 0.8 0.5
+%d2 4/20   Costanera de la Ciudad de Encarnacion Paraguay  ##beach     %%Walk around the beach; Beach side in Paraguay
+
+3 Panteon Nacional de los heroes  0.6 0.4 0.5
+%d1 0/10    The Panteón de los Héroes Burial Place (Asunción)  ##monument  %%burial place of some of the Commanders-in-Chief and soldiers; a symbol of how highly military men are still esteemed in the country
+%d2 12/20  Panteon Nacional de los Heroes  ##architecture  %%Under reconstruction; Interesting but not much to see
+%d3 0/10   Panteon National de Heroes  ##monument  %%serves to commemorate those who have contributed significantly to the history of Paraguay
+
+5 Ybycuí National Park 0.4 0.5 0.45
+%d1 0/10    The National Park of Ybycuí (Paraguay) ##park  %%luscious rainforest with trails; home of thousands of colorful butterflies
+%d5 0/8   Ybycuí National Park    ##park; nature; waterfall     %%perfect environment to blissfully meander through sub-tropical rainforest; hidden gems of waterfalls; relaxing nature and wildlife; huge, colorful butterflies
+
+5 Asuncion 0.4 0.5 0.45
+%d3 0/5   Asuncion    ##city  %%Capital city; one of the most interesting destinations in the country; beautiful colonial architecture
+%d5 0/8   Asuncion    ##city; garden; architecture  %%one of the oldest cities in Latin America; worthwhile cultural experience; botanical gardens offer a pleasant wander
+
+5 Gran Chaco 0.4 0.5 0.45
+%d3 0/5   Gran Chaco    ##nature    %%eco-travel; untainted wilderness; virtually untouched by tourism
+%d4 0/10   The Gran Chaco  ##nature; region    %%world's largest dry forest; world's second largest forest of any kind; home to countless species of floral and fauna
+
+5 Iguaçu Falls 0.4 0.5 0.45
+%d3 0/5   Iguaçu Falls    ##waterfall     %%One of the greatest natural wonders of the world; 
+%d5 0/8   Iguazu Falls    ##waterfall     %%the world’s widest set of waterfalls 
+
+5 Ciudad del Este 0.4 0.5 0.45
+%d1 0/10    The city of Ciudad de Este (Eastern Paraguay (El Chaco))   ##city  %%vitality and craziness; a genuine smuggler's town where everything can be bought and sold
+%d5 0/8   Ciudad del Este     ##city; shopping mall   %%one of the world’s largest free trade zones; Bargain priced electronic and consumer goods; plenty of good restaurants and places to stay
+
+10 Catedral de Nuestra Senora de la Asuncion 0.4 0.45 0.425
+%d2 11/20  Catedral de Nuestra Senora de la Asuncion   ##church    %%Nice Stop; Ascuncion Cathedral
+%d4 0/10   Nesrta Senora de la Asuncion Santander Catedral     ##church    %%built during Spanish Colonial times; Colonial architecture alongside neo-Classical
+
+11 Palacio de Gobierno 0.4 0.4 0.4
+%d1 0/10    The Gobierno Palace (Asunción) ##palace    %%stop and watch the resplendent palace; beautiful flag-ceremony
+%d2 6/10   Government Palace (Palacio de Gobierno) ##palace    %%Worth a visit to see the palace; Pretty Venue
+
+11 Saltos del Monday 0.2 0.6 0.4
+%d2 8/20   Saltos del Monday   ##waterfall     %%Needs updating; Lovely way to spend the day
+
+13 Costanera de Asuncion 0.2 0.55 0.375
+%d2 9/20   Costanera de Asuncion   ##waterfront    %%Go and spend and fun day; Nice to see in Asuncion
+
+14 Encarnacion 0.2 0.5 0.35
+%d3 0/5   Encarnacion ##city; church  %%Not a great destination if you consider the city itself; nearby Jesuit missions of La Santisima Trinidad de Parana and Jesus de Tavarangue
+
+14 Yaguarón 0.2 0.5 0.35 
+%d3 0/5   Yaguarón    ##town  %%great destination for a couple of relaxing days; quaint little church called Iglesia San Buenaventura
+
+14 Eco-Reserva Mbatovi 0.2 0.5 0.35
+%d4 0/10   Eco-Reserva Mbatovi ##park; caves; waterfall  %%should be on everyone's list of places to see in Paraguay; Natural caves; abundant flora; pure waterfalls
+
+14 Palacio de Lopez 0.2 0.5 0.35
+%d4 0/10   Palacio de Lopez    ##palace    %%seat of government in Paraguay; one of the finest examples of architecture in the New World
+
+14 Rivera Square 0.2 0.5 0.35
+%d4 0/10   Rivera Square   ##city/town square; architecture  %%opportunity to view Colonial and neo-Classical architecture at its finest
+
+14 The Paraguayan Train Station  0.2 0.5 0.35
+%d4 0/10  The Paraguayan Train Station    ##building; historic site   %%the first of its kind in South America; get a glimpse of Paraguayan history; gorgeous views of the local landscape
+
+14 Jardin Botanico 0.2 0.5 0.35
+%d4 0/10   Jardin Botanico     ##garden    %%displaying South American flora and fauna for over 100 years; Over 70 species of animals are on exhibit
+
+14 Paraguay River 0.2 0.5 0.35
+%d4 0/10   Paraguay River  ##nature    %%excellent fishing; guided boat tours
+
+14 Jesús and Trinidad Jesuit Ruins 0.2 0.5 0.35
+%d5 0/8   Jesús and Trinidad Jesuit Ruins     ##ruins; church     %%declared a UNESCO Historical Patrimony of Humankind site
+
+14 Filadelfia 0.2 0.5 0.35
+%d5 0/8   Filadelfia  ##town     %%founded in 1930 by Mennonites
+
+14 Cerro Cora National Park 0.2 0.5 0.35
+%d5 0/8   Cerro Cora National Park    ##park; nature; cave  %%largest protected area in Paraguay; amazing natural beauty; caves that contain prehistoric indigenous artwork; the final resting place of one of modern Paraguay’s heroes, Francisco Solano Lopez, who died here in 1870 as a result of the War of the Triple Alliance
+
+14 The Andrés Barbero Ethnographic Museum 0.2 0.5 0.35
+%d1 0/10    The Andrés Barbero Ethnographic Museum (Asunción)  ##museum    %%gives an extraordinary insight into the development of everyday life and culture in Paraguay over the years; numerous archaeological finds
+
+
+14 The Petrossi market 0.2 0.5 0.35
+%d1 0/10    The Petrossi market (Asunción) ##market    %%bubbling hustle and bustle
+
+
+14 Itaugua 0.2 0.5 0.35
+%d1 0/10    The town of Itaugua (Eastern Paraguay (El Chaco))  ##town  %%home of Paraguay's famous artware nandutí; purchase a good souvenir
+
+14 The Defensores del Chaco National Park 0.2 0.5 0.35
+%d1 0/10    The Defensores del Chaco National Park (Paraguay)  ##park  %%the largest and most inaccessible park in the country; a mountain which is 500 meters high
+
+14 The steam train between Asunción and Areguá 0.2 0.5 0.35
+%d1 0/10    The steam train between Asunción and Areguá (Paraguay) ##nature    %%passes the botanical gardens; very fun ride on the old train
+
+14 Ciudad del Este Falls 0.2 0.5 0.35
+%d2 1/20   Ciudad del Este Falls   ##waterfall     %%Amazing show of natural beauty; Amazing Waterfalls
+
+14 La Santisima Trinidad de Parana 0.2 0.5 0.35
+%d2 3/20   La Santisima Trinidad de Parana     ##ruins %%Well restored ruins; Lovely Place to Visit
+
+
+14 Shopping China Importados 0.2 0.5 0.35
+%d2 5/20   Shopping China Importados   ##shopping mall %%Ótimo; Nosso Miami
+
+14 Casa de la Independencia 0.2 0.5 0.35
+%d2 10/20  Casa de la Independencia    ##historic site %%Nice Free Stop; Useful to begin understanding Paraguay
+
+34 Museo del Barro 0.2 0.35 0.275
+%d2 13/20  Museo del Barro ##museum    %%Rich in content; Excellent, quaint museum
+
+35 Paseo La Galeria 0.2 0.3 0.25
+%d2 14/20  Paseo La Galeria    ##shopping mall %%Wonderful place to go shopping; Nice atmosphere
+
+36 San Jose Beach 0.2 0.25 0.225
+%d2 15/20  San Jose Beach  ##beach     %%Walk on the beach; Beach near the river
+
+37 Museo del Cabildo 0.2 0.2 0.2
+%d2 16/20  Museo del Cabildo   ##museum    %%Interesting museum with some great...; Probably the best thing to do in A...
+
+38 Casa Nissei 0.2 0.15 0.175
+%d2 17/20  Casa Nissei ##shopping mall     %%good place to get some bargains; Excelente
+
+39 Plaza Uruguaya 0.2 0.1 0.15
+%d2 18/20  Plaza Uruguaya  ##city/town square  %%Go!; nice parl
+
+40 Museo de la Estacion Central del Ferrocarril Carlos Antonio Lopez 0.2 0.05 0.125
+%d2 19/20  Museo de la Estacion Central del Ferrocarril Carlos Antonio Lopez   ##museum    %%History and the railway; Interesting, but not surprising!
+
+41 Avenida Mariscal Lopez 0.2 0 0
+%d2 20/20  Avenida Mariscal Lopez  ##city district %%The premier address in Asuncion, a...; Bus trip

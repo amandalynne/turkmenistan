@@ -11,8 +11,7 @@ from summary import *
 
 def main():
 	if len(sys.argv) != 4: print('USAGE: python3 test.py {TEST_DIR} {MODEL_DIR} {OUTPUT_DIR}')
-	else:
-		test_step(sys.argv[1], sys.argv[2], sys.argv[3])
+	else: test_step(sys.argv[1], sys.argv[2], sys.argv[3])
 
 ####################
 

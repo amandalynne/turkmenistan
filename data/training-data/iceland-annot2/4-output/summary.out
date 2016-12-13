@@ -1,0 +1,127 @@
+1	Blue Lagoon 0.8 	0.45	0.625
+	% d6 	1/10	Blue Lagoon		##nature	%% this popular man-made geothermal spa of crystal clear water is the only site on earth you can swim in 40 degree centigrade water year round, and yet be encircled by ice and snow; an area where a by-product of the Svartsengi geothermal power plant is located, the lagoon's rich mineral content is known to be helpful to a variety of settings; the icy aquamarine waters set alongside the black background of the plain landscape make this glaring contrast even more impressive making it the most photographed attraction in Iceland
+	% d7	4/10 	Blue Lagoon 	##nature	%% a geothermal spa offers the most relaxing natural bathing experience you've never had and is a most tempting attraction, located only 40 minutes away from Reykjavík
+	% d9 	8/10 	The Blue Lagoon 	##nature;waterfront 	%%geothermal spa with seawater; variety of luxury spa treatments
+	% d10 	9/10 	The Blue Lagoon 	##nature;waterfront		%%stunning blue water; relaxing spa
+
+2	Lake Myvatn 0.4 0.8 	0.6
+	% d6 	3/10	Lake Myvatn		##lake; waterfall	%% established as a conservation area in 1974, this place has turn to be one of the best tourist attractions; there's much to discover here such as the waterfall of the Gods, which is considered the most famous waterfall in Europe; one can also see the lavishness of bird-life, volcanic craters as well as beautiful lakes
+	% d9 	1/10	Lake Myvatn Geo-thermal Area	##lake 	%%rich in birdlife; tours to the volcano Krafla
+
+3 	The Golden Circle 0.2 0.9 0.55
+	% d10 	1/10 	The Golden Circle  	##trail; nature		%%one of the most popular tourist routes; perfect sample of Icelandic nature
+
+4	Asbyrgi 0.4 	0.65 0.525
+	% d6 	4/10 	Asbyrgi 	##canyon	%% this is a 3 1/2 kilometer long canyon with 100 meter walls; fulmars may be seen in this place during the breeding season; Asbyrgi is situated in the northern most region of the famed Jokulsargliufur National Park
+	% d9 	3/10	Asbyrgi Canyon	##canyon 	%%spiritual fulfilment through the tranquil experiencing of natural splendour; fantastic views
+
+5	Great Geyser 0.2 0.8 	0.5 	
+	% d6 	2/10 	Great Geyser 	##nature	%% this natural spot is situated in the south-western Iceland and has been active for over 10,000 years; it can spurt boiling water up to seventy meters in the air; geysers are frequently caused by surface water, making its way down for about 2,000 meters; upon reaching the boiling point, it will then spout very hot water with steam, and both natural occurrences are very impressive to watch in person
+
+5	Gullfoss 0.4 0.6 	0.5
+	% d6	7/10 	Gullfoss	##waterfall 	%% this astonishing waterfall climaxes and crowns the renowned "Golden Circle," the country's most common day trip from the capital; this place looks almost too flawlessly landscaped to be real, but is definitely is
+	% d7 	1/10	Gullfoss Waterfall 	##waterfall		%% the gorgeous waterfall is one of the most popular attractions in the country; located in the canyon, which forms three step terraces, river Hvítá plunges creating a powerful stream and Gullfoss
+
+5	Hallgrímskirkja	0.2 0.8 	0.5	
+	% d7 	2/10	Hallgrímskirkja ##church	%% the unique church is situated in the middle of Reykjavík; it is the tallest and most recognizable building in the country
+
+5	Skaftafell Park	0.2 0.8 0.5
+	% d9 	2/10 	Skaftafell Park 	##park 	%%home to some of the strangest and most surreal landscapes on the planet; renowned for its warm climate and sunny summer days; glacier, ice-climbing tours, transportation, food and accommodation
+
+9	Landmannalaugar	0.6 0.333 0.466
+	% d7	8/10	Landmannalaugar		##mountain 	%% the multicolored rhyolite mountains, lava fields and the Hekla volcano make it a popular tourist destination
+	% d9 	10/10 	The Volcano Hekla	##mountain;nature 	%%one of the most active volcanoes on earth
+	% d10 	2/10	Landmannalaugar 	##nature; trail 	%%popular hiking destination offering several trails all with breathtaking scenery; colors of the landscape at Landmannalaugar look like they are straight from a painting
+
+10	Aurora Borealis	0.2 0.7 0.45	
+	% d7	3/10 	Aurora Borealis	##nature	%% the northern phenomenon is also among the most popular attractions
+
+10	Skaftafell Ice Cave	0.4 0.5 0.45
+	% d7 	5/10 	Skaftafell Ice Cave		##cave %% the land of ice; the country is literally covered in ice and snow; the overwhelmingly beautiful ice caves attract adventurers
+	% d8 	0/4 	Ice Cave inside Vatnajokull glacier		##glacier; cave 	%% it looks like a crystal palace from a fairytale; you'll see the Northern Lights dancing above you at night
+
+10	Rekjadalur, Hveragerði 	0.2 0.7 0.45
+	% d10 	3/10 	Rekjadalur, Hveragerði	##nature 	%%hot spring
+
+13	Þingvellir National Park 0.2 0.6 0.4 	
+	% d9 	4/10 	Þingvellir National Park 	##national park 	%%brimming with historical, cultural, and geological importance; one of the most popular tourist destinations in Iceland; home to Þingvallavatn, the largest natural lake in Iceland
+
+13 	Gjáin 	0.2 0.6 0.4
+	% d10 	4/10 	Gjáin 	##nature 	%%the most beautiful place in Iceland; feel like you have stepped into a fairytale
+
+15	Seljalandsfoss	0.2 0.5 0.35
+	% d6 	5/10	Seljalandsfoss	##waterfall %% located between Skógafoss and Selfoss, the Seljalandsfoss is said to be one of the most photographed waterfalls in the country; tourists can walk behind the 60-meter high waterfalls, making it a remarkable sight; the lush green setting and misty environs make this a perfect attraction to visit to take in the feel of the countryside
+
+15	Glymur	0.4 0.3 0.35
+	% d6 	6/10 	Glymur		##waterfall 	%% Iceland's highest waterfall is graceful and nimble; streamlets go downhill like ribbons of a post into an unfathomable canyon mantled in lush mosses and bird nests; the trek in this area is somewhat deceitful, but those people who brave it are pleased with captivating scenery as well as total solitude
+	% d10 	8/10 	Glymur		##waterfall 	%%second tallest waterfall in Iceland; views along the way
+
+15	Thorsmork Valley 0.2 0.5 0.35
+	% d8 	0/4 	Thorsmork Valley 	##nature	%% green valley is filled with beautiful rock formations, mountains, rivers and great hiking paths
+
+15	Snaefellsnes Peninsula	0.4 0.3 0.35
+	% d8 	0/4 	Snaefellsnes Peninsula 	##national park; glacier	%% national park, filled with birdlife, hiking treks and small fishing villages; black, pebbly beach with some remains of a shipwreck
+	% d10 	7/10 	Snæfellsnes 	##nature 	%%dozens of small waterfalls; glaciers; small fishing towns; perfect for a relaxing place to stay
+
+15	Husey in East Iceland	0.2 0.5 0.35
+	% d9 	5/10 	Husey in East Iceland 	##nature;region		%%endless opportunities for excursions; grazing reindeer; obsidian sands of the wide river banks; hundreds of idle seals
+
+15	The Glacier Lagoon 0.2 0.5 0.35 	
+	% d10	5/10 	The Glacier Lagoon 		##glacier 	%%glacial lake filled with large icebergs floating around; take a boat tour around the lagoon
+
+21	Kirkjufell Mountain 0.2 0.4 0.3	
+	% d7	6/10 	Kirkjufell mountain		##mountain 	%% near a small town of Grundarfjörður in the western Iceland, the mountain beautifully sticks out in a plain landscape
+
+21	Hornstrandir Nature Reserve 0.2 0.4 0.3	
+	% d9 	6/10 	Hornstrandir Nature reserve 	##nature reserve;cliff 	%%the perfect habitat for one of the greatest seafowl colonies on earth; solitude and magnificent landscapes
+
+21	South Coast	0.2 0.4 0.3
+	% d10 	6/10 	South Coast 	##nature 	%%black sand beaches; waterfalls; stunning landscapes
+
+24	Maelifell Volcano	0.2 0.3 0.25
+	% d7	7/10	Maelifell Volcano 		##mountain %% the perfect cone makes Maelifell a classic looking volcano; during the warm season, snow uncovers a lavish green surface, covered with moss
+
+24	Seljavallalaug Pool 0.2 0.3 0.25
+	% d9 	7/10 	Seljavallalaug Pool 	##nature 	%%one of the oldest outdoor swimming pools in Iceland; architectural marvel; bubbling brooks and whispering streams; ethereal landscape
+
+26	Raufarholshellir 0.2 0.2 	0.2	
+	% d6	8/10	Raufarholshellir 	##cave %% with the accurate precautions and preparations, any tourist can just walk straight into this lava-tube cavern and saunter more than 3/4 mile or a kilometer to its dimmest depths, past peculiar ice candles and lava formations
+
+27	Latrabjarg	0.2 0.1 0.15
+	% d6 	9/10 	Latrabjarg	##cliff		%% these massive sea cliffs at Iceland's western most point verify that the "endpoints of the earth" certainly come with a bang; the sheer volume of many types of birds is incredible, and the puffins (photographed) are willing to have their photo taken
+
+27	Geysers	0.2 0.1 0.15
+	% d7 	9/10 	Geysers 	##nature	%% due to the volcanic activities underneath the surface, a lot of geysers, underground springs and thermal pools are scattered all around the country
+
+27	Reynisfjara Beach 0.2 0.1 0.15
+	% d9 	9/10 	Reynisfjara Beach 	##beach 	%%a black sand beach; surrounded by roaring surf; gigantic pillar of dark lava
+
+30	Hornbjarg 	0.2 0.0 0.1
+	% d6 	10/10 	Hornbjarg 	##cliff 	%% these ocean cliffs in this country's far northwest are not simple and easy to reach, but travelers are treated to the most stunning sight on the Iceland's entire coastline; a razor-backed and undulating ridge is carved against the sky and on its inland part, a sheer-hill scoops down to a lovely plateau; the opposite side is a pure 534 meters drop to the sea
+
+30	Whale Watching 0.2 0.0 0.1
+	% d7 	10/10 	Whale Watching 	##viewpoint;nature	%% the gentle marine giants can be seen from the different locations in the country including Reykjavík
+
+30 	Rekyjavik 	0.2 0.0 0.1
+	% d10 	10/10 	Rekyjavik	##city 	%%quirky capital city; charming small town
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
