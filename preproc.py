@@ -15,8 +15,10 @@ grammar = r"""
 		{<NN.*>+}
 	JP:
 		{<RB.*>*<JJ.*>}
+	JP:
+		{(<JP><,>)*<JP><,>?<CC><JP>}
 	NP:
-		{<DT|PRP\$|CD|JP|VB[N]>+<NP>}
+		{<DT|PRP\$|CD|JP|VB[N]>+<NP><PP>*}
 	NP:
 		{(<NP><,>)*<NP><,>?<CC><NP>}
 	NP:
@@ -53,10 +55,8 @@ grammar = r"""
 		{<NP|NX><REL>}
 	QUES:
 		{<W.*><MD|VP>*<PRED|PROP><\.>*}
-	QUES:
-		{^<PRED|PROP><.*>*<\.>*}
 	IMP:
-		{<PRED>}
+		{^<PRED>$}
 	VOC:
 		{<,>?<NP><,>?}
 	PHR:
@@ -78,6 +78,26 @@ def float_str(num):
 		m = re.search(r'^(?P<LEFT>\d*)\.(?P<RIGHT>\d*?)000+\d$', ret)
 		return '.'.join([m.group('LEFT') if m.group('LEFT') else '1', m.group('RIGHT') if m.group('RIGHT') else '0'])
 	else: return ret
+
+def remove_html(s):
+	s = s.replace('\n','\\n')
+	s = re.sub(r'<script>.*?</script>','',s)
+	s = re.sub(r'<!--.*?-->','',s)
+	s = re.sub(r'&nbsp;', ' ', s)
+	s = re.sub(r'&[lr]squo;', '\'', s)
+	s = re.sub(r'</?(h\d|p)>','\\n',s)
+	s = re.sub(r'<.*?>','',s)
+	s = re.sub(r'(\s*\\[rn]\s*)+','\n\n',s)
+	return s
+
+def all_phrases_with_label(tree, label):
+	ret = []
+	for subtree in tree.subtrees(filter = lambda t: t.label()==label):
+		#print(' '.join([leaf[0] for leaf in subtree.leaves()]))
+		s = ' '.join([leaf[0] for leaf in subtree.leaves()])
+		if not any([(s is not thing and s in thing) for thing in ret]):
+			ret.append(s)
+	print(ret)
 
 ####################
 
@@ -102,7 +122,8 @@ def dirname_to_docs(dirname):
 
 def filename_to_doc(filename):
 	try:
-		with open(filename, 'r', encoding='utf-8') as f:
+		#with open(filename, 'r', encoding='utf-8') as f:
+		with open(filename, 'r', encoding='latin-1') as f:
 			return list(filter(None,[line_to_sentences(line.strip()) for line in f.readlines()]))
 	except Exception as err:
 		print(err)
@@ -111,9 +132,11 @@ def line_to_sentences(line):
 	#sentences = list(filter(None, [sent.strip().split() for sent in re.split('(\.|\!|\?)',line)]))
 	#return list(filter(None, [sent.strip().split() for sent in re.split('\.|\!|\?',line)]))
 	ret = []
-	for sent in re.split('\.|\!|\?',line):
-		if len(sent.strip()):
-			toks = nltk.tokenize.word_tokenize(sent.strip())
+	#for sent in re.split('\.|\!|\?',line):
+	for sent in nltk.tokenize.sent_tokenize(line.strip()):
+		cleansent = remove_html(sent.strip())
+		if len(cleansent):
+			toks = nltk.tokenize.word_tokenize(cleansent)
 			postoks = nltk.pos_tag(toks)
 			chunker = nltk.RegexpParser(grammar)
 			tree = chunker.parse(postoks)
@@ -124,7 +147,8 @@ def line_to_sentences(line):
 
 @contextmanager
 def writeopen(outputfilename=None):
-	if len(outputfilename) > 0: outputfile = open(outputfilename, 'w', encoding='utf-8')
+	#if len(outputfilename) > 0: outputfile = open(outputfilename, 'w', encoding='utf-8')
+	if len(outputfilename) > 0: outputfile = open(outputfilename, 'w', encoding='latin-1')
 	else: outputfile = sys.stdout
 	try: yield outputfile
 	finally:
@@ -143,10 +167,12 @@ def print_docs_to_filename(annots, filename):
 					for line in annots[annot][doc]:
 						print(('\t'*5)+'[', file=outputfile)
 						for sent in line:
-							#print(('\t'*6), sent, '!!!', file=outputfile)
-							print(('\t'*6), '"tok" :', sent['tok'], file=outputfile)
-							print(('\t'*6), '"pos" :' , sent['pos'], file=outputfile)
-							print(('\t'*6), '"tree" :', ' '.join(str(sent['tree']).split()), file=outputfile)
+							print(('\t'*6)+'{', file=outputfile)
+							print(('\t'*7), '"tok" :', sent['tok'], file=outputfile)
+							print(('\t'*7), '"pos" :' , sent['pos'], file=outputfile)
+							print(('\t'*7), '"tree" :', ' '.join(str(sent['tree']).split()), file=outputfile)
+							all_phrases_with_label(sent['tree'],'NP')
+							print(('\t'*6)+'}', file=outputfile)
 						print(('\t'*5)+']', file=outputfile)
 					print(('\t'*4)+']', file=outputfile)
 				print(('\t'*2)+'}', file=outputfile)
