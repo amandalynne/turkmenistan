@@ -13,7 +13,8 @@ import nltk
 def docs_to_named_entities(docs):
         grammar = "RANKED: {<CD><DT>*<NNP><NN.*>*<PP>*<NN.*>*}"
         chunker = nltk.RegexpParser(grammar)
-        ret = {} 
+        ret = {}
+        attractions = [] 
         for annot in docs:
                 ret[annot] = {}
                 for doc in docs[annot]:
@@ -24,6 +25,7 @@ def docs_to_named_entities(docs):
                                         for subtree in tree.subtrees():
                                                 if subtree.label() == 'RANKED':
                                                         print(doc, subtree)
+                                                        attractions.append(subtree)
                 # ret[annot][entity] = {}
                 # ret[annot][entity][doc] = {}
                 # ret[annot][entity][doc]['rank'] = N 
