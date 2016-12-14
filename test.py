@@ -59,10 +59,11 @@ def test_step(test_dir,model_dir,output_dir):
 
 	#####	STEP 4 : descriptions.py	#####
 	attractions = add_descriptions_to_attractions(docs,attractions,model_dir)
-	#print(attractions['turkmenistan-annot2'])
+	#print(attractions)
 
 	#####	STEP 3 : attractions.py		#####
-	#attractions = docs_and_entities_to_attractions(docs,entities)
+	attractions = docs_and_entities_to_attractions(docs,attractions,model_dir,False)
+	#print(attractions)
 
 	#####	STEP 5 : summary.py			#####
 	#print_attractions_to_filename(attractions,'')
@@ -75,4 +76,3 @@ if __name__ == "__main__":
 	main()
 
 ####################
-
