@@ -20,12 +20,14 @@ def postprocess_attr_list(attractions):
             ret.append((int(attr[0]), ' '.join(attr[1:])))
         ret = list(set(ret))
         ret = sorted(ret, key = lambda x: x[0])
-        while ret[-1][0] > len(ret):
+        #while ret[-1][0] > len(ret):
+        while len(ret) and len(ret[-1]) and ret[-1][0] > len(ret):
             ret.pop()
         for attr in ret:
             if attr[1] in NONO_WORDS:
                 ret.remove(attr) 
-        if ret[-1][0] != 0:
+        #if ret[-1][0] != 0:
+        if len(ret) and len(ret[-1]) and ret[-1][0] != 0:
             new_ret = []
             for attr in ret:
                 if attr[0] != 0:
