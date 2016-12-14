@@ -34,10 +34,18 @@ def docs_to_named_entities(docs):
                                                         chunk = [x[0] for x in subtree.leaves()]
                                                         if re.match(digit_pattern, chunk[0]):
                                                                 doc_attractions.append(chunk)
-                                                elif i == 1 and subtree.label() == 'UNRANKED':
-                                                        if len(subtree.leaves()) > 1:    
-                                                                print(annot, doc, subtree.leaves())
-                        #print(annot, doc, doc_attractions)
+                                                elif subtree.label() == 'UNRANKED':
+                                                        if re.match(digit_pattern, line[0]['tok'][0]):
+                                                                rank = line[0]['tok'][0]
+                                                                chunk = [x[0] for x in subtree.leaves()]
+                                                                chunk.insert(0, line[0]['tok'][0])
+                                                                doc_attractions.append(chunk) 
+                                                        elif j == 0 and subtree.label() == 'UNRANKED':
+                                                                chunk = [x[0] for x in subtree.leaves()]
+                                                                chunk.insert(0, '0') 
+                                                                doc_attractions.append(chunk)
+                                  
+                        print(annot, doc, doc_attractions)
                 # ret[annot][entity] = {}
                 # ret[annot][entity][doc] = {}
                 # ret[annot][entity][doc]['rank'] = N 
