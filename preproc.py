@@ -10,6 +10,9 @@ import nltk
 
 ####################
 
+#	NP:
+#		{(<NP><,>)*<NP><,>?<CC><NP>}
+
 grammar = r"""
 	NP:
 		{<NN.*>+}
@@ -19,8 +22,6 @@ grammar = r"""
 		{(<JP><,>)*<JP><,>?<CC><JP>}
 	NP:
 		{<DT|PRP\$|CD|JP|VB[N]>+<NP><PP>*}
-	NP:
-		{(<NP><,>)*<NP><,>?<CC><NP>}
 	NP:
 		{<RB.*>*<VB[GN]><RB.*>*<NP>}
 	PP:

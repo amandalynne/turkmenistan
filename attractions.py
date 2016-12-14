@@ -9,12 +9,11 @@ import sys
 import pandas as pd
 import numpy as np
 import nltk
-import re
 
 ####################
 ##Global Variables##
 category_list = ["amusement park", "aquarium",
-		"archaeological site", "architecture", "art", "beach",
+        "archaeological site", "architecture", "art", "beach",
 	"bridge", "building","canyon", "casino", "castle",
 	"cave", "ceremony", "church", "city", "city district",
 	"city/town square", "cliff", "coast", "desert", "fair",
@@ -35,18 +34,24 @@ def docs_and_entities_to_attractions(docs, entities,model_dir, train):
 	else:
 		entities = testing(entities,model_dir)
 	return entities
+	#ret = {}
+
+	#names_and_instances = docs_and_entities_to_instances(docs, entities)
+	#for name in names_and_instances:
+	#	ret[name] = {}
+	#	ret[name]['category'] = instances_to_category(names_and_instances[name])
+	#	ret[name]['instances'] = names_and_instances[name]
+
+	#return ret
 
 #####################
 
 def initialize_dataframe(tokens,columns):
-	'''
-	This function initializes the output dataframe.
-	'''
-	data = np.zeros((len(tokens), len(columns)))
-	return pd.DataFrame(data, index=tokens, columns=columns)
-
-def cleaner(entry):
-    return re.sub('[^A-Za-z0-9 ]+', '', entry).lower().split()
+    '''
+    This function initializes the output dataframe.
+    '''
+    data = np.zeros(len(tokens), len(columns))
+    return pd.DataFrame(data, index=tokens, columns=category_list)
 
 def token_list_generator(entities):
 	token_category = dict()
@@ -63,11 +68,7 @@ def token_list_generator(entities):
 								else:
 									token_category[e[1]] = cleaner(e[0])
 					else:
-						if entry[1] in category_list:
-							if entry[1] in token_category:
-								token_category[entry[1]] = token_category[entry[1]] + cleaner(entry[0])
-							else:
-								token_category[entry[1]] = cleaner(entry[0])
+						token_category[string[1]] = string[0].split("; ")
 	return token_category
 
 def token_array_generator(entities):
@@ -78,19 +79,18 @@ def token_array_generator(entities):
 	return docs
 
 def type_generator(tcd):
-	return set([item for sublist in tcd.values() for item in sublist])
+	return set([item for sublist in l for item in tcd.values()])
 
 def df_filler(df,tcd):
-	for category,words in tcd.items():
+	for category,words in tcd.iteritems():
 		for w in words:
-			if df[category][w]:
-				df[category][w] += 1.0
-			else:
-				df[category][w] = 1.0
+			df[category][w] += 1.0
 	return df
 
-def count_to_probabilty(df):
-	return df.divide(len(df.columns))
+def count_to_probabilty(df,tcd_keys):
+	for c in tcd_keys:
+		df[c].divide(len(tcd_keys))
+	return df
 
 def cosine_similarity(df):
 	cosine = 0.0

@@ -41,6 +41,7 @@ def process_summaries(input_dir):
 #	print(ret['argentina-annot1'])
 	return ret
 
+#####
 
 def train_step(input_dir, model_dir):
 
@@ -54,9 +55,10 @@ def train_step(input_dir, model_dir):
 	#####	STEP 3 : attractions.py		#####
 	attractions = docs_and_entities_to_attractions(docs,entities,model_dir, True)
 
+
 	#attractions = add_descriptions_to_attractions(docs,attractions)
 	#attractions = add_descriptions_to_attractions(docs,entities)
-	attractions = generate_description_model(docs,entities)
+	attractions = generate_description_model(docs,entities,model_dir)
 
 ####################
 
@@ -64,3 +66,4 @@ if __name__ == "__main__":
 	main()
 
 ####################
+
