@@ -37,11 +37,13 @@ def print_to_dot_out(attractions,output_dir):
 		for attraction in attractions[annot]:
 			for doc in attractions[annot][attraction]:
 				filename = output_dir+'/'+annot+'/4-output/'+doc+'.out'
-				try:
-					with writeopen(filename) as outputfile:
-						print(attractions[annot][attraction][doc]['rank'].split('/')[0], attraction, '##'+attractions[annot][attraction][doc]['category'], '%% '+'; '.join(attractions[annot][attraction][doc]['desc']), file=outputfile, sep='\t')
-				except Exception as err:
-					print(err)
+				#omit stuff that's descriptionless lol
+				if len(attractions[annot][attraction][doc]['desc']):
+					try:
+						with writeopen(filename) as outputfile:
+							print(attractions[annot][attraction][doc]['rank'].split('/')[0], attraction, '##'+attractions[annot][attraction][doc]['category'], '%% '+'; '.join(attractions[annot][attraction][doc]['desc']), file=outputfile, sep='\t')
+					except Exception as err:
+						print(err)
 
 #####
 
@@ -57,7 +59,7 @@ def test_step(test_dir,model_dir,output_dir):
 
 	#####	STEP 4 : descriptions.py	#####
 	attractions = add_descriptions_to_attractions(docs,attractions,model_dir)
-	print(attractions['turkmenistan-annot2'])
+	#print(attractions['turkmenistan-annot2'])
 
 	#####	STEP 3 : attractions.py		#####
 	#attractions = docs_and_entities_to_attractions(docs,entities)
