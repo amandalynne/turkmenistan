@@ -29,18 +29,12 @@ category_list = ["amusement park", "aquarium",
 	"waterfall", "viewpoint", "zoo"];
 ####################
 
-def docs_and_entities_to_attractions(docs, entities):
-	training(entities)
+def docs_and_entities_to_attractions(docs, entities,train):
+	if train:
+		training(entities)
+	else:
+		entities = testing(docs)
 	return entities
-	#ret = {}
-
-	#names_and_instances = docs_and_entities_to_instances(docs, entities)
-	#for name in names_and_instances:
-	#	ret[name] = {}
-	#	ret[name]['category'] = instances_to_category(names_and_instances[name])
-	#	ret[name]['instances'] = names_and_instances[name]
-
-	#return ret
 
 #####################
 
@@ -100,6 +94,13 @@ def training(entities):
 	tokens = type_generator(tcd)
 	df = count_to_probabilty(df_filler(initialize_dataframe(tokens, category_list),tcd))
 	df.to_csv('./model-dir/attractions.model', sep='\t')
-	return 'other'
+	return 'Complete'
+
+def testing(entities):
+	tcd = token_list_generator(entities)
+	tokens = type_generator(tcd)
+	df = count_to_probabilty(df_filler(initialize_dataframe(tokens, category_list),tcd))
+	df.to_csv('./model-dir/attractions.model', sep='\t')
+	return
 
 ####################
