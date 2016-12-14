@@ -29,11 +29,11 @@ category_list = ["amusement park", "aquarium",
 	"waterfall", "viewpoint", "zoo"];
 ####################
 
-def docs_and_entities_to_attractions(docs, entities,train):
+def docs_and_entities_to_attractions(docs, entities,model_dir, train):
 	if train:
-		training(entities)
+		entities = training(entities,model_dir)
 	else:
-		entities = testing(docs)
+		entities = testing(entities,model_dir)
 	return entities
 
 #####################
@@ -52,7 +52,6 @@ def token_list_generator(entities):
 	token_category = dict()
 	for annot in entities:
 		for entity in entities[annot]:
-			for description in entities[annot][entity]:
 				for doc in entities[annot][entity]['desc']:
 					entry = entities[annot][entity]['desc'][doc]
 					if "; " in entry[1]:
@@ -71,6 +70,13 @@ def token_list_generator(entities):
 								token_category[entry[1]] = cleaner(entry[0])
 	return token_category
 
+def token_array_generator(entities):
+	docs = dict()
+	for attraction in entities:
+		for description in entities[attraction]['description']:
+				docs[(attraction,description['indices']['annot'],description['indices']['doc'])] = cleaner(description['string'])
+	return docs
+
 def type_generator(tcd):
 	return set([item for sublist in tcd.values() for item in sublist])
 
@@ -86,21 +92,40 @@ def df_filler(df,tcd):
 def count_to_probabilty(df):
 	return df.divide(len(df.columns))
 
+def cosine_similarity(df):
+	cosine = 0.0
+	category = str()
+	for c in df.columns:
+		m = (1 - cosine(df["temp"], df[c]))
+		if m < 0.0:
+			cosine = m
+			category = c
+	return category
+
 #def docs_and_entities_to_instances(docs, entities):
 	#return {'Generic Attraction Name':[{ 'indices':['x',0,0,[0,0]], 'string':'Generic Attraction Name Variant', 'category':'other', 'rank':0 }]}
 
-def training(entities):
+def training(entities,model_dir):
 	tcd = token_list_generator(entities)
 	tokens = type_generator(tcd)
 	df = count_to_probabilty(df_filler(initialize_dataframe(tokens, category_list),tcd))
-	df.to_csv('./model-dir/attractions.model', sep='\t')
-	return 'Complete'
+	df.to_csv(model_dir + 'attractions.model', sep='\t')
+	return entities
 
-def testing(entities):
-	tcd = token_list_generator(entities)
-	tokens = type_generator(tcd)
-	df = count_to_probabilty(df_filler(initialize_dataframe(tokens, category_list),tcd))
-	df.to_csv('./model-dir/attractions.model', sep='\t')
-	return
+def testing(entities,model_dir):
+	doc_dict = token_array_generator(entities)
+	df = pd.read_csv(model_dir + 'attractions.model', sep='\t')
+	tokens = df.keys()
+	cat = len(category)
+	df['temp'] = np.zeros(len(tokens),1)
+	for d in doc_dict:
+		for word in doc_dict[d]:
+			if word in tokens:
+				df['temp'] += 1/cat
+		category = cosine_similarity(df)
+		for instances in entities[d[0]]:
+			if instances['indices']['annot'] == d[1] and instances['indices']['doc'] == d[2]:
+				instances['category'] == category
+	return entities
 
 ####################
