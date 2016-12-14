@@ -80,7 +80,6 @@ def docs_to_named_entities(docs):
                                 ret[annot][entity][doc]['rank'] = rank 
                                 ret[annot][entity][doc]['desc'] = '' 
                                 ret[annot][entity][doc]['category'] = '' 
-        print(ret['ethiopia-annot1'])
         return ret
 
 
