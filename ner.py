@@ -5,11 +5,19 @@ import re
 { 'annot1' : { 'Statue': {'d2' : {'rank' : '9/10', 'desc' : [], 'category': '' } } } }
 """
 
+# If an attraction candidate contains one of these words,
+# it is BOGUS. Take it off the list!
+NONO_WORDS = ['Prev', 'Login']
+
+
 
 ####################
 
 def docs_to_named_entities(docs):
-        grammar = "RANKED: {<CD><DT>*<JJ>*<NNP><NN.*>*<PP>*<NN.*>*}"
+        grammar = """
+                    RANKED: {<CD><DT>*<JJ>*<NNP><NN.*>*<PP>*<NN.*>*}
+                    UNRANKED: {<DT>*<JJ>*<NNP><NN.*>*<PP>*<NN.*>*}
+                    """
         chunker = nltk.RegexpParser(grammar)
         digit_pattern = r'^\d+$'
         ret = {}
@@ -26,7 +34,10 @@ def docs_to_named_entities(docs):
                                                         chunk = [x[0] for x in subtree.leaves()]
                                                         if re.match(digit_pattern, chunk[0]):
                                                                 doc_attractions.append(chunk)
-                        print(annot, doc, doc_attractions)
+                                                elif i == 1 and subtree.label() == 'UNRANKED':
+                                                        if len(subtree.leaves()) > 1:    
+                                                                print(annot, doc, subtree.leaves())
+                        #print(annot, doc, doc_attractions)
                 # ret[annot][entity] = {}
                 # ret[annot][entity][doc] = {}
                 # ret[annot][entity][doc]['rank'] = N 
