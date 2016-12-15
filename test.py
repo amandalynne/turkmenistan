@@ -1,5 +1,6 @@
 
 import sys, os, shutil
+from collections import defaultdict
 from contextlib import contextmanager
 
 from preproc import *
@@ -34,20 +35,25 @@ def print_to_dot_out(attractions,output_dir):
                         os.mkdir(output_dir+'/'+annot)
                 if not os.path.isdir(output_dir+'/'+annot+'/4-output'):
                         os.mkdir(output_dir+'/'+annot+'/4-output')
-                sorted_attrs = []
+                docs = defaultdict(list) 
                 for attraction in attractions[annot]:
                         for doc in attractions[annot][attraction]:
                                 filename = output_dir+'/'+annot+'/4-output/'+doc+'.out'
-                                #omit stuff that's descriptionless lol
                                 if len(attractions[annot][attraction][doc]['desc']):
                                         try:
-                                                sorted_attrs.append([int(attractions[annot][attraction][doc]['rank'].split('/')[0]), attraction, '##'+attractions[annot][attraction][doc]['category'], '%% '+'; '.join(attractions[annot][attraction][doc]['desc']), filename])
-                                                sorted_attrs.sort(key=lambda x:x[0])
+                                                docs[doc].append([int(attractions[annot][attraction][doc]['rank'].split('/')[0]), attraction, '##'+attractions[annot][attraction][doc]['category'], '%% '+'; '.join(attractions[annot][attraction][doc]['desc']), filename])
                                         except Exception as err:
-                                                print(err)
-                for rank, attr, cat, desc, filename in sorted_attrs:
-                        with writeopen(filename) as outputfile:
-                                print(rank, attr, cat, desc, file=outputfile, sep='\t')
+                                                docs[doc].append([0, attraction, '##'+attractions[annot][attraction][doc]['category'], '%% '+'; '.join(attractions[annot][attraction][doc]['desc']), filename])
+
+                for doc, info in docs.items():
+                        info.sort(key=lambda x:x[0])
+                        # reassign rank so it's in order / from 1 to N with no overlaps
+                        # enumerate won't work for some reason
+                        rank = 1
+                        for index, attr, cat, desc, filename in info:
+                                    with writeopen(filename) as outputfile:
+                                            print(rank, attr, cat, desc, file=outputfile, sep='\t')
+                                            rank +=1
 
 #####
 
