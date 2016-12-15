@@ -53,6 +53,7 @@ def docs_to_named_entities(docs):
                                 for j, sent in enumerate(line):
                                         tree = chunker.parse(sent['pos'])
                                         for subtree in tree.subtrees():
+                                                    chunk = ''
                                                     if subtree.label() == 'RANKED':
                                                             chunk = [x[0] for x in subtree.leaves()]
                                                             if re.match(digit_pattern, chunk[0]):
@@ -67,13 +68,12 @@ def docs_to_named_entities(docs):
                                                                     chunk = [x[0] for x in subtree.leaves()]
                                                                     chunk.insert(0, '0') 
                                                                     chunks.append(chunk)
-                                        for chunk in chunks:
-                                                entity = ' '.join(chunk[1:])
-                                                ret[annot][entity] = {}
-                                                ret[annot][entity][doc] = {}
-                                                ret[annot][entity][doc]['instances'] = {}
-                                                ret[annot][entity][doc]['instances']['line'] = i
-                                                ret[annot][entity][doc]['instances']['sent'] = j 
+                                                    entity = ' '.join(chunk[1:])
+                                                    ret[annot][entity] = {}
+                                                    ret[annot][entity][doc] = {}
+                                                    ret[annot][entity][doc]['instances'] = {}
+                                                    ret[annot][entity][doc]['instances']['line'] = i
+                                                    ret[annot][entity][doc]['instances']['sent'] = j 
                         #print(annot, doc, postprocess_attr_list(doc_attractions))
                         attractions = postprocess_attr_list(chunks)
                         for attr in attractions:
